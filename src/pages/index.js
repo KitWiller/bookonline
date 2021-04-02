@@ -116,7 +116,9 @@ export default function Home() {
     }
 	return (
 		<Layout>
-			<div className="text-red-500 bg-white">
+			
+            <div className="flex flex-wrap -mx-1 overflow-hidden"> 
+                <div className="my-1 px-1 overflow-hidden w-full lg:1/6 xl:1/6">
 				
 				<BookBox 
                 image={props.image}     //invio dei dati al bookbox da costruire
@@ -128,8 +130,9 @@ export default function Home() {
                 prices={props.prices}
 				/>
 				
-			</div>
-
+			    </div>
+                <div className="my-1 px-1 overflow-hidden w-full lg:5/6 xl:5/6 bg-red-500"> Descrizione  </div>
+            </div>    
 		</Layout>
 	)
 }
