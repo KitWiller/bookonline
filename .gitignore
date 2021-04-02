@@ -72,7 +72,6 @@ htmlgrab
 testJson
 
 # Parti da non caricare per il momento
-src/components
 
 src/pages/404.js
 src/pages/about.js
