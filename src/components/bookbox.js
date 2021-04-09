@@ -1,16 +1,24 @@
 
 import React from 'react'
+import Reader from "../components/reader"
 import Immagine from './immagine'
 
 const BookBox = props => {   //costruzione componente + ricezione dati da index
     return (
-        <div>
-            {props.title}  <br />
-            <div> {getRating(props.rating) }  </div> <br />  
-            {props.price}   <br />
-            <ul>{getFormat(props.format)}</ul>                           
-            <Immagine image={props.image} alt={props.alt} />
-            {getPrices(props.prices, props.price) }
+        <div className="px-8" >
+        
+            <Immagine image={props.image} alt={props.alt} scss="mx-7 -my-12 " />
+  
+            
+             <div> <span className="font-extrabold">Rating : </span> {getRating(props.rating)}  </div> 
+             <div> <span className="font-extrabold"> Lowest Price : </span>  {props.price}   </div>
+            
+            <div> <span className="font-extrabold">Formats : </span> </div>
+            <Reader  
+            lista = {props.format}
+            prefix = "format" />                         
+            
+            <div> <span className="font-extrabold"> More sellers: </span> {getPrices(props.prices, props.price, "font-extrabold") } </div>
         </div>)
                                                                     // ul unordered list elenco puntato
 }
@@ -60,18 +68,22 @@ function getFormat(format){
   return objReturn
 } 
 
-function getPrices(prezzi, lowest){
+function getPrices(prezzi, lowest, pcss){
     let objReturn = []
    
     let i = 0
     let lcss = ""
-
+    
     prezzi.forEach(prezzo => {                              
         if(lowest === prezzo.price) {                   //se il prezzo più basso === variabile price (prezzo più basso)
-            lcss = "bg-red-600 text-white"              //sfondo rosso solo per il prezzo più basso
+            lcss = pcss + " bg-red-600 text-white"              //sfondo rosso solo per il prezzo più basso
         } else {
-            lcss = ""
+            lcss = pcss
         } 
+
+    
+       
+            
         
 
  
