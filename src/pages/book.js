@@ -4,6 +4,7 @@ import BookBox from "../components/bookbox"
 import Reader from "../components/reader"
 
 
+
 export default function Home() {
 	let props =  {
         "title": "linux all-in-one for dummies, 6th edition",
@@ -77,34 +78,52 @@ export default function Home() {
                     prices={props.prices}
                     img={props.img}
                     />
-
-
-
-
-
                 </div>
 
 
                 <div className="w-full overflow-hidden lg:my-1 lg:px-1 lg:w-2/3 bg-yellow-400">
-                    Contenuto
+                   <div> Titolo : {props.title} </div> 
+                    {getSub(props.subtitle, "italic bg-red-600")}
+                    <div> {getIsbn(props.isbn13, props.isbn10) }</div>
+                    <div> Author : {props.author }</div>
+                    <div> Year : {props.year }</div>
+                    <div> Pages : {props.pages }</div>
+                    <div className= "pr-2 float-left">Categories :</div>
+                    <Reader
+                    lista = {props.categories}
+                    prefix = "categories"
+                    css = "inline-block pr-2" />
+                    <div className= "pr-2 float-left">Description : </div> 
+                    <div> {props.description} </div> 
+                    
                 </div>
             
-            
-            
-            
-            
-            
-            
-            
             </div>
-
-
-
-
-              
+  
 		</Layout>
 	)
+    function getSub(subtitle, css) {                   //funzione se esiste il sottotitolo visualizzalo altrimenti ""
+        let objReturn = ""
+
+        if (subtitle !== "" ) {
+            objReturn = <div className= {css}> Sottotitolo : {subtitle} </div>
+        }
+    
+        return objReturn
+    }
+
+    function getIsbn(isbn13, isbn10){                  //funzione se isbn13 non è vuoto ritorna isbn13 altrimenti ritorna 1sbn10
+        let objReturn = isbn13
+        if (isbn13 === "" ) {
+            objReturn = isbn10
+        } 
+
+     return (<div> ISBN : {objReturn} </div>)
+    }
+   
 }
+
+
 /* 
 
 
@@ -165,6 +184,5 @@ export default function Home() {
             </div>  
 
 */
-
 
 

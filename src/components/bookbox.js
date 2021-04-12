@@ -2,6 +2,7 @@
 import React from 'react'
 import Reader from "../components/reader"
 import Immagine from './immagine'
+import PriceAll from './prezzi'
 
 const BookBox = props => {   //costruzione componente + ricezione dati da index
     return (
@@ -18,7 +19,15 @@ const BookBox = props => {   //costruzione componente + ricezione dati da index
             lista = {props.format}
             prefix = "format" />                         
             
-            <div> <span className="font-extrabold"> More sellers: </span> {getPrices(props.prices, props.price, "font-extrabold") } </div>
+             <div>
+                <span className="font-extrabold"> More sellers: </span> 
+                <PriceAll 
+                prices = {props.prices}
+                price = {props.price}
+                pcss = "font-extrabold"
+                />
+            </div>
+
         </div>)
                                                                     // ul unordered list elenco puntato
 }
