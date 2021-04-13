@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import BookBox from "../components/bookbox"
 import Reader from "../components/reader"
-import upBold from "../components/upperbold"
+import UpBold from "../components/upperbold"
 
 
 export default function Home() {
@@ -85,7 +85,7 @@ export default function Home() {
                    <div className="font-bold text-3xl capitalize text-center"> {props.title} </div> 
                     {getSub(props.subtitle, "italic capitalize text-lg font-bold")}
                     <div> {getIsbn(props.isbn13, props.isbn10) }</div>
-                    <upBold 
+                    <UpBold 
                     tagnome = {props.author} />
                     <div> Year : {props.year }</div>
                     <div> Pages : {props.pages }</div>
