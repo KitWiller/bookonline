@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import BookBox from "../components/bookbox"
 import Reader from "../components/reader"
-
+import upBold from "../components/upperbold"
 
 
 export default function Home() {
@@ -80,19 +80,24 @@ export default function Home() {
                     />
                 </div>
 
-
-                <div className="w-full overflow-hidden lg:my-1 lg:px-1 lg:w-2/3 bg-yellow-400">
-                   <div> Titolo : {props.title} </div> 
-                    {getSub(props.subtitle, "italic bg-red-600")}
+              
+                <div className="w-full overflow-hidden lg:my-1 lg:px-1 lg:w-2/3 bg-yellow-400 ">
+                   <div className="font-bold text-3xl capitalize text-center"> {props.title} </div> 
+                    {getSub(props.subtitle, "italic capitalize text-lg font-bold")}
                     <div> {getIsbn(props.isbn13, props.isbn10) }</div>
-                    <div> Author : {props.author }</div>
+                    <upBold 
+                    tagnome = {props.author} />
                     <div> Year : {props.year }</div>
                     <div> Pages : {props.pages }</div>
-                    <div className= "pr-2 float-left">Categories :</div>
-                    <Reader
-                    lista = {props.categories}
-                    prefix = "categories"
-                    css = "inline-block pr-2" />
+                    <div className="py-2">
+                        <div className= "pr-2 float-left">Categories :</div>
+                        <Reader 
+                        lista = {props.categories}
+                        prefix = "categories"
+                        css = "inline-block pr-2" 
+                        isLink = {true}
+                        mainPath = "categories" /> 
+                    </div>
                     <div className= "pr-2 float-left">Description : </div> 
                     <div> {props.description} </div> 
                     
@@ -106,7 +111,10 @@ export default function Home() {
         let objReturn = ""
 
         if (subtitle !== "" ) {
-            objReturn = <div className= {css}> Sottotitolo : {subtitle} </div>
+            objReturn = <div > 
+                <span className={css}>Sottotitolo: </span>
+                {subtitle} 
+            </div> 
         }
     
         return objReturn
