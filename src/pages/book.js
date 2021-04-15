@@ -84,7 +84,7 @@ export default function Home() {
                 <div className="w-full overflow-hidden lg:my-1 lg:px-1 lg:w-2/3 bg-yellow-400 ">
                    <div className="font-bold text-3xl capitalize text-center"> {props.title} </div> 
                     {getSub(props.subtitle, "italic capitalize text-lg font-bold")}
-                    <UpBold tagName = "ISBN: " tagValue = {props.isbn10} />
+                    <UpBold tagName = "ISBN: " tagValue = {getIsbn(props.isbn13, props.isbn10)} />
                     <UpBold tagName = "Autore: " tagValue = {props.author} />
                     <UpBold tagName = "Anno: " tagValue = {props.year} />
                     <UpBold tagName = "Pagine: " tagValue = {props.pages} />
