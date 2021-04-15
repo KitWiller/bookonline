@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import BookBox from "../components/bookbox"
 import Reader from "../components/reader"
-import upBold from "../components/upperbold"
+import UpBold from "../components/upperbold"
 
 
 export default function Home() {
@@ -84,22 +84,38 @@ export default function Home() {
                 <div className="w-full overflow-hidden lg:my-1 lg:px-1 lg:w-2/3 bg-yellow-400 ">
                    <div className="font-bold text-3xl capitalize text-center"> {props.title} </div> 
                     {getSub(props.subtitle, "italic capitalize text-lg font-bold")}
-                    <div> {getIsbn(props.isbn13, props.isbn10) }</div>
-                    <upBold 
-                    tagnome = {props.author} />
-                    <div> Year : {props.year }</div>
-                    <div> Pages : {props.pages }</div>
-                    <div className="py-2">
-                        <div className= "pr-2 float-left">Categories :</div>
-                        <Reader 
+                    
+                    <UpBold 
+                    tagnome = "ISBN: "
+                    tagvalue= {getIsbn(props.isbn13, props.isbn10) }/>
+                    
+                    <UpBold 
+                    tagnome = "Autori: " 
+                    tagvalue = {props.author} />
+                    
+                    <UpBold
+                    tagnome = "Year :" 
+                    tagvalue = {props.year } />
+
+                    <UpBold
+                    tagnome = "Categories :" > 
+                     <Reader 
                         lista = {props.categories}
                         prefix = "categories"
-                        css = "inline-block pr-2" 
+                        css = "" 
                         isLink = {true}
                         mainPath = "categories" /> 
-                    </div>
-                    <div className= "pr-2 float-left">Description : </div> 
-                    <div> {props.description} </div> 
+                    </UpBold>
+                    
+                    <UpBold
+                    tagnome = "Pages :" tagvalue = {props.pages }/>
+
+                   
+                    
+                    
+                    <UpBold 
+                    tagnome = "Description: "
+                    tagvalue = {props.description} />
                     
                 </div>
             
@@ -126,7 +142,7 @@ export default function Home() {
             objReturn = isbn10
         } 
 
-     return (<div> ISBN : {objReturn} </div>)
+     return (<span> {objReturn} </span>)
     }
    
 }
@@ -190,6 +206,19 @@ export default function Home() {
 			    </div>
                 <div className="my-1 px-1 overflow-hidden w-full lg:5/6 xl:5/6 text-white bg-blue-500"> Description : + {props.description}  </div>
             </div>  
+
+
+
+
+             <div className="py-2">
+                        <div className= "pr-2 float-left">Categories :</div>
+                        <Reader 
+                        lista = {props.categories}
+                        prefix = "categories"
+                        css = "inline-block pr-2" 
+                        isLink = {true}
+                        mainPath = "categories" /> 
+                    </div>
 
 */
 

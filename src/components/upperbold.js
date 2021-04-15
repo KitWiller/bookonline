@@ -1,8 +1,22 @@
 import React from 'react'
-
-const upBold = props => {
+const UpBold = ({ tagnome, tagvalue, children }) => {
+//const UpBold = props => {
     return (
-        <span className="font-bold text-lg">{props.tagnome}</span>
+    <div>
+        <span className={getCss(children)}> {tagnome} </span>
+        <span> {tagvalue} </span> 
+        {children} 
+    </div>
     )
+
+    function getCss(children){
+        let cssreturn = "font-bold text-lg"
+
+        if (children ) {
+            cssreturn += " pr-2 float-left"
+        }
+
+        return cssreturn
+    }
 }
-export default upBold
+export default UpBold
