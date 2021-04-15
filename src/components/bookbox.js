@@ -6,26 +6,29 @@ import PriceAll from './prezzi'
 
 const BookBox = props => {   //costruzione componente + ricezione dati da index
     return (
-        <div className="px-8" >
+        <div className="flex flex-col items-center" >
         
-            <Immagine image={props.image} alt={props.alt} scss="mx-7 -my-12 " />
+            <Immagine image={props.image} alt={props.alt} scss="-mx-20 -my-10 " />
+
+            <div className="items-left">
   
-            
-             <div> <span className="font-extrabold">Rating : </span> {getRating(props.rating)}  </div> 
-             <div> <span className="font-extrabold"> Lowest Price : </span>  {props.price}   </div>
-            
-            <div> <span className="font-extrabold">Formats : </span> </div>
-            <Reader  
-            lista = {props.format}
-            prefix = "format" />                         
-            
-             <div>
-                <span className="font-extrabold"> More sellers: </span> 
-                <PriceAll 
-                prices = {props.prices}
-                price = {props.price}
-                pcss = "font-extrabold"
-                />
+                <div> <span className="font-extrabold">Rating : </span> {getRating(props.rating)}  </div> 
+                <div> <span className="font-extrabold"> Lowest Price : </span>  {props.price}   </div>
+                
+                <div> <span className="font-extrabold">Formats : </span> </div>
+                <Reader  
+                lista = {props.format}
+                prefix = "format" />                         
+                
+                <div>
+                    <span className="font-extrabold"> More sellers: </span> 
+                    <PriceAll 
+                    prices = {props.prices}
+                    price = {props.price}
+                    pcss = "font-extrabold"
+                    />
+                </div>
+
             </div>
 
         </div>)
