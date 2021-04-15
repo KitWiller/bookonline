@@ -96,8 +96,7 @@ export default function Home() {
                         isLink = {true}
                         mainPath = "categories" /> 
                     </UpBold>
-                    <div className= "pr-2 float-left">Description : </div> 
-                    <div> {props.description} </div> 
+                    <UpBold tagName = "Description: " tagValue = {props.description} />
                     
                 </div>
             
