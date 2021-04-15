@@ -57,7 +57,7 @@ function getRating(rating) {                                           //costruz
 
 }
 
-
+/*
 function getFormat(format){                                         
     let objReturn= []
 
@@ -105,12 +105,13 @@ function getPrices(prezzi, lowest, pcss){
         
         /*console.log(prezzo.store + i.toString())
         console.log(prezzo.price)
-        console.log()*/
+        console.log()
         i++
     })
 
     return objReturn
-}                        
+}  
+*/                      
 
 export default BookBox
 

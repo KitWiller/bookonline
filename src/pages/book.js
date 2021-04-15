@@ -84,20 +84,18 @@ export default function Home() {
                 <div className="w-full overflow-hidden lg:my-1 lg:px-1 lg:w-2/3 bg-yellow-400 ">
                    <div className="font-bold text-3xl capitalize text-center"> {props.title} </div> 
                     {getSub(props.subtitle, "italic capitalize text-lg font-bold")}
-                    <div> {getIsbn(props.isbn13, props.isbn10) }</div>
-                    <UpBold 
-                    tagnome = {props.author} />
-                    <div> Year : {props.year }</div>
-                    <div> Pages : {props.pages }</div>
-                    <div className="py-2">
-                        <div className= "pr-2 float-left">Categories :</div>
+                    <UpBold tagName = "ISBN: " tagValue = {props.isbn10} />
+                    <UpBold tagName = "Autore: " tagValue = {props.author} />
+                    <UpBold tagName = "Anno: " tagValue = {props.year} />
+                    <UpBold tagName = "Pagine: " tagValue = {props.pages} />
+                    <UpBold tagName = "Categories: ">
                         <Reader 
                         lista = {props.categories}
                         prefix = "categories"
                         css = "inline-block pr-2" 
                         isLink = {true}
                         mainPath = "categories" /> 
-                    </div>
+                    </UpBold>
                     <div className= "pr-2 float-left">Description : </div> 
                     <div> {props.description} </div> 
                     
