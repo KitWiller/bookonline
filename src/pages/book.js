@@ -84,38 +84,20 @@ export default function Home() {
                 <div className="w-full overflow-hidden lg:my-1 lg:px-1 lg:w-2/3 bg-yellow-400 ">
                    <div className="font-bold text-3xl capitalize text-center"> {props.title} </div> 
                     {getSub(props.subtitle, "italic capitalize text-lg font-bold")}
-                    
-                    <UpBold 
-                    tagnome = "ISBN: "
-                    tagvalue= {getIsbn(props.isbn13, props.isbn10) }/>
-                    
-                    <UpBold 
-                    tagnome = "Autori: " 
-                    tagvalue = {props.author} />
-                    
-                    <UpBold
-                    tagnome = "Year :" 
-                    tagvalue = {props.year } />
-
-                    <UpBold
-                    tagnome = "Categories :" > 
-                     <Reader 
+                    <UpBold tagName = "ISBN: " tagValue = {props.isbn10} />
+                    <UpBold tagName = "Autore: " tagValue = {props.author} />
+                    <UpBold tagName = "Anno: " tagValue = {props.year} />
+                    <UpBold tagName = "Pagine: " tagValue = {props.pages} />
+                    <UpBold tagName = "Categories: ">
+                        <Reader 
                         lista = {props.categories}
                         prefix = "categories"
-                        css = "" 
+                        css = "inline-block pr-2" 
                         isLink = {true}
                         mainPath = "categories" /> 
                     </UpBold>
-                    
-                    <UpBold
-                    tagnome = "Pages :" tagvalue = {props.pages }/>
-
-                   
-                    
-                    
-                    <UpBold 
-                    tagnome = "Description: "
-                    tagvalue = {props.description} />
+                    <div className= "pr-2 float-left">Description : </div> 
+                    <div> {props.description} </div> 
                     
                 </div>
             
