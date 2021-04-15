@@ -1,10 +1,13 @@
-import React from 'react'
-const UpBold = ({ tagName, tagValue, children }) => {
-    return (
-        <div>
-            <span className="font-bold text-lg">{tagName}</span>
+import React from 'react'                              
+const UpBold = ({ tagName, tagValue, children }) => {                                   //creazione costante componente testo grassetto e large
+    return (                                                                            //div che contiene span per non andare a capo
+        <div>                                                                           {/* tagname con font modificato tagvalue no */}
+
+            <span className="font-bold text-lg">{tagName}</span>                         
             <span>{tagValue}</span>
-            {children}
+            {children}                                                                   {/* children usato per qualsiasi oggetto che non sia una stringa */}
+                                                                                        {/* <UpBold> tutto quello che c'è dentro = children </UpBold> */}
+
         </div>
     )
 }
