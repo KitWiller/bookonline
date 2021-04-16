@@ -1,0 +1,165 @@
+{
+    "path": "/books/9781849685726",
+    "location": {
+        "pathname": "/books/9781849685726",
+        "search": "",
+        "hash": "",
+        "href": "http://localhost:8000/books/9781849685726",
+        "origin": "http://localhost:8000",
+        "protocol": "http:",
+        "host": "localhost:8000",
+        "hostname": "localhost",
+        "port": "8000",
+        "state": {
+            "key": "1618578514493"
+        },
+        "key": "1618578514493"
+    },
+    "pageResources": {
+        "json": {
+            "pageContext": {
+                "author": [
+                    "arun poduval"
+                ],
+                "categories": [
+                    "business",
+                    "soa"
+                ],
+                "description": "service oriented architecture (soa) remains a buzzword in the business and it community, largely because the ability to react quickly is of utmost importance. soa can be the key solution to this. the challenge lies in the tricky task of integrating all the applications in a business through a service oriented architecture, and \"do more with soa integration: best of packt\" will help you do just that with content from a total of eight separate packt books.",
+                "format": [
+                    "paper book",
+                    "ebook (pdf)",
+                    "ebook",
+                    "hardcover",
+                    "paperback"
+                ],
+                "image": "https://itbook.store/img/books/9781849685726.png",
+                "img": {
+                    "childImageSharp": {
+                        "gatsbyImageData": {
+                            "layout": "constrained",
+                            "backgroundColor": "#f8f8f8",
+                            "images": {
+                                "fallback": {
+                                    "src": "/static/a5955a0c666db4f97ad7a2d39fc17954/d7970/9781849685726.png",
+                                    "srcSet": "/static/a5955a0c666db4f97ad7a2d39fc17954/58417/9781849685726.png 75w,\n/static/a5955a0c666db4f97ad7a2d39fc17954/c728a/9781849685726.png 150w,\n/static/a5955a0c666db4f97ad7a2d39fc17954/d7970/9781849685726.png 300w",
+                                    "sizes": "(min-width: 300px) 300px, 100vw"
+                                },
+                                "sources": [
+                                    {
+                                        "srcSet": "/static/a5955a0c666db4f97ad7a2d39fc17954/7d722/9781849685726.webp 75w,\n/static/a5955a0c666db4f97ad7a2d39fc17954/3c76e/9781849685726.webp 150w,\n/static/a5955a0c666db4f97ad7a2d39fc17954/a825e/9781849685726.webp 300w",
+                                        "type": "image/webp",
+                                        "sizes": "(min-width: 300px) 300px, 100vw"
+                                    }
+                                ]
+                            },
+                            "width": 400,
+                            "height": 466.6666666666667
+                        }
+                    }
+                },
+                "isbn10": "184968572x",
+                "isbn13": "9781849685726",
+                "lang": "english",
+                "pages": "702",
+                "price": "$19.99",
+                "prices": [
+                    {
+                        "price": "$49.99",
+                        "store": "amazon"
+                    },
+                    {
+                        "price": "$49.99",
+                        "store": "ebay"
+                    },
+                    {
+                        "price": "$19.99",
+                        "store": "ebooks.com"
+                    }
+                ],
+                "publisher": "packt publishing",
+                "rating": 0,
+                "subtitle": "integrate, automate, and regulate your business processes with the best of packt's soa books",
+                "title": "do more with soa integration: best of packt",
+                "url": "https://itbook.store/books/9781849685726",
+                "year": "2011"
+            }
+        },
+        "page": {
+            "componentChunkName": "component---src-templates-book-js",
+            "path": "/books/9781849685726",
+            "webpackCompilationHash": "123",
+            "staticQueryHashes": []
+        },
+        "staticQueryResults": {}
+    },
+    "uri": "/books/9781849685726",
+    "pageContext": {
+        "author": [
+            "arun poduval"
+        ],
+        "categories": [
+            "business",
+            "soa"
+        ],
+        "description": "service oriented architecture (soa) remains a buzzword in the business and it community, largely because the ability to react quickly is of utmost importance. soa can be the key solution to this. the challenge lies in the tricky task of integrating all the applications in a business through a service oriented architecture, and \"do more with soa integration: best of packt\" will help you do just that with content from a total of eight separate packt books.",
+        "format": [
+            "paper book",
+            "ebook (pdf)",
+            "ebook",
+            "hardcover",
+            "paperback"
+        ],
+        "image": "https://itbook.store/img/books/9781849685726.png",
+        "img": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/a5955a0c666db4f97ad7a2d39fc17954/d7970/9781849685726.png",
+                            "srcSet": "/static/a5955a0c666db4f97ad7a2d39fc17954/58417/9781849685726.png 75w,\n/static/a5955a0c666db4f97ad7a2d39fc17954/c728a/9781849685726.png 150w,\n/static/a5955a0c666db4f97ad7a2d39fc17954/d7970/9781849685726.png 300w",
+                            "sizes": "(min-width: 300px) 300px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/a5955a0c666db4f97ad7a2d39fc17954/7d722/9781849685726.webp 75w,\n/static/a5955a0c666db4f97ad7a2d39fc17954/3c76e/9781849685726.webp 150w,\n/static/a5955a0c666db4f97ad7a2d39fc17954/a825e/9781849685726.webp 300w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 300px) 300px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 400,
+                    "height": 466.6666666666667
+                }
+            }
+        },
+        "isbn10": "184968572x",
+        "isbn13": "9781849685726",
+        "lang": "english",
+        "pages": "702",
+        "price": "$19.99",
+        "prices": [
+            {
+                "price": "$49.99",
+                "store": "amazon"
+            },
+            {
+                "price": "$49.99",
+                "store": "ebay"
+            },
+            {
+                "price": "$19.99",
+                "store": "ebooks.com"
+            }
+        ],
+        "publisher": "packt publishing",
+        "rating": 0,
+        "subtitle": "integrate, automate, and regulate your business processes with the best of packt's soa books",
+        "title": "do more with soa integration: best of packt",
+        "url": "https://itbook.store/books/9781849685726",
+        "year": "2011"
+    },
+    "params": {}
+}
