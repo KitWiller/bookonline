@@ -10,7 +10,7 @@ const BookBox = props => {   //costruzione componente + ricezione dati da index
         
             <Immagine image={props.image} alt={props.alt} scss="-mx-20 -my-10" />
 
-            <div className="items-left">
+            <div className="items-left ">
   
                 <div> <span className="font-extrabold">Rating : </span> {getRating(props.rating)}  </div> 
                 <div> <span className="font-extrabold"> Lowest Price : </span>  {props.price}   </div>
