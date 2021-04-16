@@ -2,7 +2,7 @@ import React from "react"
 import { StaticQuery, graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import StarRating from "../components/starrating"
-
+import Immagine from "../components/immagine"
 
 const Home = props => (
   <StaticQuery
@@ -57,7 +57,9 @@ function nodeView(nodi){                                                   //fun
         title={"link to " + libro.title }>
         {libro.title}
         <StarRating rating = {libro.rating} />
+        {libro.price}
         </Link>
+        
        
        
        
