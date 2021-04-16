@@ -1,0 +1,3302 @@
+[
+    {
+        "node": {
+            "title": "linux all-in-one for dummies, 6th edition",
+            "isbn10": "1119490464",
+            "isbn13": "9781119490463",
+            "image": "https://itbook.store/img/books/9781119490463.png",
+            "rating": 4,
+            "price": "$23.82"
+        }
+    },
+    {
+        "node": {
+            "title": "do more with soa integration: best of packt",
+            "isbn10": "184968572x",
+            "isbn13": "9781849685726",
+            "image": "https://itbook.store/img/books/9781849685726.png",
+            "rating": 0,
+            "price": "$19.99"
+        }
+    },
+    {
+        "node": {
+            "title": "fundamentals of c++ programming",
+            "isbn10": null,
+            "isbn13": "1001590483252",
+            "image": "https://itbook.store/img/books/1001590483252.png",
+            "rating": 0,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "fundamentals of python programming",
+            "isbn10": null,
+            "isbn13": "1001590485785",
+            "image": "https://itbook.store/img/books/1001590485785.png",
+            "rating": 0,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "the little go book",
+            "isbn10": null,
+            "isbn13": "1001592396172",
+            "image": "https://itbook.store/img/books/1001592396172.png",
+            "rating": 0,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "the coder's apprentice",
+            "isbn10": null,
+            "isbn13": "1001606308037",
+            "image": "https://itbook.store/img/books/1001606308037.png",
+            "rating": 0,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "a practical introduction to python programming",
+            "isbn10": null,
+            "isbn13": "1001616146013",
+            "image": "https://itbook.store/img/books/1001616146013.png",
+            "rating": 0,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "introduction to design patterns in c++ with qt, 2/e",
+            "isbn10": "0132826453",
+            "isbn13": "9780132826457",
+            "image": "https://itbook.store/img/books/9780132826457.png",
+            "rating": 4,
+            "price": "$13.20"
+        }
+    },
+    {
+        "node": {
+            "title": "essential c# 6.0, 5th edition",
+            "isbn10": "0134141040",
+            "isbn13": "9780134141046",
+            "image": "https://itbook.store/img/books/9780134141046.png",
+            "rating": 4,
+            "price": "$5.98"
+        }
+    },
+    {
+        "node": {
+            "title": "the pragmatic programmer, 20th anniversary edition",
+            "isbn10": "0135957052",
+            "isbn13": "9780135957059",
+            "image": "https://itbook.store/img/books/9780135957059.png",
+            "rating": 4,
+            "price": "$31.99"
+        }
+    },
+    {
+        "node": {
+            "title": "history of programming languages",
+            "isbn10": "0201895021",
+            "isbn13": "9780201895025",
+            "image": "https://itbook.store/img/books/9780201895025.png",
+            "rating": 5,
+            "price": "$40.94"
+        }
+    },
+    {
+        "node": {
+            "title": "algorithms, 4th edition",
+            "isbn10": "032157351x",
+            "isbn13": "9780321573513",
+            "image": "https://itbook.store/img/books/9780321573513.png",
+            "rating": 4,
+            "price": "$55.49"
+        }
+    },
+    {
+        "node": {
+            "title": "the developer's guide to social programming",
+            "isbn10": "0321680774",
+            "isbn13": "9780321680778",
+            "image": "https://itbook.store/img/books/9780321680778.png",
+            "rating": 4,
+            "price": "$3.74"
+        }
+    },
+    {
+        "node": {
+            "title": "c++ primer, 5th edition",
+            "isbn10": "0321714113",
+            "isbn13": "9780321714114",
+            "image": "https://itbook.store/img/books/9780321714114.png",
+            "rating": 4,
+            "price": "$43.49"
+        }
+    },
+    {
+        "node": {
+            "title": "executable specifications with scrum",
+            "isbn10": "0321784138",
+            "isbn13": "9780321784131",
+            "image": "https://itbook.store/img/books/9780321784131.png",
+            "rating": 3,
+            "price": "$27.99"
+        }
+    },
+    {
+        "node": {
+            "title": "a game design vocabulary",
+            "isbn10": "0321886925",
+            "isbn13": "9780321886927",
+            "image": "https://itbook.store/img/books/9780321886927.png",
+            "rating": 4,
+            "price": "$11.80"
+        }
+    },
+    {
+        "node": {
+            "title": "learning core data for ios",
+            "isbn10": "0321905768",
+            "isbn13": "9780321905765",
+            "image": "https://itbook.store/img/books/9780321905765.png",
+            "rating": 4,
+            "price": "$3.72"
+        }
+    },
+    {
+        "node": {
+            "title": "peopleware, 3rd edition",
+            "isbn10": "0321934113",
+            "isbn13": "9780321934116",
+            "image": "https://itbook.store/img/books/9780321934116.png",
+            "rating": 4,
+            "price": "$30.99"
+        }
+    },
+    {
+        "node": {
+            "title": "podcasting bible",
+            "isbn10": "0470043520",
+            "isbn13": "9780470043523",
+            "image": "https://itbook.store/img/books/9780470043523.png",
+            "rating": 4,
+            "price": "$2.50"
+        }
+    },
+    {
+        "node": {
+            "title": "python",
+            "isbn10": "0470259329",
+            "isbn13": "9780470259320",
+            "image": "https://itbook.store/img/books/9780470259320.png",
+            "rating": 3,
+            "price": "$3.74"
+        }
+    },
+    {
+        "node": {
+            "title": "beginning programming with java for dummies, 3rd edition",
+            "isbn10": "0470371749",
+            "isbn13": "9780470371749",
+            "image": "https://itbook.store/img/books/9780470371749.png",
+            "rating": 4,
+            "price": "$4.13"
+        }
+    },
+    {
+        "node": {
+            "title": "solidworks 2009 bible",
+            "isbn10": "0470480483",
+            "isbn13": "9780470480489",
+            "image": "https://itbook.store/img/books/9780470480489.png",
+            "rating": 5,
+            "price": "$32.99"
+        }
+    },
+    {
+        "node": {
+            "title": "typepad for dummies",
+            "isbn10": "0470550945",
+            "isbn13": "9780470550946",
+            "image": "https://itbook.store/img/books/9780470550946.png",
+            "rating": 3,
+            "price": "$3.99"
+        }
+    },
+    {
+        "node": {
+            "title": "c# 4, asp.net 4, and wpf, with visual studio 2010 jump start",
+            "isbn10": "0470770341",
+            "isbn13": "9780470770344",
+            "image": "https://itbook.store/img/books/9780470770344.png",
+            "rating": 0,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "unix for oracle dbas pocket reference",
+            "isbn10": "0596000669",
+            "isbn13": "9780596000660",
+            "image": "https://itbook.store/img/books/9780596000660.png",
+            "rating": 4,
+            "price": "$7.99"
+        }
+    },
+    {
+        "node": {
+            "title": "oracle dba checklists pocket reference",
+            "isbn10": "0596001223",
+            "isbn13": "9780596001223",
+            "image": "https://itbook.store/img/books/9780596001223.png",
+            "rating": 3,
+            "price": "$3.80"
+        }
+    },
+    {
+        "node": {
+            "title": "perl and xml",
+            "isbn10": "059600205x",
+            "isbn13": "9780596002053",
+            "image": "https://itbook.store/img/books/9780596002053.png",
+            "rating": 3,
+            "price": "$26.19"
+        }
+    },
+    {
+        "node": {
+            "title": "ruby in a nutshell",
+            "isbn10": "0596002149",
+            "isbn13": "9780596002145",
+            "image": "https://itbook.store/img/books/9780596002145.png",
+            "rating": 3,
+            "price": "$7.98"
+        }
+    },
+    {
+        "node": {
+            "title": "understanding linux network internals",
+            "isbn10": "0596002556",
+            "isbn13": "9780596002558",
+            "image": "https://itbook.store/img/books/9780596002558.png",
+            "rating": 4,
+            "price": "$12.56"
+        }
+    },
+    {
+        "node": {
+            "title": "c++ in a nutshell",
+            "isbn10": "059600298x",
+            "isbn13": "9780596002985",
+            "image": "https://itbook.store/img/books/9780596002985.png",
+            "rating": 4,
+            "price": "$4.96"
+        }
+    },
+    {
+        "node": {
+            "title": "actionscript for flash mx: the definitive guide, 2nd edition",
+            "isbn10": "059600396x",
+            "isbn13": "9780596003968",
+            "image": "https://itbook.store/img/books/9780596003968.png",
+            "rating": 0,
+            "price": "$9.50"
+        }
+    },
+    {
+        "node": {
+            "title": "c++ pocket reference",
+            "isbn10": "0596004966",
+            "isbn13": "9780596004965",
+            "image": "https://itbook.store/img/books/9780596004965.png",
+            "rating": 4,
+            "price": "$7.99"
+        }
+    },
+    {
+        "node": {
+            "title": "running linux, 5th edition",
+            "isbn10": "0596007604",
+            "isbn13": "9780596007607",
+            "image": "https://itbook.store/img/books/9780596007607.png",
+            "rating": 4,
+            "price": "$18.99"
+        }
+    },
+    {
+        "node": {
+            "title": "head first html with css & xhtml",
+            "isbn10": "059610197x",
+            "isbn13": "9780596101978",
+            "image": "https://itbook.store/img/books/9780596101978.png",
+            "rating": 4,
+            "price": "$4.21"
+        }
+    },
+    {
+        "node": {
+            "title": "complete web monitoring",
+            "isbn10": "0596155131",
+            "isbn13": "9780596155131",
+            "image": "https://itbook.store/img/books/9780596155131.png",
+            "rating": 4,
+            "price": "$32.21"
+        }
+    },
+    {
+        "node": {
+            "title": "head first html and css, 2nd edition",
+            "isbn10": "0596159900",
+            "isbn13": "9780596159900",
+            "image": "https://itbook.store/img/books/9780596159900.png",
+            "rating": 4,
+            "price": "$17.62"
+        }
+    },
+    {
+        "node": {
+            "title": "learning php & mysql, 2nd edition",
+            "isbn10": "0596514018",
+            "isbn13": "9780596514013",
+            "image": "https://itbook.store/img/books/9780596514013.png",
+            "rating": 4,
+            "price": "$3.74"
+        }
+    },
+    {
+        "node": {
+            "title": "learning flex 3",
+            "isbn10": "0596517327",
+            "isbn13": "9780596517328",
+            "image": "https://itbook.store/img/books/9780596517328.png",
+            "rating": 4,
+            "price": "$2.41"
+        }
+    },
+    {
+        "node": {
+            "title": "the art of application performance testing",
+            "isbn10": "0596520662",
+            "isbn13": "9780596520663",
+            "image": "https://itbook.store/img/books/9780596520663.png",
+            "rating": 4,
+            "price": "$13.19"
+        }
+    },
+    {
+        "node": {
+            "title": "head first networking",
+            "isbn10": "0596521553",
+            "isbn13": "9780596521554",
+            "image": "https://itbook.store/img/books/9780596521554.png",
+            "rating": 4,
+            "price": "$5.92"
+        }
+    },
+    {
+        "node": {
+            "title": "ubuntu hacks",
+            "isbn10": "0596527209",
+            "isbn13": "9780596527204",
+            "image": "https://itbook.store/img/books/9780596527204.png",
+            "rating": 4,
+            "price": "$4.60"
+        }
+    },
+    {
+        "node": {
+            "title": "iphoto 6: the missing manual, 5th edition",
+            "isbn10": "059652725x",
+            "isbn13": "9780596527259",
+            "image": "https://itbook.store/img/books/9780596527259.png",
+            "rating": 3,
+            "price": "$3.99"
+        }
+    },
+    {
+        "node": {
+            "title": "the art of agile development",
+            "isbn10": "0596527675",
+            "isbn13": "9780596527679",
+            "image": "https://itbook.store/img/books/9780596527679.png",
+            "rating": 4,
+            "price": "$10.81"
+        }
+    },
+    {
+        "node": {
+            "title": "mastering regular expressions, 3rd edition",
+            "isbn10": "0596528124",
+            "isbn13": "9780596528126",
+            "image": "https://itbook.store/img/books/9780596528126.png",
+            "rating": 4,
+            "price": "$31.99"
+        }
+    },
+    {
+        "node": {
+            "title": "learning flex 4",
+            "isbn10": "0596805632",
+            "isbn13": "9780596805630",
+            "image": "https://itbook.store/img/books/9780596805630.png",
+            "rating": 3,
+            "price": "$7.16"
+        }
+    },
+    {
+        "node": {
+            "title": "head first wordpress",
+            "isbn10": "0596806280",
+            "isbn13": "9780596806286",
+            "image": "https://itbook.store/img/books/9780596806286.png",
+            "rating": 3,
+            "price": "$3.49"
+        }
+    },
+    {
+        "node": {
+            "title": "real world instrumentation with python",
+            "isbn10": "0596809565",
+            "isbn13": "9780596809560",
+            "image": "https://itbook.store/img/books/9780596809560.png",
+            "rating": 4,
+            "price": "$33.15"
+        }
+    },
+    {
+        "node": {
+            "title": "developing secure applications with visual basic",
+            "isbn10": "0672318369",
+            "isbn13": "9780672318368",
+            "image": "https://itbook.store/img/books/9780672318368.png",
+            "rating": 5,
+            "price": "$8.58"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself the twitter api in 24 hours",
+            "isbn10": "0672331101",
+            "isbn13": "9780672331107",
+            "image": "https://itbook.store/img/books/9780672331107.png",
+            "rating": 0,
+            "price": "$0.99"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself visual basic 2010 in 24 hours",
+            "isbn10": "0672331136",
+            "isbn13": "9780672331138",
+            "image": "https://itbook.store/img/books/9780672331138.png",
+            "rating": 4,
+            "price": "$4.49"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself iphone application development in 24 hours, 2nd edition",
+            "isbn10": "0672332205",
+            "isbn13": "9780672332203",
+            "image": "https://itbook.store/img/books/9780672332203.png",
+            "rating": 4,
+            "price": "$19.99"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself asp.net 4 in 24 hours",
+            "isbn10": "0672333058",
+            "isbn13": "9780672333057",
+            "image": "https://itbook.store/img/books/9780672333057.png",
+            "rating": 4,
+            "price": "$24.99"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself html5 in 10 minutes, 5th edition",
+            "isbn10": "0672333333",
+            "isbn13": "9780672333330",
+            "image": "https://itbook.store/img/books/9780672333330.png",
+            "rating": 3,
+            "price": "$3.99"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself html5 mobile application development in 24 hours",
+            "isbn10": "0672334402",
+            "isbn13": "9780672334405",
+            "image": "https://itbook.store/img/books/9780672334405.png",
+            "rating": 3,
+            "price": "$18.00"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself microsoft dynamics crm 2011 in 24 hours",
+            "isbn10": "0672335379",
+            "isbn13": "9780672335372",
+            "image": "https://itbook.store/img/books/9780672335372.png",
+            "rating": 3,
+            "price": "$27.99"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself sql in 24 hours, 5th edition",
+            "isbn10": "0672335417",
+            "isbn13": "9780672335419",
+            "image": "https://itbook.store/img/books/9780672335419.png",
+            "rating": 3,
+            "price": "$27.99"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself sap in 24 hours, 4th edition",
+            "isbn10": "0672335425",
+            "isbn13": "9780672335426",
+            "image": "https://itbook.store/img/books/9780672335426.png",
+            "rating": 3,
+            "price": "$4.03"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself windows phone 7 game programming in 24 hours",
+            "isbn10": "0672335549",
+            "isbn13": "9780672335549",
+            "image": "https://itbook.store/img/books/9780672335549.png",
+            "rating": 5,
+            "price": "$21.48"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself ios 5 application development in 24 hours, 3rd edition",
+            "isbn10": "067233576x",
+            "isbn13": "9780672335761",
+            "image": "https://itbook.store/img/books/9780672335761.png",
+            "rating": 4,
+            "price": "$3.74"
+        }
+    },
+    {
+        "node": {
+            "title": "fluent visual basic",
+            "isbn10": "0672335808",
+            "isbn13": "9780672335808",
+            "image": "https://itbook.store/img/books/9780672335808.png",
+            "rating": 0,
+            "price": "$3.98"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself microsoft expression web 4 in 24 hours, 2nd edition",
+            "isbn10": "0672335905",
+            "isbn13": "9780672335907",
+            "image": "https://itbook.store/img/books/9780672335907.png",
+            "rating": 4,
+            "price": "$23.35"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself core data for mac and ios in 24 hours, 2nd edition",
+            "isbn10": "0672336197",
+            "isbn13": "9780672336195",
+            "image": "https://itbook.store/img/books/9780672336195.png",
+            "rating": 2,
+            "price": "$5.57"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself asp.net core in 24 hours",
+            "isbn10": "0672337665",
+            "isbn13": "9780672337666",
+            "image": "https://itbook.store/img/books/9780672337666.png",
+            "rating": 0,
+            "price": "$11.39"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition",
+            "isbn10": "0672337924",
+            "isbn13": "9780672337925",
+            "image": "https://itbook.store/img/books/9780672337925.png",
+            "rating": 5,
+            "price": "$17.59"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself go in 24 hours",
+            "isbn10": "0672338033",
+            "isbn13": "9780672338038",
+            "image": "https://itbook.store/img/books/9780672338038.png",
+            "rating": 4,
+            "price": "$23.98"
+        }
+    },
+    {
+        "node": {
+            "title": "sams teach yourself apache spark in 24 hours",
+            "isbn10": "0672338513",
+            "isbn13": "9780672338519",
+            "image": "https://itbook.store/img/books/9780672338519.png",
+            "rating": 4,
+            "price": "$32.51"
+        }
+    },
+    {
+        "node": {
+            "title": "windows sysinternals administrator's reference",
+            "isbn10": "073565672x",
+            "isbn13": "9780735656727",
+            "image": "https://itbook.store/img/books/9780735656727.png",
+            "rating": 4,
+            "price": "$22.69"
+        }
+    },
+    {
+        "node": {
+            "title": "start here! fundamentals of microsoft .net programming",
+            "isbn10": "0735661685",
+            "isbn13": "9780735661684",
+            "image": "https://itbook.store/img/books/9780735661684.png",
+            "rating": 3,
+            "price": "$4.18"
+        }
+    },
+    {
+        "node": {
+            "title": "microsoft outlook 2013 plain & simple",
+            "isbn10": "073566935x",
+            "isbn13": "9780735669352",
+            "image": "https://itbook.store/img/books/9780735669352.png",
+            "rating": 4,
+            "price": "$19.99"
+        }
+    },
+    {
+        "node": {
+            "title": "microsoft word 2013 plain & simple",
+            "isbn10": "0735669384",
+            "isbn13": "9780735669383",
+            "image": "https://itbook.store/img/books/9780735669383.png",
+            "rating": 4,
+            "price": "$6.17"
+        }
+    },
+    {
+        "node": {
+            "title": "microsoft access 2013 plain & simple",
+            "isbn10": "0735669449",
+            "isbn13": "9780735669444",
+            "image": "https://itbook.store/img/books/9780735669444.png",
+            "rating": 4,
+            "price": "$4.49"
+        }
+    },
+    {
+        "node": {
+            "title": "programming windows, 6th edition",
+            "isbn10": "0735671761",
+            "isbn13": "9780735671768",
+            "image": "https://itbook.store/img/books/9780735671768.png",
+            "rating": 4,
+            "price": "$12.71"
+        }
+    },
+    {
+        "node": {
+            "title": "professional c++",
+            "isbn10": "0764574841",
+            "isbn13": "9780764574849",
+            "image": "https://itbook.store/img/books/9780764574849.png",
+            "rating": 4,
+            "price": "$3.49"
+        }
+    },
+    {
+        "node": {
+            "title": "adobe premiere elements for dummies",
+            "isbn10": "0764588362",
+            "isbn13": "9780764588365",
+            "image": "https://itbook.store/img/books/9780764588365.png",
+            "rating": 4,
+            "price": "$19.50"
+        }
+    },
+    {
+        "node": {
+            "title": "html 4 for dummies, 5th edition",
+            "isbn10": "0764589172",
+            "isbn13": "9780764589171",
+            "image": "https://itbook.store/img/books/9780764589171.png",
+            "rating": 3,
+            "price": "$4.17"
+        }
+    },
+    {
+        "node": {
+            "title": "pragmatic version control using cvs",
+            "isbn10": "0974514004",
+            "isbn13": "9780974514000",
+            "image": "https://itbook.store/img/books/9780974514000.png",
+            "rating": 3,
+            "price": "$3.73"
+        }
+    },
+    {
+        "node": {
+            "title": "gis for web developers",
+            "isbn10": "0974514098",
+            "isbn13": "9780974514093",
+            "image": "https://itbook.store/img/books/9780974514093.png",
+            "rating": 4,
+            "price": "$6.96"
+        }
+    },
+    {
+        "node": {
+            "title": "simply javascript",
+            "isbn10": "0980285801",
+            "isbn13": "9780980285802",
+            "image": "https://itbook.store/img/books/9780980285802.png",
+            "rating": 4,
+            "price": "$3.49"
+        }
+    },
+    {
+        "node": {
+            "title": "build your own wicked wordpress themes",
+            "isbn10": "0980455294",
+            "isbn13": "9780980455298",
+            "image": "https://itbook.store/img/books/9780980455298.png",
+            "rating": 4,
+            "price": "$2.34"
+        }
+    },
+    {
+        "node": {
+            "title": "the web designer's roadmap",
+            "isbn10": "0987247859",
+            "isbn13": "9780987247858",
+            "image": "https://itbook.store/img/books/9780987247858.png",
+            "rating": 4,
+            "price": "$27.82"
+        }
+    },
+    {
+        "node": {
+            "title": "the art of software testing, 3rd edition",
+            "isbn10": "1118031962",
+            "isbn13": "9781118031964",
+            "image": "https://itbook.store/img/books/9781118031964.png",
+            "rating": 4,
+            "price": "$133.95"
+        }
+    },
+    {
+        "node": {
+            "title": "iphone 4s all-in-one for dummies",
+            "isbn10": "1118101197",
+            "isbn13": "9781118101193",
+            "image": "https://itbook.store/img/books/9781118101193.png",
+            "rating": 3,
+            "price": "$7.73"
+        }
+    },
+    {
+        "node": {
+            "title": "practical database programming with visual basic.net, 2nd edition",
+            "isbn10": "1118162056",
+            "isbn13": "9781118162057",
+            "image": "https://itbook.store/img/books/9781118162057.png",
+            "rating": 4,
+            "price": "$59.45"
+        }
+    },
+    {
+        "node": {
+            "title": "aperture 3 portable genius, 2nd edition",
+            "isbn10": "1118274296",
+            "isbn13": "9781118274293",
+            "image": "https://itbook.store/img/books/9781118274293.png",
+            "rating": 4,
+            "price": "$4.09"
+        }
+    },
+    {
+        "node": {
+            "title": "data structures and algorithms in python",
+            "isbn10": "1118290275",
+            "isbn13": "9781118290279",
+            "image": "https://itbook.store/img/books/9781118290279.png",
+            "rating": 4,
+            "price": "$101.22"
+        }
+    },
+    {
+        "node": {
+            "title": "css3 foundations",
+            "isbn10": "1118356543",
+            "isbn13": "9781118356548",
+            "image": "https://itbook.store/img/books/9781118356548.png",
+            "rating": 4,
+            "price": "$8.89"
+        }
+    },
+    {
+        "node": {
+            "title": "html5 foundations",
+            "isbn10": "1118356551",
+            "isbn13": "9781118356555",
+            "image": "https://itbook.store/img/books/9781118356555.png",
+            "rating": 4,
+            "price": "$6.60"
+        }
+    },
+    {
+        "node": {
+            "title": "ivor horton's beginning visual c++ 2012",
+            "isbn10": "1118368088",
+            "isbn13": "9781118368084",
+            "image": "https://itbook.store/img/books/9781118368084.png",
+            "rating": 4,
+            "price": "$3.65"
+        }
+    },
+    {
+        "node": {
+            "title": "javafx for dummies",
+            "isbn10": "1118385349",
+            "isbn13": "9781118385340",
+            "image": "https://itbook.store/img/books/9781118385340.png",
+            "rating": 4,
+            "price": "$19.74"
+        }
+    },
+    {
+        "node": {
+            "title": "excel 2013 bible",
+            "isbn10": "1118490363",
+            "isbn13": "9781118490365",
+            "image": "https://itbook.store/img/books/9781118490365.png",
+            "rating": 4,
+            "price": "$6.89"
+        }
+    },
+    {
+        "node": {
+            "title": "office 2013 for dummies",
+            "isbn10": "1118497155",
+            "isbn13": "9781118497159",
+            "image": "https://itbook.store/img/books/9781118497159.png",
+            "rating": 4,
+            "price": "$9.00"
+        }
+    },
+    {
+        "node": {
+            "title": "professional heroku programming",
+            "isbn10": "1118508998",
+            "isbn13": "9781118508992",
+            "image": "https://itbook.store/img/books/9781118508992.png",
+            "rating": 3,
+            "price": "$27.43"
+        }
+    },
+    {
+        "node": {
+            "title": "the data warehouse toolkit, 3rd edition",
+            "isbn10": "1118530802",
+            "isbn13": "9781118530801",
+            "image": "https://itbook.store/img/books/9781118530801.png",
+            "rating": 4,
+            "price": "$39.55"
+        }
+    },
+    {
+        "node": {
+            "title": "android tablets for dummies",
+            "isbn10": "111854319x",
+            "isbn13": "9781118543191",
+            "image": "https://itbook.store/img/books/9781118543191.png",
+            "rating": 4,
+            "price": "$5.99"
+        }
+    },
+    {
+        "node": {
+            "title": "101 excel 2013 tips, tricks and timesavers",
+            "isbn10": "111864218x",
+            "isbn13": "9781118642184",
+            "image": "https://itbook.store/img/books/9781118642184.png",
+            "rating": 4,
+            "price": "$22.99"
+        }
+    },
+    {
+        "node": {
+            "title": "professional asp.net mvc 5",
+            "isbn10": "1118794753",
+            "isbn13": "9781118794753",
+            "image": "https://itbook.store/img/books/9781118794753.png",
+            "rating": 4,
+            "price": "$31.59"
+        }
+    },
+    {
+        "node": {
+            "title": "beginning ios programming",
+            "isbn10": "1118841476",
+            "isbn13": "9781118841471",
+            "image": "https://itbook.store/img/books/9781118841471.png",
+            "rating": 3,
+            "price": "$6.35"
+        }
+    },
+    {
+        "node": {
+            "title": "professional java ee design patterns",
+            "isbn10": "111884341x",
+            "isbn13": "9781118843413",
+            "image": "https://itbook.store/img/books/9781118843413.png",
+            "rating": 4,
+            "price": "$31.68"
+        }
+    },
+    {
+        "node": {
+            "title": "c# 5.0 programmer's reference",
+            "isbn10": "1118847288",
+            "isbn13": "9781118847282",
+            "image": "https://itbook.store/img/books/9781118847282.png",
+            "rating": 4,
+            "price": "$6.47"
+        }
+    },
+    {
+        "node": {
+            "title": "professional c++, 3rd edition",
+            "isbn10": "1118858050",
+            "isbn13": "9781118858059",
+            "image": "https://itbook.store/img/books/9781118858059.png",
+            "rating": 4,
+            "price": "$21.99"
+        }
+    },
+    {
+        "node": {
+            "title": "visual design solutions",
+            "isbn10": "1118863569",
+            "isbn13": "9781118863565",
+            "image": "https://itbook.store/img/books/9781118863565.png",
+            "rating": 4,
+            "price": "$45.49"
+        }
+    },
+    {
+        "node": {
+            "title": "android tablets for dummies, 2nd edition",
+            "isbn10": "1118874013",
+            "isbn13": "9781118874011",
+            "image": "https://itbook.store/img/books/9781118874011.png",
+            "rating": 4,
+            "price": "$4.25"
+        }
+    },
+    {
+        "node": {
+            "title": "excel data analysis for dummies, 2nd edition",
+            "isbn10": "1118898095",
+            "isbn13": "9781118898093",
+            "image": "https://itbook.store/img/books/9781118898093.png",
+            "rating": 3,
+            "price": "$7.99"
+        }
+    },
+    {
+        "node": {
+            "title": "ipad mini for dummies, 3rd edition",
+            "isbn10": "1118933524",
+            "isbn13": "9781118933527",
+            "image": "https://itbook.store/img/books/9781118933527.png",
+            "rating": 3,
+            "price": "$3.89"
+        }
+    },
+    {
+        "node": {
+            "title": "adventures in minecraft",
+            "isbn10": "111894691x",
+            "isbn13": "9781118946916",
+            "image": "https://itbook.store/img/books/9781118946916.png",
+            "rating": 4,
+            "price": "$5.58"
+        }
+    },
+    {
+        "node": {
+            "title": "professional wordpress, 3rd edition",
+            "isbn10": "1118987241",
+            "isbn13": "9781118987247",
+            "image": "https://itbook.store/img/books/9781118987247.png",
+            "rating": 4,
+            "price": "$17.65"
+        }
+    },
+    {
+        "node": {
+            "title": "beaglebone for dummies",
+            "isbn10": "1118992911",
+            "isbn13": "9781118992913",
+            "image": "https://itbook.store/img/books/9781118992913.png",
+            "rating": 4,
+            "price": "$6.87"
+        }
+    },
+    {
+        "node": {
+            "title": "fire tablets for dummies",
+            "isbn10": "1119008255",
+            "isbn13": "9781119008255",
+            "image": "https://itbook.store/img/books/9781119008255.png",
+            "rating": 4,
+            "price": "$13.16"
+        }
+    },
+    {
+        "node": {
+            "title": "salesforce service cloud for dummies",
+            "isbn10": "1119010683",
+            "isbn13": "9781119010685",
+            "image": "https://itbook.store/img/books/9781119010685.png",
+            "rating": 4,
+            "price": "$19.74"
+        }
+    },
+    {
+        "node": {
+            "title": "android tablets for dummies, 3rd edition",
+            "isbn10": "1119126029",
+            "isbn13": "9781119126027",
+            "image": "https://itbook.store/img/books/9781119126027.png",
+            "rating": 4,
+            "price": "$5.18"
+        }
+    },
+    {
+        "node": {
+            "title": "adventures in raspberry pi, 3rd edition",
+            "isbn10": "1119269067",
+            "isbn13": "9781119269069",
+            "image": "https://itbook.store/img/books/9781119269069.png",
+            "rating": 4,
+            "price": "$16.46"
+        }
+    },
+    {
+        "node": {
+            "title": "adobe creative cloud all-in-one for dummies, 2nd edition",
+            "isbn10": "1119420407",
+            "isbn13": "9781119420408",
+            "image": "https://itbook.store/img/books/9781119420408.png",
+            "rating": 5,
+            "price": "$33.95"
+        }
+    },
+    {
+        "node": {
+            "title": "artificial intelligence for dummies",
+            "isbn10": "1119467659",
+            "isbn13": "9781119467656",
+            "image": "https://itbook.store/img/books/9781119467656.png",
+            "rating": 4,
+            "price": "$18.89"
+        }
+    },
+    {
+        "node": {
+            "title": "php, mysql & javascript all-in-one for dummies",
+            "isbn10": "1119468388",
+            "isbn13": "9781119468387",
+            "image": "https://itbook.store/img/books/9781119468387.png",
+            "rating": 0,
+            "price": "$29.62"
+        }
+    },
+    {
+        "node": {
+            "title": "exploring beaglebone, 2nd edition",
+            "isbn10": "1119533163",
+            "isbn13": "9781119533160",
+            "image": "https://itbook.store/img/books/9781119533160.png",
+            "rating": 5,
+            "price": "$29.78"
+        }
+    },
+    {
+        "node": {
+            "title": "architecting enterprise blockchain solutions",
+            "isbn10": "1119557690",
+            "isbn13": "9781119557692",
+            "image": "https://itbook.store/img/books/9781119557692.png",
+            "rating": 0,
+            "price": "$27.09"
+        }
+    },
+    {
+        "node": {
+            "title": "graphic design school, 7th edition",
+            "isbn10": "1119647118",
+            "isbn13": "9781119647119",
+            "image": "https://itbook.store/img/books/9781119647119.png",
+            "rating": 4,
+            "price": "$54.00"
+        }
+    },
+    {
+        "node": {
+            "title": "pro linq",
+            "isbn10": "1430216441",
+            "isbn13": "9781430216445",
+            "image": "https://itbook.store/img/books/9781430216445.png",
+            "rating": 4,
+            "price": "$17.50"
+        }
+    },
+    {
+        "node": {
+            "title": "beginning microsoft word 2010",
+            "isbn10": "1430229527",
+            "isbn13": "9781430229520",
+            "image": "https://itbook.store/img/books/9781430229520.png",
+            "rating": 0,
+            "price": "$20.21"
+        }
+    },
+    {
+        "node": {
+            "title": "beginning ubuntu linux, 5th edition",
+            "isbn10": "1430230398",
+            "isbn13": "9781430230397",
+            "image": "https://itbook.store/img/books/9781430230397.png",
+            "rating": 3,
+            "price": "$9.69"
+        }
+    },
+    {
+        "node": {
+            "title": "pro javascript with mootools",
+            "isbn10": "1430230541",
+            "isbn13": "9781430230540",
+            "image": "https://itbook.store/img/books/9781430230540.png",
+            "rating": 4,
+            "price": "$8.99"
+        }
+    },
+    {
+        "node": {
+            "title": "oracle pl/sql recipes",
+            "isbn10": "1430232072",
+            "isbn13": "9781430232070",
+            "image": "https://itbook.store/img/books/9781430232070.png",
+            "rating": 4,
+            "price": "$39.36"
+        }
+    },
+    {
+        "node": {
+            "title": "pro java me apps",
+            "isbn10": "1430233273",
+            "isbn13": "9781430233275",
+            "image": "https://itbook.store/img/books/9781430233275.png",
+            "rating": 5,
+            "price": "$36.22"
+        }
+    },
+    {
+        "node": {
+            "title": "taking your iphone 4s to the max",
+            "isbn10": "1430235810",
+            "isbn13": "9781430235811",
+            "image": "https://itbook.store/img/books/9781430235811.png",
+            "rating": 0,
+            "price": "$17.10"
+        }
+    },
+    {
+        "node": {
+            "title": "learn os x lion, 2nd edition",
+            "isbn10": "1430237627",
+            "isbn13": "9781430237624",
+            "image": "https://itbook.store/img/books/9781430237624.png",
+            "rating": 4,
+            "price": "$15.75"
+        }
+    },
+    {
+        "node": {
+            "title": "pro sharepoint 2010 administration",
+            "isbn10": "1430237929",
+            "isbn13": "9781430237921",
+            "image": "https://itbook.store/img/books/9781430237921.png",
+            "rating": 0,
+            "price": "$9.95"
+        }
+    },
+    {
+        "node": {
+            "title": "illustrated c# 2012, 4th edition",
+            "isbn10": "1430242787",
+            "isbn13": "9781430242789",
+            "image": "https://itbook.store/img/books/9781430242789.png",
+            "rating": 4,
+            "price": "$25.00"
+        }
+    },
+    {
+        "node": {
+            "title": "winning lego mindstorms programming",
+            "isbn10": "1430245360",
+            "isbn13": "9781430245360",
+            "image": "https://itbook.store/img/books/9781430245360.png",
+            "rating": 5,
+            "price": "$25.15"
+        }
+    },
+    {
+        "node": {
+            "title": "how to create the next facebook",
+            "isbn10": "1430246472",
+            "isbn13": "9781430246473",
+            "image": "https://itbook.store/img/books/9781430246473.png",
+            "rating": 4,
+            "price": "$24.93"
+        }
+    },
+    {
+        "node": {
+            "title": "pro sharepoint 2013 administration, 2nd edition",
+            "isbn10": "1430249412",
+            "isbn13": "9781430249412",
+            "image": "https://itbook.store/img/books/9781430249412.png",
+            "rating": 2,
+            "price": "$49.99"
+        }
+    },
+    {
+        "node": {
+            "title": "expert android",
+            "isbn10": "1430249501",
+            "isbn13": "9781430249504",
+            "image": "https://itbook.store/img/books/9781430249504.png",
+            "rating": 4,
+            "price": "$22.61"
+        }
+    },
+    {
+        "node": {
+            "title": "learn opengl es",
+            "isbn10": "1430250534",
+            "isbn13": "9781430250531",
+            "image": "https://itbook.store/img/books/9781430250531.png",
+            "rating": 4,
+            "price": "$29.07"
+        }
+    },
+    {
+        "node": {
+            "title": "learn ios 7 app development",
+            "isbn10": "1430250623",
+            "isbn13": "9781430250623",
+            "image": "https://itbook.store/img/books/9781430250623.png",
+            "rating": 3,
+            "price": "$29.99"
+        }
+    },
+    {
+        "node": {
+            "title": "learn android app development",
+            "isbn10": "1430257466",
+            "isbn13": "9781430257462",
+            "image": "https://itbook.store/img/books/9781430257462.png",
+            "rating": 3,
+            "price": "$36.73"
+        }
+    },
+    {
+        "node": {
+            "title": "troubleshooting oracle performance, 2nd edition",
+            "isbn10": "143025758x",
+            "isbn13": "9781430257585",
+            "image": "https://itbook.store/img/books/9781430257585.png",
+            "rating": 4,
+            "price": "$52.66"
+        }
+    },
+    {
+        "node": {
+            "title": "pro django, 2nd edition",
+            "isbn10": "1430258098",
+            "isbn13": "9781430258094",
+            "image": "https://itbook.store/img/books/9781430258094.png",
+            "rating": 4,
+            "price": "$49.99"
+        }
+    },
+    {
+        "node": {
+            "title": "beginning android c++ game development",
+            "isbn10": "1430258306",
+            "isbn13": "9781430258308",
+            "image": "https://itbook.store/img/books/9781430258308.png",
+            "rating": 4,
+            "price": "$33.17"
+        }
+    },
+    {
+        "node": {
+            "title": "pointers in c",
+            "isbn10": "1430259116",
+            "isbn13": "9781430259114",
+            "image": "https://itbook.store/img/books/9781430259114.png",
+            "rating": 3,
+            "price": "$39.99"
+        }
+    },
+    {
+        "node": {
+            "title": "building the infrastructure for cloud security",
+            "isbn10": "1430261455",
+            "isbn13": "9781430261452",
+            "image": "https://itbook.store/img/books/9781430261452.png",
+            "rating": 0,
+            "price": "$9.97"
+        }
+    },
+    {
+        "node": {
+            "title": "learn java for android development, 3rd edition",
+            "isbn10": "1430264543",
+            "isbn13": "9781430264545",
+            "image": "https://itbook.store/img/books/9781430264545.png",
+            "rating": 4,
+            "price": "$17.20"
+        }
+    },
+    {
+        "node": {
+            "title": "pro css3 layout techniques",
+            "isbn10": "1430265027",
+            "isbn13": "9781430265023",
+            "image": "https://itbook.store/img/books/9781430265023.png",
+            "rating": 0,
+            "price": "$39.99"
+        }
+    },
+    {
+        "node": {
+            "title": "learn unity3d programming with unityscript",
+            "isbn10": "1430265868",
+            "isbn13": "9781430265863",
+            "image": "https://itbook.store/img/books/9781430265863.png",
+            "rating": 3,
+            "price": "$44.99"
+        }
+    },
+    {
+        "node": {
+            "title": "expert sql server 2008 development",
+            "isbn10": "1430272139",
+            "isbn13": "9781430272137",
+            "image": "https://itbook.store/img/books/9781430272137.png",
+            "rating": 4,
+            "price": "$13.70"
+        }
+    },
+    {
+        "node": {
+            "title": "learning perl, 6th edition",
+            "isbn10": "1449303587",
+            "isbn13": "9781449303587",
+            "image": "https://itbook.store/img/books/9781449303587.png",
+            "rating": 4,
+            "price": "$4.18"
+        }
+    },
+    {
+        "node": {
+            "title": "practical jira administration",
+            "isbn10": "1449305415",
+            "isbn13": "9781449305413",
+            "image": "https://itbook.store/img/books/9781449305413.png",
+            "rating": 3,
+            "price": "$12.53"
+        }
+    },
+    {
+        "node": {
+            "title": "c# database basics",
+            "isbn10": "1449309984",
+            "isbn13": "9781449309985",
+            "image": "https://itbook.store/img/books/9781449309985.png",
+            "rating": 4,
+            "price": "$16.99"
+        }
+    },
+    {
+        "node": {
+            "title": "hadoop: the definitive guide, 3rd edition",
+            "isbn10": "1449311520",
+            "isbn13": "9781449311520",
+            "image": "https://itbook.store/img/books/9781449311520.png",
+            "rating": 0,
+            "price": "$4.99"
+        }
+    },
+    {
+        "node": {
+            "title": "getting started with dwarf fortress",
+            "isbn10": "1449314945",
+            "isbn13": "9781449314941",
+            "image": "https://itbook.store/img/books/9781449314941.png",
+            "rating": 4,
+            "price": "$13.51"
+        }
+    },
+    {
+        "node": {
+            "title": "programming android, 2nd edition",
+            "isbn10": "1449316646",
+            "isbn13": "9781449316648",
+            "image": "https://itbook.store/img/books/9781449316648.png",
+            "rating": 4,
+            "price": "$15.00"
+        }
+    },
+    {
+        "node": {
+            "title": "programming c# 5.0",
+            "isbn10": "1449320414",
+            "isbn13": "9781449320416",
+            "image": "https://itbook.store/img/books/9781449320416.png",
+            "rating": 4,
+            "price": "$40.49"
+        }
+    },
+    {
+        "node": {
+            "title": "windows powershell pocket reference, 2nd edition",
+            "isbn10": "1449320961",
+            "isbn13": "9781449320966",
+            "image": "https://itbook.store/img/books/9781449320966.png",
+            "rating": 4,
+            "price": "$10.96"
+        }
+    },
+    {
+        "node": {
+            "title": "real world ocaml",
+            "isbn10": "144932391x",
+            "isbn13": "9781449323912",
+            "image": "https://itbook.store/img/books/9781449323912.png",
+            "rating": 4,
+            "price": "$25.00"
+        }
+    },
+    {
+        "node": {
+            "title": "getting started with rfid",
+            "isbn10": "1449324185",
+            "isbn13": "9781449324186",
+            "image": "https://itbook.store/img/books/9781449324186.png",
+            "rating": 3,
+            "price": "$3.99"
+        }
+    },
+    {
+        "node": {
+            "title": "mapreduce design patterns",
+            "isbn10": "1449327176",
+            "isbn13": "9781449327170",
+            "image": "https://itbook.store/img/books/9781449327170.png",
+            "rating": 4,
+            "price": "$19.90"
+        }
+    },
+    {
+        "node": {
+            "title": "accessible epub 3",
+            "isbn10": "1449328032",
+            "isbn13": "9781449328030",
+            "image": "https://itbook.store/img/books/9781449328030.png",
+            "rating": 0,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "epub 3 best practices",
+            "isbn10": "1449329144",
+            "isbn13": "9781449329143",
+            "image": "https://itbook.store/img/books/9781449329143.png",
+            "rating": 4,
+            "price": "$14.99"
+        }
+    },
+    {
+        "node": {
+            "title": "you don't know js: scope & closures",
+            "isbn10": "1449335586",
+            "isbn13": "9781449335588",
+            "image": "https://itbook.store/img/books/9781449335588.png",
+            "rating": 5,
+            "price": "$12.59"
+        }
+    },
+    {
+        "node": {
+            "title": "building node applications with mongodb and backbone",
+            "isbn10": "1449337392",
+            "isbn13": "9781449337391",
+            "image": "https://itbook.store/img/books/9781449337391.png",
+            "rating": 3,
+            "price": "$4.85"
+        }
+    },
+    {
+        "node": {
+            "title": "designing evolvable web apis with asp.net",
+            "isbn10": "1449337716",
+            "isbn13": "9781449337711",
+            "image": "https://itbook.store/img/books/9781449337711.png",
+            "rating": 4,
+            "price": "$31.99"
+        }
+    },
+    {
+        "node": {
+            "title": "graph databases",
+            "isbn10": "1449356265",
+            "isbn13": "9781449356262",
+            "image": "https://itbook.store/img/books/9781449356262.png",
+            "rating": 4,
+            "price": "$6.03"
+        }
+    },
+    {
+        "node": {
+            "title": "restful java with jax-rs 2.0, 2nd edition",
+            "isbn10": "144936134x",
+            "isbn13": "9781449361341",
+            "image": "https://itbook.store/img/books/9781449361341.png",
+            "rating": 4,
+            "price": "$22.00"
+        }
+    },
+    {
+        "node": {
+            "title": "mobile design pattern gallery, 2nd edition",
+            "isbn10": "1449363636",
+            "isbn13": "9781449363635",
+            "image": "https://itbook.store/img/books/9781449363635.png",
+            "rating": 4,
+            "price": "$32.99"
+        }
+    },
+    {
+        "node": {
+            "title": "android cookbook",
+            "isbn10": "1449388418",
+            "isbn13": "9781449388416",
+            "image": "https://itbook.store/img/books/9781449388416.png",
+            "rating": 4,
+            "price": "$3.88"
+        }
+    },
+    {
+        "node": {
+            "title": "ibooks and eperiodicals on the ipad: the mini missing manual",
+            "isbn10": "1449394086",
+            "isbn13": "9781449394080",
+            "image": "https://itbook.store/img/books/9781449394080.png",
+            "rating": 0,
+            "price": "$4.99"
+        }
+    },
+    {
+        "node": {
+            "title": "hacking secret ciphers with python",
+            "isbn10": "1482614375",
+            "isbn13": "9781482614374",
+            "image": "https://itbook.store/img/books/9781482614374.png",
+            "rating": 0,
+            "price": "$5.40"
+        }
+    },
+    {
+        "node": {
+            "title": "modern x86 assembly language programming",
+            "isbn10": "1484200659",
+            "isbn13": "9781484200650",
+            "image": "https://itbook.store/img/books/9781484200650.png",
+            "rating": 4,
+            "price": "$49.99"
+        }
+    },
+    {
+        "node": {
+            "title": "sql server integration services design patterns, 2nd edition",
+            "isbn10": "1484200837",
+            "isbn13": "9781484200834",
+            "image": "https://itbook.store/img/books/9781484200834.png",
+            "rating": 4,
+            "price": "$50.08"
+        }
+    },
+    {
+        "node": {
+            "title": "hibernate recipes, 2nd edition",
+            "isbn10": "1484201280",
+            "isbn13": "9781484201282",
+            "image": "https://itbook.store/img/books/9781484201282.png",
+            "rating": 4,
+            "price": "$39.99"
+        }
+    },
+    {
+        "node": {
+            "title": "beginning angularjs",
+            "isbn10": "1484201612",
+            "isbn13": "9781484201619",
+            "image": "https://itbook.store/img/books/9781484201619.png",
+            "rating": 4,
+            "price": "$39.48"
+        }
+    },
+    {
+        "node": {
+            "title": "beginning oracle database 12c administration, 2nd edition",
+            "isbn10": "1484201949",
+            "isbn13": "9781484201947",
+            "image": "https://itbook.store/img/books/9781484201947.png",
+            "rating": 0,
+            "price": "$38.99"
+        }
+    },
+    {
+        "node": {
+            "title": "learn ios 8 app development, 2nd edition",
+            "isbn10": "1484202090",
+            "isbn13": "9781484202098",
+            "image": "https://itbook.store/img/books/9781484202098.png",
+            "rating": 2,
+            "price": "$27.92"
+        }
+    },
+    {
+        "node": {
+            "title": "financial modeling for business owners and entrepreneurs",
+            "isbn10": "1484203712",
+            "isbn13": "9781484203712",
+            "image": "https://itbook.store/img/books/9781484203712.png",
+            "rating": 4,
+            "price": "$37.44"
+        }
+    },
+    {
+        "node": {
+            "title": "beginning big data with power bi and excel 2013",
+            "isbn10": "1484205308",
+            "isbn13": "9781484205303",
+            "image": "https://itbook.store/img/books/9781484205303.png",
+            "rating": 4,
+            "price": "$18.76"
+        }
+    },
+    {
+        "node": {
+            "title": "pro powershell for database developers",
+            "isbn10": "1484205421",
+            "isbn13": "9781484205426",
+            "image": "https://itbook.store/img/books/9781484205426.png",
+            "rating": 4,
+            "price": "$44.43"
+        }
+    },
+    {
+        "node": {
+            "title": "sas programming and data visualization techniques",
+            "isbn10": "1484205693",
+            "isbn13": "9781484205693",
+            "image": "https://itbook.store/img/books/9781484205693.png",
+            "rating": 4,
+            "price": "$44.99"
+        }
+    },
+    {
+        "node": {
+            "title": "sap erp financial accounting and controlling",
+            "isbn10": "1484207173",
+            "isbn13": "9781484207178",
+            "image": "https://itbook.store/img/books/9781484207178.png",
+            "rating": 0,
+            "price": "$46.24"
+        }
+    },
+    {
+        "node": {
+            "title": "pivotal certified professional spring developer exam",
+            "isbn10": "1484208129",
+            "isbn13": "9781484208120",
+            "image": "https://itbook.store/img/books/9781484208120.png",
+            "rating": 0,
+            "price": "$42.49"
+        }
+    },
+    {
+        "node": {
+            "title": "swift for absolute beginners",
+            "isbn10": "1484208870",
+            "isbn13": "9781484208878",
+            "image": "https://itbook.store/img/books/9781484208878.png",
+            "rating": 4,
+            "price": "$41.92"
+        }
+    },
+    {
+        "node": {
+            "title": "sudoku programming with c",
+            "isbn10": "1484209966",
+            "isbn13": "9781484209967",
+            "image": "https://itbook.store/img/books/9781484209967.png",
+            "rating": 3,
+            "price": "$29.99"
+        }
+    },
+    {
+        "node": {
+            "title": "common lisp recipes",
+            "isbn10": "1484211774",
+            "isbn13": "9781484211779",
+            "image": "https://itbook.store/img/books/9781484211779.png",
+            "rating": 5,
+            "price": "$35.13"
+        }
+    },
+    {
+        "node": {
+            "title": "swift 2 for absolute beginners, 2nd edition",
+            "isbn10": "1484214897",
+            "isbn13": "9781484214893",
+            "image": "https://itbook.store/img/books/9781484214893.png",
+            "rating": 4,
+            "price": "$41.28"
+        }
+    },
+    {
+        "node": {
+            "title": "developing for apple tv using tvos and swift",
+            "isbn10": "1484217144",
+            "isbn13": "9781484217146",
+            "image": "https://itbook.store/img/books/9781484217146.png",
+            "rating": 3,
+            "price": "$26.40"
+        }
+    },
+    {
+        "node": {
+            "title": "arduino music and audio projects",
+            "isbn10": "1484217209",
+            "isbn13": "9781484217207",
+            "image": "https://itbook.store/img/books/9781484217207.png",
+            "rating": 4,
+            "price": "$35.18"
+        }
+    },
+    {
+        "node": {
+            "title": "app development recipes for ios and watchos",
+            "isbn10": "1484218191",
+            "isbn13": "9781484218198",
+            "image": "https://itbook.store/img/books/9781484218198.png",
+            "rating": 0,
+            "price": "$49.85"
+        }
+    },
+    {
+        "node": {
+            "title": "learn to program with python",
+            "isbn10": "148421868x",
+            "isbn13": "9781484218686",
+            "image": "https://itbook.store/img/books/9781484218686.png",
+            "rating": 5,
+            "price": "$23.16"
+        }
+    },
+    {
+        "node": {
+            "title": "building arduino projects for the internet of things",
+            "isbn10": "1484219392",
+            "isbn13": "9781484219393",
+            "image": "https://itbook.store/img/books/9781484219393.png",
+            "rating": 4,
+            "price": "$37.99"
+        }
+    },
+    {
+        "node": {
+            "title": "mastering machine learning with python in six steps",
+            "isbn10": "1484228650",
+            "isbn13": "9781484228654",
+            "image": "https://itbook.store/img/books/9781484228654.png",
+            "rating": 4,
+            "price": "$37.64"
+        }
+    },
+    {
+        "node": {
+            "title": "practical jsf in java ee 8",
+            "isbn10": "1484230299",
+            "isbn13": "9781484230299",
+            "image": "https://itbook.store/img/books/9781484230299.png",
+            "rating": 0,
+            "price": "$39.99"
+        }
+    },
+    {
+        "node": {
+            "title": "swift 4 for absolute beginners",
+            "isbn10": "1484230620",
+            "isbn13": "9781484230626",
+            "image": "https://itbook.store/img/books/9781484230626.png",
+            "rating": 0,
+            "price": "$24.27"
+        }
+    },
+    {
+        "node": {
+            "title": "social media analytics strategy",
+            "isbn10": "1484231015",
+            "isbn13": "9781484231012",
+            "image": "https://itbook.store/img/books/9781484231012.png",
+            "rating": 0,
+            "price": "$27.04"
+        }
+    },
+    {
+        "node": {
+            "title": "php 7 zend certification study guide",
+            "isbn10": "1484232453",
+            "isbn13": "9781484232453",
+            "image": "https://itbook.store/img/books/9781484232453.png",
+            "rating": 0,
+            "price": "$26.32"
+        }
+    },
+    {
+        "node": {
+            "title": "enterprise cybersecurity study guide",
+            "isbn10": "1484232577",
+            "isbn13": "9781484232576",
+            "image": "https://itbook.store/img/books/9781484232576.png",
+            "rating": 4,
+            "price": "$33.27"
+        }
+    },
+    {
+        "node": {
+            "title": "propeller programming",
+            "isbn10": "1484233530",
+            "isbn13": "9781484233535",
+            "image": "https://itbook.store/img/books/9781484233535.png",
+            "rating": 0,
+            "price": "$32.71"
+        }
+    },
+    {
+        "node": {
+            "title": "defending iot infrastructures with the raspberry pi",
+            "isbn10": "1484236998",
+            "isbn13": "9781484236994",
+            "image": "https://itbook.store/img/books/9781484236994.png",
+            "rating": 0,
+            "price": "$24.99"
+        }
+    },
+    {
+        "node": {
+            "title": "developing 2d games with unity",
+            "isbn10": "1484237714",
+            "isbn13": "9781484237717",
+            "image": "https://itbook.store/img/books/9781484237717.png",
+            "rating": 5,
+            "price": "$28.19"
+        }
+    },
+    {
+        "node": {
+            "title": "ux fundamentals for non-ux professionals",
+            "isbn10": "1484238109",
+            "isbn13": "9781484238103",
+            "image": "https://itbook.store/img/books/9781484238103.png",
+            "rating": 3,
+            "price": "$27.33"
+        }
+    },
+    {
+        "node": {
+            "title": "ux optimization",
+            "isbn10": "1484238664",
+            "isbn13": "9781484238660",
+            "image": "https://itbook.store/img/books/9781484238660.png",
+            "rating": 0,
+            "price": "$26.80"
+        }
+    },
+    {
+        "node": {
+            "title": "pmp in depth",
+            "isbn10": "1484239091",
+            "isbn13": "9781484239094",
+            "image": "https://itbook.store/img/books/9781484239094.png",
+            "rating": 5,
+            "price": "$5.00"
+        }
+    },
+    {
+        "node": {
+            "title": "write your way to success",
+            "isbn10": "1484239695",
+            "isbn13": "9781484239698",
+            "image": "https://itbook.store/img/books/9781484239698.png",
+            "rating": 3,
+            "price": "$23.96"
+        }
+    },
+    {
+        "node": {
+            "title": "hacking product design",
+            "isbn10": "1484239849",
+            "isbn13": "9781484239841",
+            "image": "https://itbook.store/img/books/9781484239841.png",
+            "rating": 4,
+            "price": "$23.46"
+        }
+    },
+    {
+        "node": {
+            "title": "migrating to mariadb",
+            "isbn10": "1484239962",
+            "isbn13": "9781484239964",
+            "image": "https://itbook.store/img/books/9781484239964.png",
+            "rating": 0,
+            "price": "$29.23"
+        }
+    },
+    {
+        "node": {
+            "title": "pro microsoft hyper-v 2019",
+            "isbn10": "1484241150",
+            "isbn13": "9781484241158",
+            "image": "https://itbook.store/img/books/9781484241158.png",
+            "rating": 0,
+            "price": "$34.61"
+        }
+    },
+    {
+        "node": {
+            "title": "navigating hybrid scrum environments",
+            "isbn10": "1484241630",
+            "isbn13": "9781484241639",
+            "image": "https://itbook.store/img/books/9781484241639.png",
+            "rating": 4,
+            "price": "$25.82"
+        }
+    },
+    {
+        "node": {
+            "title": "pro powershell for amazon web services, 2nd edition",
+            "isbn10": "148424849x",
+            "isbn13": "9781484248492",
+            "image": "https://itbook.store/img/books/9781484248492.png",
+            "rating": 0,
+            "price": "$49.99"
+        }
+    },
+    {
+        "node": {
+            "title": "pivotal certified professional core spring 5 developer exam, 2nd edition",
+            "isbn10": "1484251350",
+            "isbn13": "9781484251355",
+            "image": "https://itbook.store/img/books/9781484251355.png",
+            "rating": 3,
+            "price": "$39.99"
+        }
+    },
+    {
+        "node": {
+            "title": "ethereum for web developers",
+            "isbn10": "1484252772",
+            "isbn13": "9781484252772",
+            "image": "https://itbook.store/img/books/9781484252772.png",
+            "rating": 0,
+            "price": "$34.99"
+        }
+    },
+    {
+        "node": {
+            "title": "using and administering linux: volume 2",
+            "isbn10": "1484254546",
+            "isbn13": "9781484254547",
+            "image": "https://itbook.store/img/books/9781484254547.png",
+            "rating": 4,
+            "price": "$34.20"
+        }
+    },
+    {
+        "node": {
+            "title": "using and administering linux: volume 3",
+            "isbn10": "1484254848",
+            "isbn13": "9781484254844",
+            "image": "https://itbook.store/img/books/9781484254844.png",
+            "rating": 0,
+            "price": "$27.82"
+        }
+    },
+    {
+        "node": {
+            "title": "database design and relational theory, 2nd edition",
+            "isbn10": "1484255399",
+            "isbn13": "9781484255391",
+            "image": "https://itbook.store/img/books/9781484255391.png",
+            "rating": 4,
+            "price": "$31.65"
+        }
+    },
+    {
+        "node": {
+            "title": "clean ruby",
+            "isbn10": "1484255453",
+            "isbn13": "9781484255452",
+            "image": "https://itbook.store/img/books/9781484255452.png",
+            "rating": 0,
+            "price": "$25.59"
+        }
+    },
+    {
+        "node": {
+            "title": "turning silicon into gold",
+            "isbn10": "148425628x",
+            "isbn13": "9781484256282",
+            "image": "https://itbook.store/img/books/9781484256282.png",
+            "rating": 0,
+            "price": "$24.14"
+        }
+    },
+    {
+        "node": {
+            "title": "practical matlab modeling with simulink",
+            "isbn10": "1484257987",
+            "isbn13": "9781484257982",
+            "image": "https://itbook.store/img/books/9781484257982.png",
+            "rating": 0,
+            "price": "$31.65"
+        }
+    },
+    {
+        "node": {
+            "title": "advanced asp.net core 3 security",
+            "isbn10": "1484260163",
+            "isbn13": "9781484260166",
+            "image": "https://itbook.store/img/books/9781484260166.png",
+            "rating": 0,
+            "price": "$40.06"
+        }
+    },
+    {
+        "node": {
+            "title": "high performance sql server, 2nd edition",
+            "isbn10": "1484264908",
+            "isbn13": "9781484264904",
+            "image": "https://itbook.store/img/books/9781484264904.png",
+            "rating": 0,
+            "price": "$44.53"
+        }
+    },
+    {
+        "node": {
+            "title": "effective modern c++",
+            "isbn10": "1491903996",
+            "isbn13": "9781491903995",
+            "image": "https://itbook.store/img/books/9781491903995.png",
+            "rating": 5,
+            "price": "$35.10"
+        }
+    },
+    {
+        "node": {
+            "title": "you don't know js: types & grammar",
+            "isbn10": "1491904194",
+            "isbn13": "9781491904190",
+            "image": "https://itbook.store/img/books/9781491904190.png",
+            "rating": 4,
+            "price": "$18.99"
+        }
+    },
+    {
+        "node": {
+            "title": "you don't know js: async & performance",
+            "isbn10": "1491904224",
+            "isbn13": "9781491904220",
+            "image": "https://itbook.store/img/books/9781491904220.png",
+            "rating": 4,
+            "price": "$21.99"
+        }
+    },
+    {
+        "node": {
+            "title": "you don't know js: es6 & beyond",
+            "isbn10": "1491904240",
+            "isbn13": "9781491904244",
+            "image": "https://itbook.store/img/books/9781491904244.png",
+            "rating": 4,
+            "price": "$16.07"
+        }
+    },
+    {
+        "node": {
+            "title": "becoming a better programmer",
+            "isbn10": "1491905530",
+            "isbn13": "9781491905531",
+            "image": "https://itbook.store/img/books/9781491905531.png",
+            "rating": 4,
+            "price": "$8.16"
+        }
+    },
+    {
+        "node": {
+            "title": "information architecture, 4th edition",
+            "isbn10": "1491911689",
+            "isbn13": "9781491911686",
+            "image": "https://itbook.store/img/books/9781491911686.png",
+            "rating": 4,
+            "price": "$16.95"
+        }
+    },
+    {
+        "node": {
+            "title": "architecting hbase applications",
+            "isbn10": "1491915811",
+            "isbn13": "9781491915813",
+            "image": "https://itbook.store/img/books/9781491915813.png",
+            "rating": 4,
+            "price": "$31.22"
+        }
+    },
+    {
+        "node": {
+            "title": "minecraft modding with forge",
+            "isbn10": "1491918896",
+            "isbn13": "9781491918890",
+            "image": "https://itbook.store/img/books/9781491918890.png",
+            "rating": 4,
+            "price": "$5.49"
+        }
+    },
+    {
+        "node": {
+            "title": "you don't know js: up & going",
+            "isbn10": "1491924462",
+            "isbn13": "9781491924464",
+            "image": "https://itbook.store/img/books/9781491924464.png",
+            "rating": 4,
+            "price": "$3.99"
+        }
+    },
+    {
+        "node": {
+            "title": "graph databases, 2nd edition",
+            "isbn10": "1491930896",
+            "isbn13": "9781491930892",
+            "image": "https://itbook.store/img/books/9781491930892.png",
+            "rating": 0,
+            "price": "$32.77"
+        }
+    },
+    {
+        "node": {
+            "title": "optimizing java",
+            "isbn10": "1491933321",
+            "isbn13": "9781491933329",
+            "image": "https://itbook.store/img/books/9781491933329.png",
+            "rating": 0,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "etudes for clojurescript",
+            "isbn10": "1491934891",
+            "isbn13": "9781491934890",
+            "image": "https://itbook.store/img/books/9781491934890.png",
+            "rating": 0,
+            "price": "$4.99"
+        }
+    },
+    {
+        "node": {
+            "title": "xenserver administration handbook",
+            "isbn10": "149193543x",
+            "isbn13": "9781491935439",
+            "image": "https://itbook.store/img/books/9781491935439.png",
+            "rating": 5,
+            "price": "$25.62"
+        }
+    },
+    {
+        "node": {
+            "title": "laravel: up and running",
+            "isbn10": "1491936088",
+            "isbn13": "9781491936085",
+            "image": "https://itbook.store/img/books/9781491936085.png",
+            "rating": 4,
+            "price": "$18.39"
+        }
+    },
+    {
+        "node": {
+            "title": "practical modern javascript",
+            "isbn10": "149194353x",
+            "isbn13": "9781491943533",
+            "image": "https://itbook.store/img/books/9781491943533.png",
+            "rating": 4,
+            "price": "$40.54"
+        }
+    },
+    {
+        "node": {
+            "title": "mobile and web messaging",
+            "isbn10": "1491944803",
+            "isbn13": "9781491944806",
+            "image": "https://itbook.store/img/books/9781491944806.png",
+            "rating": 4,
+            "price": "$11.00"
+        }
+    },
+    {
+        "node": {
+            "title": "practical statistics for data scientists",
+            "isbn10": "1491952962",
+            "isbn13": "9781491952962",
+            "image": "https://itbook.store/img/books/9781491952962.png",
+            "rating": 4,
+            "price": "$27.49"
+        }
+    },
+    {
+        "node": {
+            "title": "real-world software development",
+            "isbn10": "149196717x",
+            "isbn13": "9781491967171",
+            "image": "https://itbook.store/img/books/9781491967171.png",
+            "rating": 4,
+            "price": "$35.99"
+        }
+    },
+    {
+        "node": {
+            "title": "advanced analytics with spark, 2nd edition",
+            "isbn10": "1491972955",
+            "isbn13": "9781491972953",
+            "image": "https://itbook.store/img/books/9781491972953.png",
+            "rating": 4,
+            "price": "$29.85"
+        }
+    },
+    {
+        "node": {
+            "title": "learning perl 6",
+            "isbn10": "149197768x",
+            "isbn13": "9781491977682",
+            "image": "https://itbook.store/img/books/9781491977682.png",
+            "rating": 4,
+            "price": "$54.27"
+        }
+    },
+    {
+        "node": {
+            "title": "kubernetes cookbook",
+            "isbn10": "1491979682",
+            "isbn13": "9781491979686",
+            "image": "https://itbook.store/img/books/9781491979686.png",
+            "rating": 4,
+            "price": "$15.99"
+        }
+    },
+    {
+        "node": {
+            "title": "optimizing java",
+            "isbn10": "1492025798",
+            "isbn13": "9781492025795",
+            "image": "https://itbook.store/img/books/9781492025795.png",
+            "rating": 5,
+            "price": "$45.49"
+        }
+    },
+    {
+        "node": {
+            "title": "fundamentals of data visualization",
+            "isbn10": "1492031089",
+            "isbn13": "9781492031086",
+            "image": "https://itbook.store/img/books/9781492031086.png",
+            "rating": 5,
+            "price": "$31.49"
+        }
+    },
+    {
+        "node": {
+            "title": "java in a nutshell, 7th edition",
+            "isbn10": "1492037257",
+            "isbn13": "9781492037255",
+            "image": "https://itbook.store/img/books/9781492037255.png",
+            "rating": 4,
+            "price": "$37.94"
+        }
+    },
+    {
+        "node": {
+            "title": "technology strategy patterns",
+            "isbn10": "1492040878",
+            "isbn13": "9781492040873",
+            "image": "https://itbook.store/img/books/9781492040873.png",
+            "rating": 4,
+            "price": "$35.83"
+        }
+    },
+    {
+        "node": {
+            "title": "native mobile development",
+            "isbn10": "1492052876",
+            "isbn13": "9781492052876",
+            "image": "https://itbook.store/img/books/9781492052876.png",
+            "rating": 0,
+            "price": "$32.77"
+        }
+    },
+    {
+        "node": {
+            "title": "practical statistics for data scientists, 2nd edition",
+            "isbn10": "149207294x",
+            "isbn13": "9781492072942",
+            "image": "https://itbook.store/img/books/9781492072942.png",
+            "rating": 4,
+            "price": "$49.22"
+        }
+    },
+    {
+        "node": {
+            "title": "building secure and reliable systems",
+            "isbn10": "1492083127",
+            "isbn13": "9781492083122",
+            "image": "https://itbook.store/img/books/9781492083122.png",
+            "rating": 0,
+            "price": "$49.92"
+        }
+    },
+    {
+        "node": {
+            "title": "invent your own computer games with python",
+            "isbn10": "1503212300",
+            "isbn13": "9781503212305",
+            "image": "https://itbook.store/img/books/9781503212305.png",
+            "rating": 0,
+            "price": "$7.48"
+        }
+    },
+    {
+        "node": {
+            "title": "programming for the internet of things",
+            "isbn10": "1509302069",
+            "isbn13": "9781509302062",
+            "image": "https://itbook.store/img/books/9781509302062.png",
+            "rating": 4,
+            "price": "$22.20"
+        }
+    },
+    {
+        "node": {
+            "title": "introducing microsoft power bi",
+            "isbn10": "150930228x",
+            "isbn13": "9781509302284",
+            "image": "https://itbook.store/img/books/9781509302284.png",
+            "rating": 0,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "adaptive code, 2nd edition",
+            "isbn10": "1509302581",
+            "isbn13": "9781509302581",
+            "image": "https://itbook.store/img/books/9781509302581.png",
+            "rating": 4,
+            "price": "$25.92"
+        }
+    },
+    {
+        "node": {
+            "title": "begin to code with python",
+            "isbn10": "1509304525",
+            "isbn13": "9781509304523",
+            "image": "https://itbook.store/img/books/9781509304523.png",
+            "rating": 5,
+            "price": "$18.71"
+        }
+    },
+    {
+        "node": {
+            "title": "c++ the core language",
+            "isbn10": "156592116x",
+            "isbn13": "9781565921160",
+            "image": "https://itbook.store/img/books/9781565921160.png",
+            "rating": 3,
+            "price": "$4.68"
+        }
+    },
+    {
+        "node": {
+            "title": "investigating the cyber breach",
+            "isbn10": "1587145022",
+            "isbn13": "9781587145025",
+            "image": "https://itbook.store/img/books/9781587145025.png",
+            "rating": 0,
+            "price": "$39.39"
+        }
+    },
+    {
+        "node": {
+            "title": "beginning css web development",
+            "isbn10": "1590596897",
+            "isbn13": "9781590596890",
+            "image": "https://itbook.store/img/books/9781590596890.png",
+            "rating": 4,
+            "price": "$16.23"
+        }
+    },
+    {
+        "node": {
+            "title": "pro xml development with java technology",
+            "isbn10": "1590597060",
+            "isbn13": "9781590597064",
+            "image": "https://itbook.store/img/books/9781590597064.png",
+            "rating": 3,
+            "price": "$7.99"
+        }
+    },
+    {
+        "node": {
+            "title": "pro css and html design patterns",
+            "isbn10": "1590598040",
+            "isbn13": "9781590598047",
+            "image": "https://itbook.store/img/books/9781590598047.png",
+            "rating": 4,
+            "price": "$15.84"
+        }
+    },
+    {
+        "node": {
+            "title": "pro sharepoint solution development",
+            "isbn10": "1590598083",
+            "isbn13": "9781590598085",
+            "image": "https://itbook.store/img/books/9781590598085.png",
+            "rating": 3,
+            "price": "$17.78"
+        }
+    },
+    {
+        "node": {
+            "title": "mac os x leopard",
+            "isbn10": "1590598377",
+            "isbn13": "9781590598375",
+            "image": "https://itbook.store/img/books/9781590598375.png",
+            "rating": 4,
+            "price": "$24.99"
+        }
+    },
+    {
+        "node": {
+            "title": "linux appliance design",
+            "isbn10": "1593271409",
+            "isbn13": "9781593271404",
+            "image": "https://itbook.store/img/books/9781593271404.png",
+            "rating": 0,
+            "price": "$25.81"
+        }
+    },
+    {
+        "node": {
+            "title": "the book of ruby",
+            "isbn10": "1593272944",
+            "isbn13": "9781593272944",
+            "image": "https://itbook.store/img/books/9781593272944.png",
+            "rating": 4,
+            "price": "$23.99"
+        }
+    },
+    {
+        "node": {
+            "title": "python for kids",
+            "isbn10": "1593274076",
+            "isbn13": "9781593274078",
+            "image": "https://itbook.store/img/books/9781593274078.png",
+            "rating": 4,
+            "price": "$19.45"
+        }
+    },
+    {
+        "node": {
+            "title": "super scratch programming adventure!",
+            "isbn10": "1593274092",
+            "isbn13": "9781593274092",
+            "image": "https://itbook.store/img/books/9781593274092.png",
+            "rating": 4,
+            "price": "$5.38"
+        }
+    },
+    {
+        "node": {
+            "title": "think like a programmer",
+            "isbn10": "1593274246",
+            "isbn13": "9781593274245",
+            "image": "https://itbook.store/img/books/9781593274245.png",
+            "rating": 4,
+            "price": "$24.96"
+        }
+    },
+    {
+        "node": {
+            "title": "the manga guide to cryptography",
+            "isbn10": "1593277423",
+            "isbn13": "9781593277420",
+            "image": "https://itbook.store/img/books/9781593277420.png",
+            "rating": 4,
+            "price": "$16.15"
+        }
+    },
+    {
+        "node": {
+            "title": "real-world bug hunting",
+            "isbn10": "1593278616",
+            "isbn13": "9781593278618",
+            "image": "https://itbook.store/img/books/9781593278618.png",
+            "rating": 4,
+            "price": "$23.75"
+        }
+    },
+    {
+        "node": {
+            "title": "math adventures with python",
+            "isbn10": "1593278675",
+            "isbn13": "9781593278670",
+            "image": "https://itbook.store/img/books/9781593278670.png",
+            "rating": 0,
+            "price": "$17.78"
+        }
+    },
+    {
+        "node": {
+            "title": "serious python",
+            "isbn10": "1593278780",
+            "isbn13": "9781593278786",
+            "image": "https://itbook.store/img/books/9781593278786.png",
+            "rating": 4,
+            "price": "$20.99"
+        }
+    },
+    {
+        "node": {
+            "title": "impractical python projects",
+            "isbn10": "159327890x",
+            "isbn13": "9781593278908",
+            "image": "https://itbook.store/img/books/9781593278908.png",
+            "rating": 5,
+            "price": "$17.99"
+        }
+    },
+    {
+        "node": {
+            "title": "absolute freebsd, 3rd edition",
+            "isbn10": "1593278926",
+            "isbn13": "9781593278922",
+            "image": "https://itbook.store/img/books/9781593278922.png",
+            "rating": 4,
+            "price": "$39.40"
+        }
+    },
+    {
+        "node": {
+            "title": "the linux command line, 2nd edition",
+            "isbn10": "1593279523",
+            "isbn13": "9781593279523",
+            "image": "https://itbook.store/img/books/9781593279523.png",
+            "rating": 4,
+            "price": "$25.31"
+        }
+    },
+    {
+        "node": {
+            "title": "beyond the basic stuff with python",
+            "isbn10": "1593279663",
+            "isbn13": "9781593279660",
+            "image": "https://itbook.store/img/books/9781593279660.png",
+            "rating": 4,
+            "price": "$24.49"
+        }
+    },
+    {
+        "node": {
+            "title": "hadoop in practice",
+            "isbn10": "1617290238",
+            "isbn13": "9781617290237",
+            "image": "https://itbook.store/img/books/9781617290237.png",
+            "rating": 4,
+            "price": "$12.00"
+        }
+    },
+    {
+        "node": {
+            "title": "powershell in depth",
+            "isbn10": "1617290556",
+            "isbn13": "9781617290558",
+            "image": "https://itbook.store/img/books/9781617290558.png",
+            "rating": 4,
+            "price": "$6.48"
+        }
+    },
+    {
+        "node": {
+            "title": "aop in .net",
+            "isbn10": "1617291145",
+            "isbn13": "9781617291142",
+            "image": "https://itbook.store/img/books/9781617291142.png",
+            "rating": 4,
+            "price": "$37.49"
+        }
+    },
+    {
+        "node": {
+            "title": "powershell deep dives",
+            "isbn10": "1617291315",
+            "isbn13": "9781617291319",
+            "image": "https://itbook.store/img/books/9781617291319.png",
+            "rating": 4,
+            "price": "$37.65"
+        }
+    },
+    {
+        "node": {
+            "title": "kotlin in action",
+            "isbn10": "1617293296",
+            "isbn13": "9781617293290",
+            "image": "https://itbook.store/img/books/9781617293290.png",
+            "rating": 5,
+            "price": "$31.99"
+        }
+    },
+    {
+        "node": {
+            "title": "serverless architectures on aws",
+            "isbn10": "1617293822",
+            "isbn13": "9781617293825",
+            "image": "https://itbook.store/img/books/9781617293825.png",
+            "rating": 4,
+            "price": "$32.75"
+        }
+    },
+    {
+        "node": {
+            "title": "using the web to build the iot",
+            "isbn10": "1617294004",
+            "isbn13": "9781617294006",
+            "image": "https://itbook.store/img/books/9781617294006.png",
+            "rating": 4,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "the quick python book, 3rd edition",
+            "isbn10": "1617294039",
+            "isbn13": "9781617294037",
+            "image": "https://itbook.store/img/books/9781617294037.png",
+            "rating": 5,
+            "price": "$31.99"
+        }
+    },
+    {
+        "node": {
+            "title": "designing scalable javascript applications",
+            "isbn10": "1617294179",
+            "isbn13": "9781617294174",
+            "image": "https://itbook.store/img/books/9781617294174.png",
+            "rating": 3,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "exploring data science",
+            "isbn10": "1617294187",
+            "isbn13": "9781617294181",
+            "image": "https://itbook.store/img/books/9781617294181.png",
+            "rating": 4,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "reactive data handling",
+            "isbn10": "1617294195",
+            "isbn13": "9781617294198",
+            "image": "https://itbook.store/img/books/9781617294198.png",
+            "rating": 2,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "cloud native applications",
+            "isbn10": "1617294314",
+            "isbn13": "9781617294310",
+            "image": "https://itbook.store/img/books/9781617294310.png",
+            "rating": 3,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "understanding api security",
+            "isbn10": "1617294322",
+            "isbn13": "9781617294327",
+            "image": "https://itbook.store/img/books/9781617294327.png",
+            "rating": 2,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "web design playground",
+            "isbn10": "1617294403",
+            "isbn13": "9781617294402",
+            "image": "https://itbook.store/img/books/9781617294402.png",
+            "rating": 0,
+            "price": "$25.92"
+        }
+    },
+    {
+        "node": {
+            "title": "aurelia in action",
+            "isbn10": "1617294780",
+            "isbn13": "9781617294785",
+            "image": "https://itbook.store/img/books/9781617294785.png",
+            "rating": 5,
+            "price": "$41.18"
+        }
+    },
+    {
+        "node": {
+            "title": "exploring cloud computing",
+            "isbn10": "161729487x",
+            "isbn13": "9781617294877",
+            "image": "https://itbook.store/img/books/9781617294877.png",
+            "rating": 3,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "agile development for serverless platforms",
+            "isbn10": "1617294985",
+            "isbn13": "9781617294983",
+            "image": "https://itbook.store/img/books/9781617294983.png",
+            "rating": 2,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "exploring the data jungle",
+            "isbn10": "161729506x",
+            "isbn13": "9781617295065",
+            "image": "https://itbook.store/img/books/9781617295065.png",
+            "rating": 5,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "exploring microservices",
+            "isbn10": "1617295078",
+            "isbn13": "9781617295072",
+            "image": "https://itbook.store/img/books/9781617295072.png",
+            "rating": 0,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "exploring data with python",
+            "isbn10": "161729604x",
+            "isbn13": "9781617296048",
+            "image": "https://itbook.store/img/books/9781617296048.png",
+            "rating": 4,
+            "price": "$0.00"
+        }
+    },
+    {
+        "node": {
+            "title": "seriously good software",
+            "isbn10": "1617296295",
+            "isbn13": "9781617296291",
+            "image": "https://itbook.store/img/books/9781617296291.png",
+            "rating": 3,
+            "price": "$31.99"
+        }
+    },
+    {
+        "node": {
+            "title": "release it! 2nd edition",
+            "isbn10": "1680502395",
+            "isbn13": "9781680502398",
+            "image": "https://itbook.store/img/books/9781680502398.png",
+            "rating": 4,
+            "price": "$29.99"
+        }
+    },
+    {
+        "node": {
+            "title": "adopting elixir",
+            "isbn10": "1680502522",
+            "isbn13": "9781680502527",
+            "image": "https://itbook.store/img/books/9781680502527.png",
+            "rating": 4,
+            "price": "$35.43"
+        }
+    },
+    {
+        "node": {
+            "title": "explore software defined radio",
+            "isbn10": "1680507591",
+            "isbn13": "9781680507591",
+            "image": "https://itbook.store/img/books/9781680507591.png",
+            "rating": 4,
+            "price": "$19.95"
+        }
+    },
+    {
+        "node": {
+            "title": "high-tech lego projects",
+            "isbn10": "1718500254",
+            "isbn13": "9781718500259",
+            "image": "https://itbook.store/img/books/9781718500259.png",
+            "rating": 0,
+            "price": "$21.71"
+        }
+    },
+    {
+        "node": {
+            "title": "python one-liners",
+            "isbn10": "1718500505",
+            "isbn13": "9781718500501",
+            "image": "https://itbook.store/img/books/9781718500501.png",
+            "rating": 5,
+            "price": "$31.98"
+        }
+    },
+    {
+        "node": {
+            "title": "real-world python",
+            "isbn10": "1718500629",
+            "isbn13": "9781718500624",
+            "image": "https://itbook.store/img/books/9781718500624.png",
+            "rating": 0,
+            "price": "$26.91"
+        }
+    },
+    {
+        "node": {
+            "title": "how computers really work",
+            "isbn10": "1718500661",
+            "isbn13": "9781718500662",
+            "image": "https://itbook.store/img/books/9781718500662.png",
+            "rating": 4,
+            "price": "$25.49"
+        }
+    },
+    {
+        "node": {
+            "title": "learning selenium testing tools with python",
+            "isbn10": "1783983507",
+            "isbn13": "9781783983506",
+            "image": "https://itbook.store/img/books/9781783983506.png",
+            "rating": 4,
+            "price": "$26.99"
+        }
+    },
+    {
+        "node": {
+            "title": "ember.js web development with ember cli",
+            "isbn10": "1784395846",
+            "isbn13": "9781784395841",
+            "image": "https://itbook.store/img/books/9781784395841.png",
+            "rating": 4,
+            "price": "$20.99"
+        }
+    },
+    {
+        "node": {
+            "title": "zabbix network monitoring essentials",
+            "isbn10": "1784399760",
+            "isbn13": "9781784399764",
+            "image": "https://itbook.store/img/books/9781784399764.png",
+            "rating": 3,
+            "price": "$14.99"
+        }
+    },
+    {
+        "node": {
+            "title": "arcgis blueprints",
+            "isbn10": "1785286226",
+            "isbn13": "9781785286223",
+            "image": "https://itbook.store/img/books/9781785286223.png",
+            "rating": 0,
+            "price": "$43.99"
+        }
+    },
+    {
+        "node": {
+            "title": "application development with swift",
+            "isbn10": "1785288172",
+            "isbn13": "9781785288173",
+            "image": "https://itbook.store/img/books/9781785288173.png",
+            "rating": 0,
+            "price": "$33.26"
+        }
+    },
+    {
+        "node": {
+            "title": "python web scraping cookbook",
+            "isbn10": "1787285219",
+            "isbn13": "9781787285217",
+            "image": "https://itbook.store/img/books/9781787285217.png",
+            "rating": 5,
+            "price": "$39.99"
+        }
+    },
+    {
+        "node": {
+            "title": "julia programming projects",
+            "isbn10": "178829274x",
+            "isbn13": "9781788292740",
+            "image": "https://itbook.store/img/books/9781788292740.png",
+            "rating": 0,
+            "price": "$44.99"
+        }
+    },
+    {
+        "node": {
+            "title": "python interviews",
+            "isbn10": "1788399080",
+            "isbn13": "9781788399081",
+            "image": "https://itbook.store/img/books/9781788399081.png",
+            "rating": 0,
+            "price": "$27.99"
+        }
+    },
+    {
+        "node": {
+            "title": "101 ux principles",
+            "isbn10": "1788837363",
+            "isbn13": "9781788837361",
+            "image": "https://itbook.store/img/books/9781788837361.png",
+            "rating": 4,
+            "price": "$39.99"
+        }
+    },
+    {
+        "node": {
+            "title": "continuous delivery and devops - a quickstart guide, 3rd edition",
+            "isbn10": "1788995473",
+            "isbn13": "9781788995474",
+            "image": "https://itbook.store/img/books/9781788995474.png",
+            "rating": 0,
+            "price": "$29.99"
+        }
+    },
+    {
+        "node": {
+            "title": "r web scraping quick start guide",
+            "isbn10": "1789138736",
+            "isbn13": "9781789138733",
+            "image": "https://itbook.store/img/books/9781789138733.png",
+            "rating": 0,
+            "price": "$29.99"
+        }
+    },
+    {
+        "node": {
+            "title": "react and react native, 2nd edition",
+            "isbn10": "1789346797",
+            "isbn13": "9781789346794",
+            "image": "https://itbook.store/img/books/9781789346794.png",
+            "rating": 0,
+            "price": "$44.99"
+        }
+    },
+    {
+        "node": {
+            "title": "hands-on gpu-accelerated computer vision with opencv and cuda",
+            "isbn10": "1789348293",
+            "isbn13": "9781789348293",
+            "image": "https://itbook.store/img/books/9781789348293.png",
+            "rating": 4,
+            "price": "$49.99"
+        }
+    },
+    {
+        "node": {
+            "title": "python machine learning, 3rd edition",
+            "isbn10": "1789955750",
+            "isbn13": "9781789955750",
+            "image": "https://itbook.store/img/books/9781789955750.png",
+            "rating": 4,
+            "price": "$35.99"
+        }
+    },
+    {
+        "node": {
+            "title": "c# 9 and .net 5 - modern cross-platform development, 5th edition",
+            "isbn10": "180056810x",
+            "isbn13": "9781800568105",
+            "image": "https://itbook.store/img/books/9781800568105.png",
+            "rating": 0,
+            "price": "$40.29"
+        }
+    },
+    {
+        "node": {
+            "title": "responsive web design with html5 and css, 3rd edition",
+            "isbn10": "1839211563",
+            "isbn13": "9781839211560",
+            "image": "https://itbook.store/img/books/9781839211560.png",
+            "rating": 0,
+            "price": "$38.18"
+        }
+    },
+    {
+        "node": {
+            "title": "zabbix 1.8 network monitoring",
+            "isbn10": "184719768x",
+            "isbn13": "9781847197689",
+            "image": "https://itbook.store/img/books/9781847197689.png",
+            "rating": 0,
+            "price": "$26.99"
+        }
+    },
+    {
+        "node": {
+            "title": "latex: beginner's guide",
+            "isbn10": "1847199860",
+            "isbn13": "9781847199867",
+            "image": "https://itbook.store/img/books/9781847199867.png",
+            "rating": 4,
+            "price": "$26.99"
+        }
+    },
+    {
+        "node": {
+            "title": "information fusion in signal and image processing",
+            "isbn10": "1848210191",
+            "isbn13": "9781848210196",
+            "image": "https://itbook.store/img/books/9781848210196.png",
+            "rating": 0,
+            "price": "$47.30"
+        }
+    },
+    {
+        "node": {
+            "title": "advanced backend optimization",
+            "isbn10": "184821538x",
+            "isbn13": "9781848215382",
+            "image": "https://itbook.store/img/books/9781848215382.png",
+            "rating": 0,
+            "price": "$120.40"
+        }
+    },
+    {
+        "node": {
+            "title": "drupal 7 module development",
+            "isbn10": "1849511160",
+            "isbn13": "9781849511162",
+            "image": "https://itbook.store/img/books/9781849511162.png",
+            "rating": 4,
+            "price": "$26.99"
+        }
+    },
+    {
+        "node": {
+            "title": "freeswitch cookbook",
+            "isbn10": "1849515409",
+            "isbn13": "9781849515405",
+            "image": "https://itbook.store/img/books/9781849515405.png",
+            "rating": 4,
+            "price": "$17.99"
+        }
+    },
+    {
+        "node": {
+            "title": "ejb 3.0 database persistence with oracle fusion middleware 11g",
+            "isbn10": "1849681562",
+            "isbn13": "9781849681568",
+            "image": "https://itbook.store/img/books/9781849681568.png",
+            "rating": 3,
+            "price": "$5.79"
+        }
+    },
+    {
+        "node": {
+            "title": "unity 2d game development",
+            "isbn10": "1849692564",
+            "isbn13": "9781849692564",
+            "image": "https://itbook.store/img/books/9781849692564.png",
+            "rating": 3,
+            "price": "$14.99"
+        }
+    },
+    {
+        "node": {
+            "title": "unity 4.x game ai programming",
+            "isbn10": "1849693404",
+            "isbn13": "9781849693400",
+            "image": "https://itbook.store/img/books/9781849693400.png",
+            "rating": 4,
+            "price": "$26.99"
+        }
+    },
+    {
+        "node": {
+            "title": "yammer starter",
+            "isbn10": "1849694044",
+            "isbn13": "9781849694049",
+            "image": "https://itbook.store/img/books/9781849694049.png",
+            "rating": 3,
+            "price": "$9.99"
+        }
+    },
+    {
+        "node": {
+            "title": "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile",
+            "isbn10": "1849694745",
+            "isbn13": "9781849694742",
+            "image": "https://itbook.store/img/books/9781849694742.png",
+            "rating": 5,
+            "price": "$26.99"
+        }
+    },
+    {
+        "node": {
+            "title": "ios and os x network programming cookbook",
+            "isbn10": "1849698082",
+            "isbn13": "9781849698085",
+            "image": "https://itbook.store/img/books/9781849698085.png",
+            "rating": 4,
+            "price": "$29.99"
+        }
+    },
+    {
+        "node": {
+            "title": "ant in action, 2nd edition",
+            "isbn10": "193239480x",
+            "isbn13": "9781932394801",
+            "image": "https://itbook.store/img/books/9781932394801.png",
+            "rating": 4,
+            "price": "$1.00"
+        }
+    },
+    {
+        "node": {
+            "title": "asp.net mvc in action",
+            "isbn10": "1933988622",
+            "isbn13": "9781933988627",
+            "image": "https://itbook.store/img/books/9781933988627.png",
+            "rating": 4,
+            "price": "$15.03"
+        }
+    },
+    {
+        "node": {
+            "title": "the druby book",
+            "isbn10": "193435693x",
+            "isbn13": "9781934356937",
+            "image": "https://itbook.store/img/books/9781934356937.png",
+            "rating": 4,
+            "price": "$3.99"
+        }
+    },
+    {
+        "node": {
+            "title": "rails 3 in action",
+            "isbn10": "1935182277",
+            "isbn13": "9781935182276",
+            "image": "https://itbook.store/img/books/9781935182276.png",
+            "rating": 4,
+            "price": "$11.50"
+        }
+    },
+    {
+        "node": {
+            "title": "scala in depth",
+            "isbn10": "1935182706",
+            "isbn13": "9781935182702",
+            "image": "https://itbook.store/img/books/9781935182702.png",
+            "rating": 4,
+            "price": "$5.18"
+        }
+    },
+    {
+        "node": {
+            "title": "html5 and css3, 2nd edition",
+            "isbn10": "1937785599",
+            "isbn13": "9781937785598",
+            "image": "https://itbook.store/img/books/9781937785598.png",
+            "rating": 4,
+            "price": "$6.53"
+        }
+    },
+    {
+        "node": {
+            "title": "icloud for developers",
+            "isbn10": "1937785602",
+            "isbn13": "9781937785604",
+            "image": "https://itbook.store/img/books/9781937785604.png",
+            "rating": 1,
+            "price": "$16.16"
+        }
+    }
+]
