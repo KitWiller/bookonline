@@ -8,7 +8,7 @@ const BookBox = props => {   //costruzione componente + ricezione dati da index
     return (
         <div className="flex flex-col items-center" >
         
-            <Immagine image={props.image} alt={props.alt} scss="-mx-20 -my-10 " />
+            <Immagine image={props.image} alt={props.alt} scss="-mx-20 -my-10" />
 
             <div className="items-left ">
   
