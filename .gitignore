@@ -79,10 +79,6 @@ src/pages/books.js
 src/pages/cat.js
 src/pages/contact.js
 
-src/templates
-
-gatsby-node.js
-
 
 # Yarn
 yarn-error.log
