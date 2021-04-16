@@ -3,6 +3,7 @@ import React from 'react'
 import Reader from "../components/reader"
 import Immagine from './immagine'
 import PriceAll from './prezzi'
+import StarRating from '../components/starrating'
 
 const BookBox = props => {   //costruzione componente + ricezione dati da index
     return (
@@ -12,7 +13,7 @@ const BookBox = props => {   //costruzione componente + ricezione dati da index
 
             <div className="items-left ">
   
-                <div> <span className="font-extrabold">Rating : </span> {getRating(props.rating)}  </div> 
+                <div> <span className="font-extrabold">Rating : </span> <StarRating rating = {props.rating} /> </div> 
                 <div> <span className="font-extrabold"> Lowest Price : </span>  {props.price}   </div>
                 
                 <div> <span className="font-extrabold">Formats : </span> </div>
@@ -35,30 +36,7 @@ const BookBox = props => {   //costruzione componente + ricezione dati da index
                                                                     // ul unordered list elenco puntato
 }
 
-function getRating(rating) {                                           //costruzione rating stelle
-    let objReturn = []
-    let nomeStella = ""
-    let nomeimg = ""                                                   // creazione variabile nome stella 
-    for (let i = 0; i <= 4; i++) {                                     //ciclo per visualizzare fino a 5 stelle
-        if (i < rating) {
-            nomeStella = "Stella on"
-            nomeimg = "star.png"
-        } else {
-            nomeStella = "Stella off" 
-            nomeimg = "star0.png"
-        }                                                 // se i è minore di rating la stella è on
 
-
-        objReturn.push(            //push la funzione obj return
-        <Immagine scss="inline-block" key={"star_" + i.toString()} image={"https://itbook.store/img/" + nomeimg} alt={nomeStella} />
-        )
-
-
-                                                                //inline block per mettere le img in orizzontali invece che in verticale(anche su immagine.js)
-    }
-    return objReturn //ritorna funzione
-
-}
 
 /*
 function getFormat(format){                                         
