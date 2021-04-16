@@ -9,8 +9,7 @@ const Layout = ({ location, title, children }) => {
     return (
         <div className="flex flex-col h-screen" >
 
-
-            <header className="py-1"> 
+            <header className="py-1 px-9"> 
                 <Navbar />
            </header>
 

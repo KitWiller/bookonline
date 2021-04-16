@@ -12,7 +12,7 @@ export default function Navbar({ fixed }) {
   const menuBKPoint = "lg"
 
   return (
-    <nav className={"relative flex flex-wrap items-center justify-between navbar-expand-" + menuBKPoint + " shadow-lg pb-1"}>
+    <nav className={"relative flex flex-wrap items-center justify-between navbar-expand-" + menuBKPoint + " pb-1"}>
       <div className="container mx-auto flex flex-wrap items-center justify-between">
         
         <div className={"w-full relative flex justify-between " + menuBKPoint + ":w-auto " + menuBKPoint + ":static " + menuBKPoint + ":block " + menuBKPoint + ":justify-start"}>
