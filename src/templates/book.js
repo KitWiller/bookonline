@@ -9,7 +9,7 @@ const Book = props => {
     const page = props.pageContext
     return (
         <Layout>
-            {JSON.stringify(page)}
+            
             <div className="flex flex-wrap overflow-hidden lg:-mx-1">                                  {/*contenitore spalla + contenuto*/}
 
 
