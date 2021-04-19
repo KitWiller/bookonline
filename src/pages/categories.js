@@ -18,7 +18,7 @@ const Categories = props => (
     render={data => (
       <>
         <Layout location="/destinations" title="Destinations">
-          categories
+            <div>{JSON.stringify(data)}</div>
         </Layout>
       </>
     )}
