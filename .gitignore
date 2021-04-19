@@ -73,11 +73,7 @@ testJson
 
 # Parti da non caricare per il momento
 
-src/pages/404.js
-src/pages/about.js
-src/pages/books.js
-src/pages/cat.js
-src/pages/contact.js
+
 
 
 # Yarn
