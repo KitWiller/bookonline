@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 const Categories = props => (
   <StaticQuery
     query={graphql`
-      query MyQuery {
+      query {
         allBookstoreJson {
           edges {
             node {
