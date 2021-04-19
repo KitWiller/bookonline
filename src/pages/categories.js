@@ -18,11 +18,18 @@ const Categories = props => (
     render={data => (
       <>
         <Layout location="/destinations" title="Destinations">
-            <div>{JSON.stringify(data)}</div>
+            <div>{cleandouble(data.allBookstoreJson.edges)}</div>
         </Layout>
       </>
     )}
   />
 )
+
+function cleandouble(nodi){
+    nodi.forEach(element => {
+      //  console.log(element.node.categories)
+      console.log("ciao")
+    });
+}
 
 export default Categories
