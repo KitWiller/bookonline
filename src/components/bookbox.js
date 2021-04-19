@@ -4,28 +4,29 @@ import Reader from "../components/reader"
 import Immagine from './immagine'
 import PriceAll from './prezzi'
 import StarRating from '../components/starrating'
+import Book from '../templates/book'
 
-const BookBox = props => {   //costruzione componente + ricezione dati da index
+const BookBox = Book => {   //costruzione componente + ricezione dati da index
     return (
         <div className="flex flex-col items-center" >
         
-            <Immagine image={props.image} alt={props.alt} scss="-mx-20 -my-10" />
+            <Immagine image={Book.image} alt={Book.alt} scss="-mx-20 -my-10" />
 
             <div className="items-left ">
   
-                <div> <span className="font-extrabold">Rating : </span> <StarRating rating = {props.rating} /> </div> 
-                <div> <span className="font-extrabold"> Lowest Price : </span>  {props.price}   </div>
+                <div> <span className="font-extrabold">Rating : </span> <StarRating rating = {Book.rating} /> </div> 
+                <div> <span className="font-extrabold"> Lowest Price : </span>  {Book.price}   </div>
                 
                 <div> <span className="font-extrabold">Formats : </span> </div>
                 <Reader  
-                lista = {props.format}
+                lista = {Book.format}
                 prefix = "format" />                         
                 
                 <div>
                     <span className="font-extrabold"> More sellers: </span> 
                     <PriceAll 
-                    prices = {props.prices}
-                    price = {props.price}
+                    prices = {Book.prices}
+                    price = {Book.price}
                     pcss = "font-extrabold"
                     />
                 </div>
