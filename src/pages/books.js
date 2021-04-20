@@ -3,7 +3,6 @@ import { StaticQuery, graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import StarRating from "../components/starrating"
 
-
 const Books = props => (
   <StaticQuery
     query={graphql`
@@ -12,11 +11,7 @@ const Books = props => (
           edges {
             node {
               title
-              isbn10
-              isbn13
-              image
-              rating
-              price
+              categories
             }
           }
         }
@@ -25,14 +20,35 @@ const Books = props => (
     render={data => (
       <>
         <Layout location="/destinations" title="Destinations">
-          <div className="flex flex-wrap -mx-1 overflow-hidden">{nodeView(data.allBookstoreJson.edges)}</div>
+          {get_Categories(data.allBookstoreJson.edges)}
         </Layout>
       </>
     )}
   />
 )
 
+function get_Categories(items) {
+  // let categories = {}
 
+  // items.forEach(item => {
+  //   let iLen = item.node.categories.length
+  //   try {
+  //     categories[iLen].push(item.node.title)
+  //   } catch {
+  //     categories[iLen] = []
+  //     categories[iLen].push(item.node.title)
+  //   }
+  // })
+
+  // console.log(JSON.stringify(categories))
+
+  return (<div className="flex flex-wrap -mx-1 overflow-hidden">{[]}</div>)
+
+}
+
+/*
+
+<div className="flex flex-wrap -mx-1 overflow-hidden">{nodeView(data.allBookstoreJson.edges)}</div>
 
 function getIsbn(isbn13, isbn10){                  //funzione se isbn13 non è vuoto ritorna isbn13 altrimenti ritorna 1sbn10
   let isbn = isbn13
@@ -68,5 +84,7 @@ function nodeView(nodi){                                                   //fun
     }) 
     return objReturn
 }
+
+*/
 
 export default Books
