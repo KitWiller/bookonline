@@ -6,7 +6,7 @@ import UpBold from "../components/upperbold"
 
 
 const Book = props => {
-    const page = props.pageContext
+    const page = props.pageContext 
     return (
         <Layout>
             
