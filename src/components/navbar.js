@@ -59,7 +59,7 @@ function getLinks() {
   links.forEach(itmLink => {
     objReturn.push(
       <li key={`navR_${iCount.toString()}`} className="nav-item">
-        <NavLink name={itmLink.name} path={itmLink.path} css="px-3 py-2 flex items-center text-xs uppercase leading-snug hover:opacity-75" />
+        <NavLink name={itmLink.name} path={itmLink.path} css="nav-item px-3 py-2 flex items-center text-xs uppercase leading-snug hover:opacity-75" />
       </li>
     )
     

@@ -2,90 +2,105 @@
     "0": [
         {
             "title": "information fusion in signal and image processing",
+            "rating": 0,
             "categories": []
         }
     ],
     "1": [
         {
             "title": "pragmatic version control using cvs",
+            "rating": 3,
             "categories": [
                 "subversion"
             ]
         },
         {
             "title": "the web designer's roadmap",
+            "rating": 4,
             "categories": [
                 "design"
             ]
         },
         {
             "title": "adventures in minecraft",
+            "rating": 4,
             "categories": [
                 "programming"
             ]
         },
         {
             "title": "artificial intelligence for dummies",
+            "rating": 4,
             "categories": [
                 "for-dummies"
             ]
         },
         {
             "title": "learn os x lion, 2nd edition",
+            "rating": 4,
             "categories": [
                 "mac"
             ]
         },
         {
             "title": "pointers in c",
+            "rating": 3,
             "categories": [
                 "basic"
             ]
         },
         {
             "title": "propeller programming",
+            "rating": 0,
             "categories": [
                 "programming"
             ]
         },
         {
             "title": "pmp in depth",
+            "rating": 5,
             "categories": [
                 "project"
             ]
         },
         {
             "title": "write your way to success",
+            "rating": 3,
             "categories": [
                 "programming"
             ]
         },
         {
             "title": "mac os x leopard",
+            "rating": 4,
             "categories": [
                 "mac"
             ]
         },
         {
             "title": "think like a programmer",
+            "rating": 4,
             "categories": [
                 "programming"
             ]
         },
         {
             "title": "hadoop in practice",
+            "rating": 4,
             "categories": [
                 "hadoop"
             ]
         },
         {
             "title": "reactive data handling",
+            "rating": 2,
             "categories": [
                 "asp"
             ]
         },
         {
             "title": "yammer starter",
+            "rating": 3,
             "categories": [
                 "project"
             ]
@@ -94,6 +109,7 @@
     "2": [
         {
             "title": "do more with soa integration: best of packt",
+            "rating": 0,
             "categories": [
                 "business",
                 "soa"
@@ -101,6 +117,7 @@
         },
         {
             "title": "the coder's apprentice",
+            "rating": 0,
             "categories": [
                 "programming",
                 "python"
@@ -108,6 +125,7 @@
         },
         {
             "title": "python",
+            "rating": 3,
             "categories": [
                 "design",
                 "python"
@@ -115,6 +133,7 @@
         },
         {
             "title": "microsoft word 2013 plain & simple",
+            "rating": 4,
             "categories": [
                 "microsoft",
                 "microsoft-word"
@@ -122,6 +141,7 @@
         },
         {
             "title": "aperture 3 portable genius, 2nd edition",
+            "rating": 4,
             "categories": [
                 "software",
                 "tuning"
@@ -129,6 +149,7 @@
         },
         {
             "title": "excel 2013 bible",
+            "rating": 4,
             "categories": [
                 "microsoft",
                 "microsoft-excel"
@@ -136,6 +157,7 @@
         },
         {
             "title": "the data warehouse toolkit, 3rd edition",
+            "rating": 4,
             "categories": [
                 "business",
                 "patterns"
@@ -143,6 +165,7 @@
         },
         {
             "title": "101 excel 2013 tips, tricks and timesavers",
+            "rating": 4,
             "categories": [
                 "microsoft-excel",
                 "testing"
@@ -150,6 +173,7 @@
         },
         {
             "title": "troubleshooting oracle performance, 2nd edition",
+            "rating": 4,
             "categories": [
                 "database",
                 "oracle"
@@ -157,6 +181,7 @@
         },
         {
             "title": "building the infrastructure for cloud security",
+            "rating": 0,
             "categories": [
                 "cloud",
                 "security"
@@ -164,6 +189,7 @@
         },
         {
             "title": "accessible epub 3",
+            "rating": 0,
             "categories": [
                 "media",
                 "microsoft-access"
@@ -171,6 +197,7 @@
         },
         {
             "title": "epub 3 best practices",
+            "rating": 4,
             "categories": [
                 "asp",
                 "media"
@@ -178,6 +205,7 @@
         },
         {
             "title": "android cookbook",
+            "rating": 4,
             "categories": [
                 "android",
                 "media"
@@ -185,6 +213,7 @@
         },
         {
             "title": "sap erp financial accounting and controlling",
+            "rating": 0,
             "categories": [
                 "sap",
                 "wi-fi"
@@ -192,6 +221,7 @@
         },
         {
             "title": "sudoku programming with c",
+            "rating": 3,
             "categories": [
                 "patterns",
                 "programming"
@@ -199,6 +229,7 @@
         },
         {
             "title": "developing for apple tv using tvos and swift",
+            "rating": 3,
             "categories": [
                 "project",
                 "sdk"
@@ -206,6 +237,7 @@
         },
         {
             "title": "clean ruby",
+            "rating": 0,
             "categories": [
                 "ide",
                 "ruby"
@@ -213,6 +245,7 @@
         },
         {
             "title": "beginning css web development",
+            "rating": 4,
             "categories": [
                 "css",
                 "design"
@@ -220,6 +253,7 @@
         },
         {
             "title": "pro xml development with java technology",
+            "rating": 3,
             "categories": [
                 "java",
                 "xml"
@@ -227,6 +261,7 @@
         },
         {
             "title": "powershell deep dives",
+            "rating": 4,
             "categories": [
                 "administration",
                 "powershell"
@@ -234,6 +269,7 @@
         },
         {
             "title": "advanced backend optimization",
+            "rating": 0,
             "categories": [
                 "optimization",
                 "software"
@@ -241,6 +277,7 @@
         },
         {
             "title": "icloud for developers",
+            "rating": 1,
             "categories": [
                 "ios",
                 "media"
@@ -250,6 +287,7 @@
     "3": [
         {
             "title": "the little go book",
+            "rating": 0,
             "categories": [
                 "google",
                 "ide",
@@ -258,6 +296,7 @@
         },
         {
             "title": "history of programming languages",
+            "rating": 5,
             "categories": [
                 "design",
                 "microsoft-word",
@@ -266,6 +305,7 @@
         },
         {
             "title": "peopleware, 3rd edition",
+            "rating": 4,
             "categories": [
                 "project",
                 "software",
@@ -274,6 +314,7 @@
         },
         {
             "title": "beginning programming with java for dummies, 3rd edition",
+            "rating": 4,
             "categories": [
                 "for-dummies",
                 "java",
@@ -282,6 +323,7 @@
         },
         {
             "title": "solidworks 2009 bible",
+            "rating": 5,
             "categories": [
                 "basic",
                 "design",
@@ -290,6 +332,7 @@
         },
         {
             "title": "typepad for dummies",
+            "rating": 3,
             "categories": [
                 "design",
                 "for-dummies",
@@ -298,6 +341,7 @@
         },
         {
             "title": "ruby in a nutshell",
+            "rating": 3,
             "categories": [
                 "media",
                 "nutshell",
@@ -306,6 +350,7 @@
         },
         {
             "title": "actionscript for flash mx: the definitive guide, 2nd edition",
+            "rating": 0,
             "categories": [
                 "actionscript",
                 "flash",
@@ -314,6 +359,7 @@
         },
         {
             "title": "sams teach yourself iphone application development in 24 hours, 2nd edition",
+            "rating": 4,
             "categories": [
                 "iphone",
                 "mobile",
@@ -322,6 +368,7 @@
         },
         {
             "title": "windows sysinternals administrator's reference",
+            "rating": 4,
             "categories": [
                 "microsoft",
                 "security",
@@ -330,6 +377,7 @@
         },
         {
             "title": "microsoft access 2013 plain & simple",
+            "rating": 4,
             "categories": [
                 "database",
                 "microsoft",
@@ -338,6 +386,7 @@
         },
         {
             "title": "programming windows, 6th edition",
+            "rating": 4,
             "categories": [
                 "microsoft",
                 "programming",
@@ -346,6 +395,7 @@
         },
         {
             "title": "adobe premiere elements for dummies",
+            "rating": 4,
             "categories": [
                 "for-dummies",
                 "project",
@@ -354,6 +404,7 @@
         },
         {
             "title": "the art of software testing, 3rd edition",
+            "rating": 4,
             "categories": [
                 "project",
                 "software",
@@ -362,6 +413,7 @@
         },
         {
             "title": "ivor horton's beginning visual c++ 2012",
+            "rating": 4,
             "categories": [
                 "c++",
                 "dom",
@@ -370,6 +422,7 @@
         },
         {
             "title": "professional heroku programming",
+            "rating": 3,
             "categories": [
                 "cloud",
                 "facebook",
@@ -378,6 +431,7 @@
         },
         {
             "title": "professional java ee design patterns",
+            "rating": 4,
             "categories": [
                 "design",
                 "java",
@@ -386,6 +440,7 @@
         },
         {
             "title": "visual design solutions",
+            "rating": 4,
             "categories": [
                 "design",
                 "graph",
@@ -394,6 +449,7 @@
         },
         {
             "title": "illustrated c# 2012, 4th edition",
+            "rating": 4,
             "categories": [
                 "c#",
                 "microsoft-word",
@@ -402,6 +458,7 @@
         },
         {
             "title": "winning lego mindstorms programming",
+            "rating": 5,
             "categories": [
                 "design",
                 "lego",
@@ -410,6 +467,7 @@
         },
         {
             "title": "real world ocaml",
+            "rating": 4,
             "categories": [
                 "design",
                 "media",
@@ -418,6 +476,7 @@
         },
         {
             "title": "you don't know js: scope & closures",
+            "rating": 5,
             "categories": [
                 "java",
                 "javascript",
@@ -426,6 +485,7 @@
         },
         {
             "title": "restful java with jax-rs 2.0, 2nd edition",
+            "rating": 4,
             "categories": [
                 "design",
                 "java",
@@ -434,6 +494,7 @@
         },
         {
             "title": "beginning oracle database 12c administration, 2nd edition",
+            "rating": 0,
             "categories": [
                 "administration",
                 "database",
@@ -442,6 +503,7 @@
         },
         {
             "title": "financial modeling for business owners and entrepreneurs",
+            "rating": 4,
             "categories": [
                 "business",
                 "microsoft-excel",
@@ -450,6 +512,7 @@
         },
         {
             "title": "app development recipes for ios and watchos",
+            "rating": 0,
             "categories": [
                 "basic",
                 "ios",
@@ -458,6 +521,7 @@
         },
         {
             "title": "learn to program with python",
+            "rating": 5,
             "categories": [
                 "programming",
                 "python",
@@ -466,6 +530,7 @@
         },
         {
             "title": "php 7 zend certification study guide",
+            "rating": 0,
             "categories": [
                 "ide",
                 "php",
@@ -474,6 +539,7 @@
         },
         {
             "title": "enterprise cybersecurity study guide",
+            "rating": 4,
             "categories": [
                 "design",
                 "framework",
@@ -482,6 +548,7 @@
         },
         {
             "title": "navigating hybrid scrum environments",
+            "rating": 4,
             "categories": [
                 "agile",
                 "framework",
@@ -490,6 +557,7 @@
         },
         {
             "title": "practical matlab modeling with simulink",
+            "rating": 0,
             "categories": [
                 "matlab",
                 "programming",
@@ -498,6 +566,7 @@
         },
         {
             "title": "you don't know js: types & grammar",
+            "rating": 4,
             "categories": [
                 "java",
                 "javascript",
@@ -506,6 +575,7 @@
         },
         {
             "title": "you don't know js: async & performance",
+            "rating": 4,
             "categories": [
                 "java",
                 "javascript",
@@ -514,6 +584,7 @@
         },
         {
             "title": "becoming a better programmer",
+            "rating": 4,
             "categories": [
                 "media",
                 "programming",
@@ -522,6 +593,7 @@
         },
         {
             "title": "architecting hbase applications",
+            "rating": 4,
             "categories": [
                 "api",
                 "design",
@@ -530,6 +602,7 @@
         },
         {
             "title": "minecraft modding with forge",
+            "rating": 4,
             "categories": [
                 "java",
                 "media",
@@ -538,6 +611,7 @@
         },
         {
             "title": "introducing microsoft power bi",
+            "rating": 0,
             "categories": [
                 "basic",
                 "business",
@@ -546,6 +620,7 @@
         },
         {
             "title": "the book of ruby",
+            "rating": 4,
             "categories": [
                 "basic",
                 "programming",
@@ -554,6 +629,7 @@
         },
         {
             "title": "super scratch programming adventure!",
+            "rating": 4,
             "categories": [
                 "games-development",
                 "programming",
@@ -562,6 +638,7 @@
         },
         {
             "title": "the manga guide to cryptography",
+            "rating": 4,
             "categories": [
                 "asp",
                 "ide",
@@ -570,6 +647,7 @@
         },
         {
             "title": "powershell in depth",
+            "rating": 4,
             "categories": [
                 "powershell",
                 "shell",
@@ -578,6 +656,7 @@
         },
         {
             "title": "the quick python book, 3rd edition",
+            "rating": 5,
             "categories": [
                 "framework",
                 "project",
@@ -586,6 +665,7 @@
         },
         {
             "title": "adopting elixir",
+            "rating": 4,
             "categories": [
                 "business",
                 "design",
@@ -594,6 +674,7 @@
         },
         {
             "title": "101 ux principles",
+            "rating": 4,
             "categories": [
                 "design",
                 "microsoft-access",
@@ -602,6 +683,7 @@
         },
         {
             "title": "hands-on gpu-accelerated computer vision with opencv and cuda",
+            "rating": 4,
             "categories": [
                 "asp",
                 "programming",
@@ -610,6 +692,7 @@
         },
         {
             "title": "freeswitch cookbook",
+            "rating": 4,
             "categories": [
                 "design",
                 "phone-development",
@@ -620,6 +703,7 @@
     "4": [
         {
             "title": "algorithms, 4th edition",
+            "rating": 4,
             "categories": [
                 "graph",
                 "java",
@@ -629,6 +713,7 @@
         },
         {
             "title": "c++ primer, 5th edition",
+            "rating": 4,
             "categories": [
                 "c++",
                 "design",
@@ -638,6 +723,7 @@
         },
         {
             "title": "executable specifications with scrum",
+            "rating": 3,
             "categories": [
                 "agile",
                 "design",
@@ -647,6 +733,7 @@
         },
         {
             "title": "a game design vocabulary",
+            "rating": 4,
             "categories": [
                 "business",
                 "design",
@@ -656,6 +743,7 @@
         },
         {
             "title": "podcasting bible",
+            "rating": 4,
             "categories": [
                 "audio",
                 "basic",
@@ -665,6 +753,7 @@
         },
         {
             "title": "understanding linux network internals",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "linux",
@@ -674,6 +763,7 @@
         },
         {
             "title": "c++ in a nutshell",
+            "rating": 4,
             "categories": [
                 "asp",
                 "c++",
@@ -683,6 +773,7 @@
         },
         {
             "title": "c++ pocket reference",
+            "rating": 4,
             "categories": [
                 "asp",
                 "c++",
@@ -692,6 +783,7 @@
         },
         {
             "title": "complete web monitoring",
+            "rating": 4,
             "categories": [
                 "analytics",
                 "asp",
@@ -701,6 +793,7 @@
         },
         {
             "title": "learning flex 3",
+            "rating": 4,
             "categories": [
                 "actionscript",
                 "flex",
@@ -710,6 +803,7 @@
         },
         {
             "title": "iphoto 6: the missing manual, 5th edition",
+            "rating": 3,
             "categories": [
                 "basic",
                 "mac",
@@ -719,6 +813,7 @@
         },
         {
             "title": "real world instrumentation with python",
+            "rating": 4,
             "categories": [
                 "ide",
                 "media",
@@ -728,6 +823,7 @@
         },
         {
             "title": "sams teach yourself html5 in 10 minutes, 5th edition",
+            "rating": 3,
             "categories": [
                 "design",
                 "html",
@@ -737,6 +833,7 @@
         },
         {
             "title": "sams teach yourself ios 5 application development in 24 hours, 3rd edition",
+            "rating": 4,
             "categories": [
                 "ios",
                 "ipad",
@@ -746,6 +843,7 @@
         },
         {
             "title": "start here! fundamentals of microsoft .net programming",
+            "rating": 3,
             "categories": [
                 ".net-framework",
                 "basic",
@@ -755,6 +853,7 @@
         },
         {
             "title": "html 4 for dummies, 5th edition",
+            "rating": 3,
             "categories": [
                 "basic",
                 "design",
@@ -764,6 +863,7 @@
         },
         {
             "title": "gis for web developers",
+            "rating": 4,
             "categories": [
                 "gis",
                 "google",
@@ -773,6 +873,7 @@
         },
         {
             "title": "build your own wicked wordpress themes",
+            "rating": 4,
             "categories": [
                 "design",
                 "framework",
@@ -782,6 +883,7 @@
         },
         {
             "title": "iphone 4s all-in-one for dummies",
+            "rating": 3,
             "categories": [
                 "basic",
                 "for-dummies",
@@ -791,6 +893,7 @@
         },
         {
             "title": "data structures and algorithms in python",
+            "rating": 4,
             "categories": [
                 "c++",
                 "design",
@@ -800,6 +903,7 @@
         },
         {
             "title": "html5 foundations",
+            "rating": 4,
             "categories": [
                 "basic",
                 "html",
@@ -809,6 +913,7 @@
         },
         {
             "title": "office 2013 for dummies",
+            "rating": 4,
             "categories": [
                 "for-dummies",
                 "microsoft-excel",
@@ -818,6 +923,7 @@
         },
         {
             "title": "professional c++, 3rd edition",
+            "rating": 4,
             "categories": [
                 "c++",
                 "design",
@@ -827,6 +933,7 @@
         },
         {
             "title": "android tablets for dummies, 2nd edition",
+            "rating": 4,
             "categories": [
                 "android",
                 "for-dummies",
@@ -836,6 +943,7 @@
         },
         {
             "title": "fire tablets for dummies",
+            "rating": 4,
             "categories": [
                 "amazon-kindle-fire",
                 "app-store",
@@ -845,6 +953,7 @@
         },
         {
             "title": "salesforce service cloud for dummies",
+            "rating": 4,
             "categories": [
                 "business",
                 "cloud",
@@ -854,6 +963,7 @@
         },
         {
             "title": "android tablets for dummies, 3rd edition",
+            "rating": 4,
             "categories": [
                 "android",
                 "for-dummies",
@@ -863,6 +973,7 @@
         },
         {
             "title": "beginning microsoft word 2010",
+            "rating": 0,
             "categories": [
                 "basic",
                 "microsoft",
@@ -872,6 +983,7 @@
         },
         {
             "title": "oracle pl/sql recipes",
+            "rating": 4,
             "categories": [
                 "ide",
                 "oracle",
@@ -881,6 +993,7 @@
         },
         {
             "title": "pro sharepoint 2010 administration",
+            "rating": 0,
             "categories": [
                 "administration",
                 "business",
@@ -890,6 +1003,7 @@
         },
         {
             "title": "how to create the next facebook",
+            "rating": 4,
             "categories": [
                 "business",
                 "facebook",
@@ -899,6 +1013,7 @@
         },
         {
             "title": "pro sharepoint 2013 administration, 2nd edition",
+            "rating": 2,
             "categories": [
                 "administration",
                 "business",
@@ -908,6 +1023,7 @@
         },
         {
             "title": "pro django, 2nd edition",
+            "rating": 4,
             "categories": [
                 "basic",
                 "django",
@@ -917,6 +1033,7 @@
         },
         {
             "title": "learning perl, 6th edition",
+            "rating": 4,
             "categories": [
                 "basic",
                 "hack",
@@ -926,6 +1043,7 @@
         },
         {
             "title": "getting started with dwarf fortress",
+            "rating": 4,
             "categories": [
                 "basic",
                 "games-development",
@@ -935,6 +1053,7 @@
         },
         {
             "title": "ibooks and eperiodicals on the ipad: the mini missing manual",
+            "rating": 0,
             "categories": [
                 "dom",
                 "ipad",
@@ -944,6 +1063,7 @@
         },
         {
             "title": "hacking secret ciphers with python",
+            "rating": 0,
             "categories": [
                 "hack",
                 "hacking",
@@ -953,6 +1073,7 @@
         },
         {
             "title": "sas programming and data visualization techniques",
+            "rating": 4,
             "categories": [
                 "asp",
                 "ide",
@@ -962,6 +1083,7 @@
         },
         {
             "title": "swift 2 for absolute beginners, 2nd edition",
+            "rating": 4,
             "categories": [
                 "ide",
                 "ios",
@@ -971,6 +1093,7 @@
         },
         {
             "title": "turning silicon into gold",
+            "rating": 0,
             "categories": [
                 "asp",
                 "big-data",
@@ -980,6 +1103,7 @@
         },
         {
             "title": "etudes for clojurescript",
+            "rating": 0,
             "categories": [
                 "clojure",
                 "media",
@@ -989,6 +1113,7 @@
         },
         {
             "title": "linux appliance design",
+            "rating": 0,
             "categories": [
                 "design",
                 "linux",
@@ -998,6 +1123,7 @@
         },
         {
             "title": "serverless architectures on aws",
+            "rating": 4,
             "categories": [
                 "aws",
                 "cloud",
@@ -1007,6 +1133,7 @@
         },
         {
             "title": "exploring microservices",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "docker",
@@ -1016,6 +1143,7 @@
         },
         {
             "title": "exploring data with python",
+            "rating": 4,
             "categories": [
                 "asp",
                 "numpy",
@@ -1025,6 +1153,7 @@
         },
         {
             "title": "high-tech lego projects",
+            "rating": 0,
             "categories": [
                 "lego",
                 "project",
@@ -1034,6 +1163,7 @@
         },
         {
             "title": "continuous delivery and devops - a quickstart guide, 3rd edition",
+            "rating": 0,
             "categories": [
                 "asp",
                 "business",
@@ -1043,6 +1173,7 @@
         },
         {
             "title": "latex: beginner's guide",
+            "rating": 4,
             "categories": [
                 "asp",
                 "business",
@@ -1052,6 +1183,7 @@
         },
         {
             "title": "drupal 7 module development",
+            "rating": 4,
             "categories": [
                 "api",
                 "asp",
@@ -1061,6 +1193,7 @@
         },
         {
             "title": "unity 2d game development",
+            "rating": 3,
             "categories": [
                 "asp",
                 "basic",
@@ -1070,6 +1203,7 @@
         },
         {
             "title": "ant in action, 2nd edition",
+            "rating": 4,
             "categories": [
                 "in-action",
                 "java",
@@ -1079,6 +1213,7 @@
         },
         {
             "title": "the druby book",
+            "rating": 4,
             "categories": [
                 "design",
                 "programming",
@@ -1088,6 +1223,7 @@
         },
         {
             "title": "scala in depth",
+            "rating": 4,
             "categories": [
                 "design",
                 "java",
@@ -1099,6 +1235,7 @@
     "5": [
         {
             "title": "a practical introduction to python programming",
+            "rating": 0,
             "categories": [
                 "design",
                 "games-development",
@@ -1109,6 +1246,7 @@
         },
         {
             "title": "essential c# 6.0, 5th edition",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "c#",
@@ -1119,6 +1257,7 @@
         },
         {
             "title": "learning core data for ios",
+            "rating": 4,
             "categories": [
                 "design",
                 "ios",
@@ -1129,6 +1268,7 @@
         },
         {
             "title": "head first html with css & xhtml",
+            "rating": 4,
             "categories": [
                 "css",
                 "head-first",
@@ -1139,6 +1279,7 @@
         },
         {
             "title": "head first html and css, 2nd edition",
+            "rating": 4,
             "categories": [
                 "css",
                 "head-first",
@@ -1149,6 +1290,7 @@
         },
         {
             "title": "head first networking",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "head-first",
@@ -1159,6 +1301,7 @@
         },
         {
             "title": "the art of agile development",
+            "rating": 4,
             "categories": [
                 "agile",
                 "media",
@@ -1169,6 +1312,7 @@
         },
         {
             "title": "head first wordpress",
+            "rating": 3,
             "categories": [
                 "business",
                 "head-first",
@@ -1179,6 +1323,7 @@
         },
         {
             "title": "developing secure applications with visual basic",
+            "rating": 5,
             "categories": [
                 "basic",
                 "microsoft",
@@ -1189,6 +1334,7 @@
         },
         {
             "title": "sams teach yourself microsoft dynamics crm 2011 in 24 hours",
+            "rating": 3,
             "categories": [
                 "business",
                 "microsoft",
@@ -1199,6 +1345,7 @@
         },
         {
             "title": "fluent visual basic",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "basic",
@@ -1209,6 +1356,7 @@
         },
         {
             "title": "sams teach yourself core data for mac and ios in 24 hours, 2nd edition",
+            "rating": 2,
             "categories": [
                 "basic",
                 "framework",
@@ -1219,6 +1367,7 @@
         },
         {
             "title": "css3 foundations",
+            "rating": 4,
             "categories": [
                 "css",
                 "css3",
@@ -1229,6 +1378,7 @@
         },
         {
             "title": "android tablets for dummies",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "android",
@@ -1239,6 +1389,7 @@
         },
         {
             "title": "beginning ios programming",
+            "rating": 3,
             "categories": [
                 "ide",
                 "ios",
@@ -1249,6 +1400,7 @@
         },
         {
             "title": "excel data analysis for dummies, 2nd edition",
+            "rating": 3,
             "categories": [
                 "basic",
                 "business",
@@ -1259,6 +1411,7 @@
         },
         {
             "title": "architecting enterprise blockchain solutions",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "blockchain",
@@ -1269,6 +1422,7 @@
         },
         {
             "title": "pro linq",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "framework",
@@ -1279,6 +1433,7 @@
         },
         {
             "title": "learn java for android development, 3rd edition",
+            "rating": 4,
             "categories": [
                 "android",
                 "api",
@@ -1289,6 +1444,7 @@
         },
         {
             "title": "pro css3 layout techniques",
+            "rating": 0,
             "categories": [
                 "css",
                 "css3",
@@ -1299,6 +1455,7 @@
         },
         {
             "title": "expert sql server 2008 development",
+            "rating": 4,
             "categories": [
                 "database",
                 "mac",
@@ -1309,6 +1466,7 @@
         },
         {
             "title": "windows powershell pocket reference, 2nd edition",
+            "rating": 4,
             "categories": [
                 "ide",
                 "media",
@@ -1319,6 +1477,7 @@
         },
         {
             "title": "building arduino projects for the internet of things",
+            "rating": 4,
             "categories": [
                 "android",
                 "arduino",
@@ -1329,6 +1488,7 @@
         },
         {
             "title": "swift 4 for absolute beginners",
+            "rating": 0,
             "categories": [
                 "ide",
                 "ios",
@@ -1339,6 +1499,7 @@
         },
         {
             "title": "hacking product design",
+            "rating": 4,
             "categories": [
                 "business",
                 "design",
@@ -1349,6 +1510,7 @@
         },
         {
             "title": "migrating to mariadb",
+            "rating": 0,
             "categories": [
                 "asp",
                 "database",
@@ -1359,6 +1521,7 @@
         },
         {
             "title": "database design and relational theory, 2nd edition",
+            "rating": 4,
             "categories": [
                 "business",
                 "database",
@@ -1369,6 +1532,7 @@
         },
         {
             "title": "effective modern c++",
+            "rating": 5,
             "categories": [
                 "api",
                 "c++",
@@ -1379,6 +1543,7 @@
         },
         {
             "title": "you don't know js: es6 & beyond",
+            "rating": 4,
             "categories": [
                 "api",
                 "java",
@@ -1389,6 +1554,7 @@
         },
         {
             "title": "information architecture, 4th edition",
+            "rating": 4,
             "categories": [
                 "asp",
                 "design",
@@ -1399,6 +1565,7 @@
         },
         {
             "title": "you don't know js: up & going",
+            "rating": 4,
             "categories": [
                 "basic",
                 "java",
@@ -1409,6 +1576,7 @@
         },
         {
             "title": "optimizing java",
+            "rating": 0,
             "categories": [
                 "ide",
                 "java",
@@ -1419,6 +1587,7 @@
         },
         {
             "title": "xenserver administration handbook",
+            "rating": 5,
             "categories": [
                 "administration",
                 "citrix",
@@ -1429,6 +1598,7 @@
         },
         {
             "title": "learning perl 6",
+            "rating": 4,
             "categories": [
                 "hack",
                 "media",
@@ -1439,6 +1609,7 @@
         },
         {
             "title": "kubernetes cookbook",
+            "rating": 4,
             "categories": [
                 "api",
                 "cloud",
@@ -1449,6 +1620,7 @@
         },
         {
             "title": "optimizing java",
+            "rating": 5,
             "categories": [
                 "ide",
                 "java",
@@ -1459,6 +1631,7 @@
         },
         {
             "title": "technology strategy patterns",
+            "rating": 4,
             "categories": [
                 "business",
                 "framework",
@@ -1469,6 +1642,7 @@
         },
         {
             "title": "invent your own computer games with python",
+            "rating": 0,
             "categories": [
                 "framework",
                 "games-development",
@@ -1479,6 +1653,7 @@
         },
         {
             "title": "investigating the cyber breach",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "analytics",
@@ -1489,6 +1664,7 @@
         },
         {
             "title": "pro css and html design patterns",
+            "rating": 4,
             "categories": [
                 "css",
                 "design",
@@ -1499,6 +1675,7 @@
         },
         {
             "title": "impractical python projects",
+            "rating": 5,
             "categories": [
                 "flex",
                 "programming",
@@ -1509,6 +1686,7 @@
         },
         {
             "title": "aop in .net",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "asp",
@@ -1519,6 +1697,7 @@
         },
         {
             "title": "kotlin in action",
+            "rating": 5,
             "categories": [
                 "android",
                 "framework",
@@ -1529,6 +1708,7 @@
         },
         {
             "title": "using the web to build the iot",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "dom",
@@ -1539,6 +1719,7 @@
         },
         {
             "title": "understanding api security",
+            "rating": 2,
             "categories": [
                 "api",
                 "design",
@@ -1549,6 +1730,7 @@
         },
         {
             "title": "seriously good software",
+            "rating": 3,
             "categories": [
                 "design",
                 "java",
@@ -1559,6 +1741,7 @@
         },
         {
             "title": "release it! 2nd edition",
+            "rating": 4,
             "categories": [
                 "cloud",
                 "design",
@@ -1569,6 +1752,7 @@
         },
         {
             "title": "ember.js web development with ember cli",
+            "rating": 4,
             "categories": [
                 "business",
                 "design",
@@ -1579,6 +1763,7 @@
         },
         {
             "title": "zabbix network monitoring essentials",
+            "rating": 3,
             "categories": [
                 ".net-framework",
                 "basic",
@@ -1589,6 +1774,7 @@
         },
         {
             "title": "r web scraping quick start guide",
+            "rating": 0,
             "categories": [
                 "aws",
                 "database",
@@ -1601,6 +1787,7 @@
     "6": [
         {
             "title": "fundamentals of c++ programming",
+            "rating": 0,
             "categories": [
                 "basic",
                 "c#",
@@ -1612,6 +1799,7 @@
         },
         {
             "title": "fundamentals of python programming",
+            "rating": 0,
             "categories": [
                 "basic",
                 "c#",
@@ -1623,6 +1811,7 @@
         },
         {
             "title": "introduction to design patterns in c++ with qt, 2/e",
+            "rating": 4,
             "categories": [
                 "c++",
                 "design",
@@ -1634,6 +1823,7 @@
         },
         {
             "title": "learning php & mysql, 2nd edition",
+            "rating": 4,
             "categories": [
                 "basic",
                 "database",
@@ -1645,6 +1835,7 @@
         },
         {
             "title": "the art of application performance testing",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "business",
@@ -1656,6 +1847,7 @@
         },
         {
             "title": "sams teach yourself visual basic 2010 in 24 hours",
+            "rating": 4,
             "categories": [
                 "basic",
                 "database",
@@ -1667,6 +1859,7 @@
         },
         {
             "title": "microsoft outlook 2013 plain & simple",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "business",
@@ -1678,6 +1871,7 @@
         },
         {
             "title": "c# 5.0 programmer's reference",
+            "rating": 4,
             "categories": [
                 "c#",
                 "design",
@@ -1689,6 +1883,7 @@
         },
         {
             "title": "learn android app development",
+            "rating": 3,
             "categories": [
                 "android",
                 "api",
@@ -1700,6 +1895,7 @@
         },
         {
             "title": "beginning android c++ game development",
+            "rating": 4,
             "categories": [
                 "android",
                 "asp",
@@ -1711,6 +1907,7 @@
         },
         {
             "title": "practical jira administration",
+            "rating": 3,
             "categories": [
                 "administration",
                 "asp",
@@ -1722,6 +1919,7 @@
         },
         {
             "title": "graph databases",
+            "rating": 4,
             "categories": [
                 "business",
                 "database",
@@ -1733,6 +1931,7 @@
         },
         {
             "title": "sql server integration services design patterns, 2nd edition",
+            "rating": 4,
             "categories": [
                 "business",
                 "design",
@@ -1744,6 +1943,7 @@
         },
         {
             "title": "arduino music and audio projects",
+            "rating": 4,
             "categories": [
                 "arduino",
                 "asp",
@@ -1755,6 +1955,7 @@
         },
         {
             "title": "ux optimization",
+            "rating": 0,
             "categories": [
                 "analytics",
                 "big-data",
@@ -1766,6 +1967,7 @@
         },
         {
             "title": "ethereum for web developers",
+            "rating": 0,
             "categories": [
                 "blockchain",
                 "ethereum",
@@ -1777,6 +1979,7 @@
         },
         {
             "title": "fundamentals of data visualization",
+            "rating": 5,
             "categories": [
                 "basic",
                 "business",
@@ -1788,6 +1991,7 @@
         },
         {
             "title": "adaptive code, 2nd edition",
+            "rating": 4,
             "categories": [
                 "agile",
                 "design",
@@ -1799,6 +2003,7 @@
         },
         {
             "title": "pro sharepoint solution development",
+            "rating": 3,
             "categories": [
                 ".net-framework",
                 "business",
@@ -1810,6 +2015,7 @@
         },
         {
             "title": "cloud native applications",
+            "rating": 3,
             "categories": [
                 ".net-framework",
                 "cloud",
@@ -1821,6 +2027,7 @@
         },
         {
             "title": "explore software defined radio",
+            "rating": 4,
             "categories": [
                 "design",
                 "linux",
@@ -1832,6 +2039,7 @@
         },
         {
             "title": "python one-liners",
+            "rating": 5,
             "categories": [
                 "basic",
                 "mac",
@@ -1843,6 +2051,7 @@
         },
         {
             "title": "react and react native, 2nd edition",
+            "rating": 0,
             "categories": [
                 "api",
                 "ide",
@@ -1854,6 +2063,7 @@
         },
         {
             "title": "python machine learning, 3rd edition",
+            "rating": 4,
             "categories": [
                 "api",
                 "mac",
@@ -1865,6 +2075,7 @@
         },
         {
             "title": "html5 and css3, 2nd edition",
+            "rating": 4,
             "categories": [
                 "api",
                 "css",
@@ -1878,6 +2089,7 @@
     "7": [
         {
             "title": "unix for oracle dbas pocket reference",
+            "rating": 4,
             "categories": [
                 "database",
                 "ibm",
@@ -1890,6 +2102,7 @@
         },
         {
             "title": "ubuntu hacks",
+            "rating": 4,
             "categories": [
                 "3d",
                 "hack",
@@ -1902,6 +2115,7 @@
         },
         {
             "title": "sams teach yourself the twitter api in 24 hours",
+            "rating": 0,
             "categories": [
                 "android",
                 "api",
@@ -1914,6 +2128,7 @@
         },
         {
             "title": "sams teach yourself sap in 24 hours, 4th edition",
+            "rating": 3,
             "categories": [
                 "administration",
                 "basic",
@@ -1926,6 +2141,7 @@
         },
         {
             "title": "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition",
+            "rating": 5,
             "categories": [
                 "database",
                 "json",
@@ -1938,6 +2154,7 @@
         },
         {
             "title": "professional c++",
+            "rating": 4,
             "categories": [
                 "asp",
                 "basic",
@@ -1950,6 +2167,7 @@
         },
         {
             "title": "simply javascript",
+            "rating": 4,
             "categories": [
                 "ajax",
                 "design",
@@ -1962,6 +2180,7 @@
         },
         {
             "title": "ipad mini for dummies, 3rd edition",
+            "rating": 3,
             "categories": [
                 "for-dummies",
                 "games-development",
@@ -1974,6 +2193,7 @@
         },
         {
             "title": "professional wordpress, 3rd edition",
+            "rating": 4,
             "categories": [
                 "basic",
                 "design",
@@ -1986,6 +2206,7 @@
         },
         {
             "title": "beaglebone for dummies",
+            "rating": 4,
             "categories": [
                 "for-dummies",
                 "ide",
@@ -1998,6 +2219,7 @@
         },
         {
             "title": "adventures in raspberry pi, 3rd edition",
+            "rating": 4,
             "categories": [
                 "basic",
                 "design",
@@ -2010,6 +2232,7 @@
         },
         {
             "title": "graphic design school, 7th edition",
+            "rating": 4,
             "categories": [
                 "design",
                 "graph",
@@ -2022,6 +2245,7 @@
         },
         {
             "title": "pro javascript with mootools",
+            "rating": 4,
             "categories": [
                 "ajax",
                 "basic",
@@ -2034,6 +2258,7 @@
         },
         {
             "title": "expert android",
+            "rating": 4,
             "categories": [
                 "android",
                 "cloud",
@@ -2046,6 +2271,7 @@
         },
         {
             "title": "learn ios 7 app development",
+            "rating": 3,
             "categories": [
                 "app-store",
                 "cocoa",
@@ -2058,6 +2284,7 @@
         },
         {
             "title": "programming android, 2nd edition",
+            "rating": 4,
             "categories": [
                 "android",
                 "api",
@@ -2070,6 +2297,7 @@
         },
         {
             "title": "getting started with rfid",
+            "rating": 3,
             "categories": [
                 "arduino",
                 "basic",
@@ -2082,6 +2310,7 @@
         },
         {
             "title": "hibernate recipes, 2nd edition",
+            "rating": 4,
             "categories": [
                 "database",
                 "framework",
@@ -2094,6 +2323,7 @@
         },
         {
             "title": "swift for absolute beginners",
+            "rating": 4,
             "categories": [
                 "app-store",
                 "ide",
@@ -2106,6 +2336,7 @@
         },
         {
             "title": "social media analytics strategy",
+            "rating": 0,
             "categories": [
                 "analytics",
                 "basic",
@@ -2118,6 +2349,7 @@
         },
         {
             "title": "ux fundamentals for non-ux professionals",
+            "rating": 3,
             "categories": [
                 "business",
                 "design",
@@ -2130,6 +2362,7 @@
         },
         {
             "title": "high performance sql server, 2nd edition",
+            "rating": 0,
             "categories": [
                 "database",
                 "design",
@@ -2142,6 +2375,7 @@
         },
         {
             "title": "graph databases, 2nd edition",
+            "rating": 0,
             "categories": [
                 "business",
                 "database",
@@ -2154,6 +2388,7 @@
         },
         {
             "title": "building secure and reliable systems",
+            "rating": 0,
             "categories": [
                 "design",
                 "google",
@@ -2166,6 +2401,7 @@
         },
         {
             "title": "begin to code with python",
+            "rating": 5,
             "categories": [
                 "cloud",
                 "games-development",
@@ -2178,6 +2414,7 @@
         },
         {
             "title": "python for kids",
+            "rating": 4,
             "categories": [
                 "basic",
                 "design",
@@ -2190,6 +2427,7 @@
         },
         {
             "title": "math adventures with python",
+            "rating": 0,
             "categories": [
                 "3d",
                 "basic",
@@ -2202,6 +2440,7 @@
         },
         {
             "title": "absolute freebsd, 3rd edition",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "administration",
@@ -2214,6 +2453,7 @@
         },
         {
             "title": "the linux command line, 2nd edition",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "bash",
@@ -2226,6 +2466,7 @@
         },
         {
             "title": "beyond the basic stuff with python",
+            "rating": 4,
             "categories": [
                 "basic",
                 "design",
@@ -2238,6 +2479,7 @@
         },
         {
             "title": "web design playground",
+            "rating": 0,
             "categories": [
                 "css",
                 "design",
@@ -2250,6 +2492,7 @@
         },
         {
             "title": "exploring cloud computing",
+            "rating": 3,
             "categories": [
                 "aws",
                 "cloud",
@@ -2262,6 +2505,7 @@
         },
         {
             "title": "real-world python",
+            "rating": 0,
             "categories": [
                 "design",
                 "hack",
@@ -2274,6 +2518,7 @@
         },
         {
             "title": "how computers really work",
+            "rating": 4,
             "categories": [
                 "hack",
                 "in-action",
@@ -2286,6 +2531,7 @@
         },
         {
             "title": "learning selenium testing tools with python",
+            "rating": 4,
             "categories": [
                 "api",
                 "basic",
@@ -2298,6 +2544,7 @@
         },
         {
             "title": "application development with swift",
+            "rating": 0,
             "categories": [
                 "api",
                 "ios",
@@ -2310,6 +2557,7 @@
         },
         {
             "title": "ejb 3.0 database persistence with oracle fusion middleware 11g",
+            "rating": 3,
             "categories": [
                 "api",
                 "asp",
@@ -2322,6 +2570,7 @@
         },
         {
             "title": "rails 3 in action",
+            "rating": 4,
             "categories": [
                 "api",
                 "design",
@@ -2336,6 +2585,7 @@
     "8": [
         {
             "title": "perl and xml",
+            "rating": 3,
             "categories": [
                 "flex",
                 "html",
@@ -2349,6 +2599,7 @@
         },
         {
             "title": "running linux, 5th edition",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "audio",
@@ -2362,6 +2613,7 @@
         },
         {
             "title": "learning flex 4",
+            "rating": 3,
             "categories": [
                 "actionscript",
                 "database",
@@ -2375,6 +2627,7 @@
         },
         {
             "title": "sams teach yourself html5 mobile application development in 24 hours",
+            "rating": 3,
             "categories": [
                 "android",
                 "html",
@@ -2388,6 +2641,7 @@
         },
         {
             "title": "sams teach yourself sql in 24 hours, 5th edition",
+            "rating": 3,
             "categories": [
                 "basic",
                 "database",
@@ -2401,6 +2655,7 @@
         },
         {
             "title": "sams teach yourself windows phone 7 game programming in 24 hours",
+            "rating": 5,
             "categories": [
                 "audio",
                 "design",
@@ -2414,6 +2669,7 @@
         },
         {
             "title": "sams teach yourself microsoft expression web 4 in 24 hours, 2nd edition",
+            "rating": 4,
             "categories": [
                 "css",
                 "css3",
@@ -2427,6 +2683,7 @@
         },
         {
             "title": "javafx for dummies",
+            "rating": 4,
             "categories": [
                 "design",
                 "for-dummies",
@@ -2440,6 +2697,7 @@
         },
         {
             "title": "professional asp.net mvc 5",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "asp",
@@ -2453,6 +2711,7 @@
         },
         {
             "title": "adobe creative cloud all-in-one for dummies, 2nd edition",
+            "rating": 5,
             "categories": [
                 "3d",
                 "basic",
@@ -2466,6 +2725,7 @@
         },
         {
             "title": "exploring beaglebone, 2nd edition",
+            "rating": 5,
             "categories": [
                 "c++",
                 "design",
@@ -2479,6 +2739,7 @@
         },
         {
             "title": "pro java me apps",
+            "rating": 5,
             "categories": [
                 "asp",
                 "basic",
@@ -2492,6 +2753,7 @@
         },
         {
             "title": "hadoop: the definitive guide, 3rd edition",
+            "rating": 0,
             "categories": [
                 "apache",
                 "api",
@@ -2505,6 +2767,7 @@
         },
         {
             "title": "programming c# 5.0",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "c#",
@@ -2518,6 +2781,7 @@
         },
         {
             "title": "mobile design pattern gallery, 2nd edition",
+            "rating": 4,
             "categories": [
                 "android",
                 "design",
@@ -2531,6 +2795,7 @@
         },
         {
             "title": "pro powershell for database developers",
+            "rating": 4,
             "categories": [
                 "business",
                 "database",
@@ -2544,6 +2809,7 @@
         },
         {
             "title": "pivotal certified professional spring developer exam",
+            "rating": 0,
             "categories": [
                 "asp",
                 "basic",
@@ -2557,6 +2823,7 @@
         },
         {
             "title": "practical jsf in java ee 8",
+            "rating": 0,
             "categories": [
                 "ajax",
                 "api",
@@ -2570,6 +2837,7 @@
         },
         {
             "title": "defending iot infrastructures with the raspberry pi",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "analytics",
@@ -2583,6 +2851,7 @@
         },
         {
             "title": "pro powershell for amazon web services, 2nd edition",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "aws",
@@ -2596,6 +2865,7 @@
         },
         {
             "title": "using and administering linux: volume 2",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "basic",
@@ -2609,6 +2879,7 @@
         },
         {
             "title": "practical modern javascript",
+            "rating": 4,
             "categories": [
                 "design",
                 "java",
@@ -2622,6 +2893,7 @@
         },
         {
             "title": "practical statistics for data scientists",
+            "rating": 4,
             "categories": [
                 "basic",
                 "big-data",
@@ -2635,6 +2907,7 @@
         },
         {
             "title": "real-world software development",
+            "rating": 4,
             "categories": [
                 "basic",
                 "java",
@@ -2648,6 +2921,7 @@
         },
         {
             "title": "native mobile development",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "android",
@@ -2661,6 +2935,7 @@
         },
         {
             "title": "programming for the internet of things",
+            "rating": 4,
             "categories": [
                 "audio",
                 "basic",
@@ -2674,6 +2949,7 @@
         },
         {
             "title": "designing scalable javascript applications",
+            "rating": 3,
             "categories": [
                 "design",
                 "framework",
@@ -2687,6 +2963,7 @@
         },
         {
             "title": "python web scraping cookbook",
+            "rating": 5,
             "categories": [
                 "ajax",
                 "aws",
@@ -2700,6 +2977,7 @@
         },
         {
             "title": "python interviews",
+            "rating": 0,
             "categories": [
                 "apache-spark",
                 "mac",
@@ -2713,6 +2991,7 @@
         },
         {
             "title": "responsive web design with html5 and css, 3rd edition",
+            "rating": 0,
             "categories": [
                 "css",
                 "design",
@@ -2726,6 +3005,7 @@
         },
         {
             "title": "unity 4.x game ai programming",
+            "rating": 4,
             "categories": [
                 "basic",
                 "c#",
@@ -2739,6 +3019,7 @@
         },
         {
             "title": "ios and os x network programming cookbook",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "api",
@@ -2752,6 +3033,7 @@
         },
         {
             "title": "asp.net mvc in action",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "asp",
@@ -2767,6 +3049,7 @@
     "9": [
         {
             "title": "the developer's guide to social programming",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "api",
@@ -2781,6 +3064,7 @@
         },
         {
             "title": "c# 4, asp.net 4, and wpf, with visual studio 2010 jump start",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "ajax",
@@ -2795,6 +3079,7 @@
         },
         {
             "title": "sams teach yourself asp.net 4 in 24 hours",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "ajax",
@@ -2809,6 +3094,7 @@
         },
         {
             "title": "beginning ubuntu linux, 5th edition",
+            "rating": 3,
             "categories": [
                 "audio",
                 "cloud",
@@ -2823,6 +3109,7 @@
         },
         {
             "title": "taking your iphone 4s to the max",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "basic",
@@ -2837,6 +3124,7 @@
         },
         {
             "title": "learn unity3d programming with unityscript",
+            "rating": 3,
             "categories": [
                 "basic",
                 "design",
@@ -2851,6 +3139,7 @@
         },
         {
             "title": "modern x86 assembly language programming",
+            "rating": 4,
             "categories": [
                 "api",
                 "asp",
@@ -2865,6 +3154,7 @@
         },
         {
             "title": "learn ios 8 app development, 2nd edition",
+            "rating": 2,
             "categories": [
                 "app-store",
                 "cocoa",
@@ -2879,6 +3169,7 @@
         },
         {
             "title": "pivotal certified professional core spring 5 developer exam, 2nd edition",
+            "rating": 3,
             "categories": [
                 "asp",
                 "basic",
@@ -2893,6 +3184,7 @@
         },
         {
             "title": "advanced asp.net core 3 security",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "asp",
@@ -2907,6 +3199,7 @@
         },
         {
             "title": "laravel: up and running",
+            "rating": 4,
             "categories": [
                 "api",
                 "database",
@@ -2921,6 +3214,7 @@
         },
         {
             "title": "practical statistics for data scientists, 2nd edition",
+            "rating": 4,
             "categories": [
                 "basic",
                 "big-data",
@@ -2935,6 +3229,7 @@
         },
         {
             "title": "c++ the core language",
+            "rating": 3,
             "categories": [
                 "basic",
                 "c++",
@@ -2949,6 +3244,7 @@
         },
         {
             "title": "exploring data science",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "analytics",
@@ -2963,6 +3259,7 @@
         },
         {
             "title": "exploring the data jungle",
+            "rating": 5,
             "categories": [
                 "business",
                 "hack",
@@ -2977,6 +3274,7 @@
         },
         {
             "title": "arcgis blueprints",
+            "rating": 0,
             "categories": [
                 "api",
                 "google",
@@ -2991,6 +3289,7 @@
         },
         {
             "title": "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile",
+            "rating": 5,
             "categories": [
                 "css",
                 "css3",
@@ -3007,6 +3306,7 @@
     "10": [
         {
             "title": "linux all-in-one for dummies, 6th edition",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "administration",
@@ -3022,6 +3322,7 @@
         },
         {
             "title": "sams teach yourself apache spark in 24 hours",
+            "rating": 4,
             "categories": [
                 "apache",
                 "apache-spark",
@@ -3037,6 +3338,7 @@
         },
         {
             "title": "practical database programming with visual basic.net, 2nd edition",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "basic",
@@ -3052,6 +3354,7 @@
         },
         {
             "title": "mapreduce design patterns",
+            "rating": 4,
             "categories": [
                 "analytics",
                 "big-data",
@@ -3067,6 +3370,7 @@
         },
         {
             "title": "common lisp recipes",
+            "rating": 5,
             "categories": [
                 "database",
                 "graph",
@@ -3082,6 +3386,7 @@
         },
         {
             "title": "mastering machine learning with python in six steps",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "analytics",
@@ -3097,6 +3402,7 @@
         },
         {
             "title": "pro microsoft hyper-v 2019",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "active-directory",
@@ -3112,6 +3418,7 @@
         },
         {
             "title": "mobile and web messaging",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "basic",
@@ -3127,6 +3434,7 @@
         },
         {
             "title": "java in a nutshell, 7th edition",
+            "rating": 4,
             "categories": [
                 "api",
                 "asp",
@@ -3142,6 +3450,7 @@
         },
         {
             "title": "real-world bug hunting",
+            "rating": 4,
             "categories": [
                 "basic",
                 "facebook",
@@ -3157,6 +3466,7 @@
         },
         {
             "title": "aurelia in action",
+            "rating": 5,
             "categories": [
                 "api",
                 "design",
@@ -3172,6 +3482,7 @@
         },
         {
             "title": "agile development for serverless platforms",
+            "rating": 2,
             "categories": [
                 "agile",
                 "api",
@@ -3187,6 +3498,7 @@
         },
         {
             "title": "c# 9 and .net 5 - modern cross-platform development, 5th edition",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "api",
@@ -3204,6 +3516,7 @@
     "11": [
         {
             "title": "oracle dba checklists pocket reference",
+            "rating": 3,
             "categories": [
                 ".net-framework",
                 "administration",
@@ -3220,6 +3533,7 @@
         },
         {
             "title": "learn opengl es",
+            "rating": 4,
             "categories": [
                 "3d",
                 "android",
@@ -3236,6 +3550,7 @@
         },
         {
             "title": "c# database basics",
+            "rating": 4,
             "categories": [
                 "basic",
                 "c#",
@@ -3252,6 +3567,7 @@
         },
         {
             "title": "beginning angularjs",
+            "rating": 4,
             "categories": [
                 "angular",
                 "angularjs",
@@ -3268,6 +3584,7 @@
         },
         {
             "title": "using and administering linux: volume 3",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "administration",
@@ -3284,6 +3601,7 @@
         },
         {
             "title": "serious python",
+            "rating": 4,
             "categories": [
                 "api",
                 "database",
@@ -3300,6 +3618,7 @@
         },
         {
             "title": "julia programming projects",
+            "rating": 0,
             "categories": [
                 "business",
                 "database",
@@ -3316,6 +3635,7 @@
         },
         {
             "title": "zabbix 1.8 network monitoring",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "basic",
@@ -3334,6 +3654,7 @@
     "12": [
         {
             "title": "the pragmatic programmer, 20th anniversary edition",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "asp",
@@ -3351,6 +3672,7 @@
         },
         {
             "title": "mastering regular expressions, 3rd edition",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "c#",
@@ -3368,6 +3690,7 @@
         },
         {
             "title": "sams teach yourself go in 24 hours",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "api",
@@ -3385,6 +3708,7 @@
         },
         {
             "title": "developing 2d games with unity",
+            "rating": 5,
             "categories": [
                 "3d",
                 "app-store",
@@ -3402,6 +3726,7 @@
         },
         {
             "title": "advanced analytics with spark, 2nd edition",
+            "rating": 4,
             "categories": [
                 "analytics",
                 "apache-spark",
@@ -3421,6 +3746,7 @@
     "13": [
         {
             "title": "php, mysql & javascript all-in-one for dummies",
+            "rating": 0,
             "categories": [
                 "css",
                 "css3",
@@ -3439,6 +3765,7 @@
         },
         {
             "title": "building node applications with mongodb and backbone",
+            "rating": 3,
             "categories": [
                 ".net-framework",
                 "backbone",
@@ -3457,6 +3784,7 @@
         },
         {
             "title": "beginning big data with power bi and excel 2013",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "analytics",
@@ -3477,6 +3805,7 @@
     "15": [
         {
             "title": "designing evolvable web apis with asp.net",
+            "rating": 4,
             "categories": [
                 ".net-framework",
                 "api",
@@ -3499,6 +3828,7 @@
     "16": [
         {
             "title": "sams teach yourself asp.net core in 24 hours",
+            "rating": 0,
             "categories": [
                 ".net-framework",
                 "angular",

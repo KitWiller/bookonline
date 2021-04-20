@@ -11,6 +11,7 @@ const Books = props => (
           edges {
             node {
               title
+              rating
               categories
             }
           }
@@ -20,29 +21,35 @@ const Books = props => (
     render={data => (
       <>
         <Layout location="/destinations" title="Destinations">
-          {get_Categories(data.allBookstoreJson.edges)}
+        {get_Categories(data.allBookstoreJson.edges)}
         </Layout>
       </>
     )}
   />
 )
 
+// 
+
 function get_Categories(items) {
-  // let categories = {}
+  let categories = {}
 
-  // items.forEach(item => {
-  //   let iLen = item.node.categories.length
-  //   let title = item.node.title
-  //   let categs = item.node.categories
-  //   try {
-  //     categories[iLen].push({"title": title,"categories":categs})
-  //   } catch {
-  //     categories[iLen] = []
-  //     categories[iLen].push({"title": title,"categories":categs})
-  //   }
-  // })
+  // Daniel
+  items.forEach(item => {
+    let iLen = item.node.categories.length
+    let title = item.node.title
+    let categs = item.node.categories
+    let rtn = item.node.rating
+    let obj = {"title": title, "rating": rtn, "categories": categs}
+    try {
+      categories[iLen].push(obj)
+    } catch {
+      categories[iLen] = []
+      categories[iLen].push(obj)
+    }
+  })
+  
 
-  // console.log(JSON.stringify(categories))
+  console.log(JSON.stringify(categories))
 
   return (<div className="flex flex-wrap -mx-1 overflow-hidden">{[]}</div>)
 
