@@ -1,364 +1,3522 @@
 {
     "0": [
-        "information fusion in signal and image processing"
+        {
+            "title": "information fusion in signal and image processing",
+            "categories": []
+        }
     ],
     "1": [
-        "pragmatic version control using cvs",
-        "the web designer's roadmap",
-        "adventures in minecraft",
-        "artificial intelligence for dummies",
-        "learn os x lion, 2nd edition",
-        "pointers in c",
-        "propeller programming",
-        "pmp in depth",
-        "write your way to success",
-        "mac os x leopard",
-        "think like a programmer",
-        "hadoop in practice",
-        "reactive data handling",
-        "yammer starter"
+        {
+            "title": "pragmatic version control using cvs",
+            "categories": [
+                "subversion"
+            ]
+        },
+        {
+            "title": "the web designer's roadmap",
+            "categories": [
+                "design"
+            ]
+        },
+        {
+            "title": "adventures in minecraft",
+            "categories": [
+                "programming"
+            ]
+        },
+        {
+            "title": "artificial intelligence for dummies",
+            "categories": [
+                "for-dummies"
+            ]
+        },
+        {
+            "title": "learn os x lion, 2nd edition",
+            "categories": [
+                "mac"
+            ]
+        },
+        {
+            "title": "pointers in c",
+            "categories": [
+                "basic"
+            ]
+        },
+        {
+            "title": "propeller programming",
+            "categories": [
+                "programming"
+            ]
+        },
+        {
+            "title": "pmp in depth",
+            "categories": [
+                "project"
+            ]
+        },
+        {
+            "title": "write your way to success",
+            "categories": [
+                "programming"
+            ]
+        },
+        {
+            "title": "mac os x leopard",
+            "categories": [
+                "mac"
+            ]
+        },
+        {
+            "title": "think like a programmer",
+            "categories": [
+                "programming"
+            ]
+        },
+        {
+            "title": "hadoop in practice",
+            "categories": [
+                "hadoop"
+            ]
+        },
+        {
+            "title": "reactive data handling",
+            "categories": [
+                "asp"
+            ]
+        },
+        {
+            "title": "yammer starter",
+            "categories": [
+                "project"
+            ]
+        }
     ],
     "2": [
-        "do more with soa integration: best of packt",
-        "the coder's apprentice",
-        "python",
-        "microsoft word 2013 plain & simple",
-        "aperture 3 portable genius, 2nd edition",
-        "excel 2013 bible",
-        "the data warehouse toolkit, 3rd edition",
-        "101 excel 2013 tips, tricks and timesavers",
-        "troubleshooting oracle performance, 2nd edition",
-        "building the infrastructure for cloud security",
-        "accessible epub 3",
-        "epub 3 best practices",
-        "android cookbook",
-        "sap erp financial accounting and controlling",
-        "sudoku programming with c",
-        "developing for apple tv using tvos and swift",
-        "clean ruby",
-        "beginning css web development",
-        "pro xml development with java technology",
-        "powershell deep dives",
-        "advanced backend optimization",
-        "icloud for developers"
+        {
+            "title": "do more with soa integration: best of packt",
+            "categories": [
+                "business",
+                "soa"
+            ]
+        },
+        {
+            "title": "the coder's apprentice",
+            "categories": [
+                "programming",
+                "python"
+            ]
+        },
+        {
+            "title": "python",
+            "categories": [
+                "design",
+                "python"
+            ]
+        },
+        {
+            "title": "microsoft word 2013 plain & simple",
+            "categories": [
+                "microsoft",
+                "microsoft-word"
+            ]
+        },
+        {
+            "title": "aperture 3 portable genius, 2nd edition",
+            "categories": [
+                "software",
+                "tuning"
+            ]
+        },
+        {
+            "title": "excel 2013 bible",
+            "categories": [
+                "microsoft",
+                "microsoft-excel"
+            ]
+        },
+        {
+            "title": "the data warehouse toolkit, 3rd edition",
+            "categories": [
+                "business",
+                "patterns"
+            ]
+        },
+        {
+            "title": "101 excel 2013 tips, tricks and timesavers",
+            "categories": [
+                "microsoft-excel",
+                "testing"
+            ]
+        },
+        {
+            "title": "troubleshooting oracle performance, 2nd edition",
+            "categories": [
+                "database",
+                "oracle"
+            ]
+        },
+        {
+            "title": "building the infrastructure for cloud security",
+            "categories": [
+                "cloud",
+                "security"
+            ]
+        },
+        {
+            "title": "accessible epub 3",
+            "categories": [
+                "media",
+                "microsoft-access"
+            ]
+        },
+        {
+            "title": "epub 3 best practices",
+            "categories": [
+                "asp",
+                "media"
+            ]
+        },
+        {
+            "title": "android cookbook",
+            "categories": [
+                "android",
+                "media"
+            ]
+        },
+        {
+            "title": "sap erp financial accounting and controlling",
+            "categories": [
+                "sap",
+                "wi-fi"
+            ]
+        },
+        {
+            "title": "sudoku programming with c",
+            "categories": [
+                "patterns",
+                "programming"
+            ]
+        },
+        {
+            "title": "developing for apple tv using tvos and swift",
+            "categories": [
+                "project",
+                "sdk"
+            ]
+        },
+        {
+            "title": "clean ruby",
+            "categories": [
+                "ide",
+                "ruby"
+            ]
+        },
+        {
+            "title": "beginning css web development",
+            "categories": [
+                "css",
+                "design"
+            ]
+        },
+        {
+            "title": "pro xml development with java technology",
+            "categories": [
+                "java",
+                "xml"
+            ]
+        },
+        {
+            "title": "powershell deep dives",
+            "categories": [
+                "administration",
+                "powershell"
+            ]
+        },
+        {
+            "title": "advanced backend optimization",
+            "categories": [
+                "optimization",
+                "software"
+            ]
+        },
+        {
+            "title": "icloud for developers",
+            "categories": [
+                "ios",
+                "media"
+            ]
+        }
     ],
     "3": [
-        "the little go book",
-        "history of programming languages",
-        "peopleware, 3rd edition",
-        "beginning programming with java for dummies, 3rd edition",
-        "solidworks 2009 bible",
-        "typepad for dummies",
-        "ruby in a nutshell",
-        "actionscript for flash mx: the definitive guide, 2nd edition",
-        "sams teach yourself iphone application development in 24 hours, 2nd edition",
-        "windows sysinternals administrator's reference",
-        "microsoft access 2013 plain & simple",
-        "programming windows, 6th edition",
-        "adobe premiere elements for dummies",
-        "the art of software testing, 3rd edition",
-        "ivor horton's beginning visual c++ 2012",
-        "professional heroku programming",
-        "professional java ee design patterns",
-        "visual design solutions",
-        "illustrated c# 2012, 4th edition",
-        "winning lego mindstorms programming",
-        "real world ocaml",
-        "you don't know js: scope & closures",
-        "restful java with jax-rs 2.0, 2nd edition",
-        "beginning oracle database 12c administration, 2nd edition",
-        "financial modeling for business owners and entrepreneurs",
-        "app development recipes for ios and watchos",
-        "learn to program with python",
-        "php 7 zend certification study guide",
-        "enterprise cybersecurity study guide",
-        "navigating hybrid scrum environments",
-        "practical matlab modeling with simulink",
-        "you don't know js: types & grammar",
-        "you don't know js: async & performance",
-        "becoming a better programmer",
-        "architecting hbase applications",
-        "minecraft modding with forge",
-        "introducing microsoft power bi",
-        "the book of ruby",
-        "super scratch programming adventure!",
-        "the manga guide to cryptography",
-        "powershell in depth",
-        "the quick python book, 3rd edition",
-        "adopting elixir",
-        "101 ux principles",
-        "hands-on gpu-accelerated computer vision with opencv and cuda",
-        "freeswitch cookbook"
+        {
+            "title": "the little go book",
+            "categories": [
+                "google",
+                "ide",
+                "programming"
+            ]
+        },
+        {
+            "title": "history of programming languages",
+            "categories": [
+                "design",
+                "microsoft-word",
+                "programming"
+            ]
+        },
+        {
+            "title": "peopleware, 3rd edition",
+            "categories": [
+                "project",
+                "software",
+                "wi-fi"
+            ]
+        },
+        {
+            "title": "beginning programming with java for dummies, 3rd edition",
+            "categories": [
+                "for-dummies",
+                "java",
+                "programming"
+            ]
+        },
+        {
+            "title": "solidworks 2009 bible",
+            "categories": [
+                "basic",
+                "design",
+                "software"
+            ]
+        },
+        {
+            "title": "typepad for dummies",
+            "categories": [
+                "design",
+                "for-dummies",
+                "seo"
+            ]
+        },
+        {
+            "title": "ruby in a nutshell",
+            "categories": [
+                "media",
+                "nutshell",
+                "ruby"
+            ]
+        },
+        {
+            "title": "actionscript for flash mx: the definitive guide, 2nd edition",
+            "categories": [
+                "actionscript",
+                "flash",
+                "media"
+            ]
+        },
+        {
+            "title": "sams teach yourself iphone application development in 24 hours, 2nd edition",
+            "categories": [
+                "iphone",
+                "mobile",
+                "sams-teach-yourself"
+            ]
+        },
+        {
+            "title": "windows sysinternals administrator's reference",
+            "categories": [
+                "microsoft",
+                "security",
+                "windows"
+            ]
+        },
+        {
+            "title": "microsoft access 2013 plain & simple",
+            "categories": [
+                "database",
+                "microsoft",
+                "microsoft-access"
+            ]
+        },
+        {
+            "title": "programming windows, 6th edition",
+            "categories": [
+                "microsoft",
+                "programming",
+                "windows"
+            ]
+        },
+        {
+            "title": "adobe premiere elements for dummies",
+            "categories": [
+                "for-dummies",
+                "project",
+                "software"
+            ]
+        },
+        {
+            "title": "the art of software testing, 3rd edition",
+            "categories": [
+                "project",
+                "software",
+                "testing"
+            ]
+        },
+        {
+            "title": "ivor horton's beginning visual c++ 2012",
+            "categories": [
+                "c++",
+                "dom",
+                "programming"
+            ]
+        },
+        {
+            "title": "professional heroku programming",
+            "categories": [
+                "cloud",
+                "facebook",
+                "programming"
+            ]
+        },
+        {
+            "title": "professional java ee design patterns",
+            "categories": [
+                "design",
+                "java",
+                "patterns"
+            ]
+        },
+        {
+            "title": "visual design solutions",
+            "categories": [
+                "design",
+                "graph",
+                "ide"
+            ]
+        },
+        {
+            "title": "illustrated c# 2012, 4th edition",
+            "categories": [
+                "c#",
+                "microsoft-word",
+                "programming"
+            ]
+        },
+        {
+            "title": "winning lego mindstorms programming",
+            "categories": [
+                "design",
+                "lego",
+                "programming"
+            ]
+        },
+        {
+            "title": "real world ocaml",
+            "categories": [
+                "design",
+                "media",
+                "programming"
+            ]
+        },
+        {
+            "title": "you don't know js: scope & closures",
+            "categories": [
+                "java",
+                "javascript",
+                "media"
+            ]
+        },
+        {
+            "title": "restful java with jax-rs 2.0, 2nd edition",
+            "categories": [
+                "design",
+                "java",
+                "media"
+            ]
+        },
+        {
+            "title": "beginning oracle database 12c administration, 2nd edition",
+            "categories": [
+                "administration",
+                "database",
+                "oracle"
+            ]
+        },
+        {
+            "title": "financial modeling for business owners and entrepreneurs",
+            "categories": [
+                "business",
+                "microsoft-excel",
+                "project"
+            ]
+        },
+        {
+            "title": "app development recipes for ios and watchos",
+            "categories": [
+                "basic",
+                "ios",
+                "testing"
+            ]
+        },
+        {
+            "title": "learn to program with python",
+            "categories": [
+                "programming",
+                "python",
+                "software"
+            ]
+        },
+        {
+            "title": "php 7 zend certification study guide",
+            "categories": [
+                "ide",
+                "php",
+                "programming"
+            ]
+        },
+        {
+            "title": "enterprise cybersecurity study guide",
+            "categories": [
+                "design",
+                "framework",
+                "ide"
+            ]
+        },
+        {
+            "title": "navigating hybrid scrum environments",
+            "categories": [
+                "agile",
+                "framework",
+                "project"
+            ]
+        },
+        {
+            "title": "practical matlab modeling with simulink",
+            "categories": [
+                "matlab",
+                "programming",
+                "project"
+            ]
+        },
+        {
+            "title": "you don't know js: types & grammar",
+            "categories": [
+                "java",
+                "javascript",
+                "media"
+            ]
+        },
+        {
+            "title": "you don't know js: async & performance",
+            "categories": [
+                "java",
+                "javascript",
+                "media"
+            ]
+        },
+        {
+            "title": "becoming a better programmer",
+            "categories": [
+                "media",
+                "programming",
+                "software"
+            ]
+        },
+        {
+            "title": "architecting hbase applications",
+            "categories": [
+                "api",
+                "design",
+                "media"
+            ]
+        },
+        {
+            "title": "minecraft modding with forge",
+            "categories": [
+                "java",
+                "media",
+                "programming"
+            ]
+        },
+        {
+            "title": "introducing microsoft power bi",
+            "categories": [
+                "basic",
+                "business",
+                "microsoft"
+            ]
+        },
+        {
+            "title": "the book of ruby",
+            "categories": [
+                "basic",
+                "programming",
+                "ruby"
+            ]
+        },
+        {
+            "title": "super scratch programming adventure!",
+            "categories": [
+                "games-development",
+                "programming",
+                "project"
+            ]
+        },
+        {
+            "title": "the manga guide to cryptography",
+            "categories": [
+                "asp",
+                "ide",
+                "security"
+            ]
+        },
+        {
+            "title": "powershell in depth",
+            "categories": [
+                "powershell",
+                "shell",
+                "windows"
+            ]
+        },
+        {
+            "title": "the quick python book, 3rd edition",
+            "categories": [
+                "framework",
+                "project",
+                "python"
+            ]
+        },
+        {
+            "title": "adopting elixir",
+            "categories": [
+                "business",
+                "design",
+                "programming"
+            ]
+        },
+        {
+            "title": "101 ux principles",
+            "categories": [
+                "design",
+                "microsoft-access",
+                "software"
+            ]
+        },
+        {
+            "title": "hands-on gpu-accelerated computer vision with opencv and cuda",
+            "categories": [
+                "asp",
+                "programming",
+                "python"
+            ]
+        },
+        {
+            "title": "freeswitch cookbook",
+            "categories": [
+                "design",
+                "phone-development",
+                "server"
+            ]
+        }
     ],
     "4": [
-        "algorithms, 4th edition",
-        "c++ primer, 5th edition",
-        "executable specifications with scrum",
-        "a game design vocabulary",
-        "podcasting bible",
-        "understanding linux network internals",
-        "c++ in a nutshell",
-        "c++ pocket reference",
-        "complete web monitoring",
-        "learning flex 3",
-        "iphoto 6: the missing manual, 5th edition",
-        "real world instrumentation with python",
-        "sams teach yourself html5 in 10 minutes, 5th edition",
-        "sams teach yourself ios 5 application development in 24 hours, 3rd edition",
-        "start here! fundamentals of microsoft .net programming",
-        "html 4 for dummies, 5th edition",
-        "gis for web developers",
-        "build your own wicked wordpress themes",
-        "iphone 4s all-in-one for dummies",
-        "data structures and algorithms in python",
-        "html5 foundations",
-        "office 2013 for dummies",
-        "professional c++, 3rd edition",
-        "android tablets for dummies, 2nd edition",
-        "fire tablets for dummies",
-        "salesforce service cloud for dummies",
-        "android tablets for dummies, 3rd edition",
-        "beginning microsoft word 2010",
-        "oracle pl/sql recipes",
-        "pro sharepoint 2010 administration",
-        "how to create the next facebook",
-        "pro sharepoint 2013 administration, 2nd edition",
-        "pro django, 2nd edition",
-        "learning perl, 6th edition",
-        "getting started with dwarf fortress",
-        "ibooks and eperiodicals on the ipad: the mini missing manual",
-        "hacking secret ciphers with python",
-        "sas programming and data visualization techniques",
-        "swift 2 for absolute beginners, 2nd edition",
-        "turning silicon into gold",
-        "etudes for clojurescript",
-        "linux appliance design",
-        "serverless architectures on aws",
-        "exploring microservices",
-        "exploring data with python",
-        "high-tech lego projects",
-        "continuous delivery and devops - a quickstart guide, 3rd edition",
-        "latex: beginner's guide",
-        "drupal 7 module development",
-        "unity 2d game development",
-        "ant in action, 2nd edition",
-        "the druby book",
-        "scala in depth"
+        {
+            "title": "algorithms, 4th edition",
+            "categories": [
+                "graph",
+                "java",
+                "microsoft-access",
+                "programming"
+            ]
+        },
+        {
+            "title": "c++ primer, 5th edition",
+            "categories": [
+                "c++",
+                "design",
+                "programming",
+                "wi-fi"
+            ]
+        },
+        {
+            "title": "executable specifications with scrum",
+            "categories": [
+                "agile",
+                "design",
+                "project",
+                "software"
+            ]
+        },
+        {
+            "title": "a game design vocabulary",
+            "categories": [
+                "business",
+                "design",
+                "framework",
+                "games-development"
+            ]
+        },
+        {
+            "title": "podcasting bible",
+            "categories": [
+                "audio",
+                "basic",
+                "business",
+                "mac"
+            ]
+        },
+        {
+            "title": "understanding linux network internals",
+            "categories": [
+                ".net-framework",
+                "linux",
+                "media",
+                "network"
+            ]
+        },
+        {
+            "title": "c++ in a nutshell",
+            "categories": [
+                "asp",
+                "c++",
+                "media",
+                "nutshell"
+            ]
+        },
+        {
+            "title": "c++ pocket reference",
+            "categories": [
+                "asp",
+                "c++",
+                "media",
+                "programming"
+            ]
+        },
+        {
+            "title": "complete web monitoring",
+            "categories": [
+                "analytics",
+                "asp",
+                "media",
+                "software"
+            ]
+        },
+        {
+            "title": "learning flex 3",
+            "categories": [
+                "actionscript",
+                "flex",
+                "media",
+                "yahoo"
+            ]
+        },
+        {
+            "title": "iphoto 6: the missing manual, 5th edition",
+            "categories": [
+                "basic",
+                "mac",
+                "media",
+                "software"
+            ]
+        },
+        {
+            "title": "real world instrumentation with python",
+            "categories": [
+                "ide",
+                "media",
+                "python",
+                "software"
+            ]
+        },
+        {
+            "title": "sams teach yourself html5 in 10 minutes, 5th edition",
+            "categories": [
+                "design",
+                "html",
+                "html5",
+                "sams-teach-yourself"
+            ]
+        },
+        {
+            "title": "sams teach yourself ios 5 application development in 24 hours, 3rd edition",
+            "categories": [
+                "ios",
+                "ipad",
+                "iphone",
+                "sams-teach-yourself"
+            ]
+        },
+        {
+            "title": "start here! fundamentals of microsoft .net programming",
+            "categories": [
+                ".net-framework",
+                "basic",
+                "microsoft",
+                "programming"
+            ]
+        },
+        {
+            "title": "html 4 for dummies, 5th edition",
+            "categories": [
+                "basic",
+                "design",
+                "for-dummies",
+                "html"
+            ]
+        },
+        {
+            "title": "gis for web developers",
+            "categories": [
+                "gis",
+                "google",
+                "microsoft-access",
+                "programming"
+            ]
+        },
+        {
+            "title": "build your own wicked wordpress themes",
+            "categories": [
+                "design",
+                "framework",
+                "microsoft-word",
+                "wordpress"
+            ]
+        },
+        {
+            "title": "iphone 4s all-in-one for dummies",
+            "categories": [
+                "basic",
+                "for-dummies",
+                "iphone",
+                "media"
+            ]
+        },
+        {
+            "title": "data structures and algorithms in python",
+            "categories": [
+                "c++",
+                "design",
+                "java",
+                "python"
+            ]
+        },
+        {
+            "title": "html5 foundations",
+            "categories": [
+                "basic",
+                "html",
+                "html5",
+                "microsoft-word"
+            ]
+        },
+        {
+            "title": "office 2013 for dummies",
+            "categories": [
+                "for-dummies",
+                "microsoft-excel",
+                "microsoft-office",
+                "microsoft-word"
+            ]
+        },
+        {
+            "title": "professional c++, 3rd edition",
+            "categories": [
+                "c++",
+                "design",
+                "programming",
+                "software"
+            ]
+        },
+        {
+            "title": "android tablets for dummies, 2nd edition",
+            "categories": [
+                "android",
+                "for-dummies",
+                "media",
+                "mobile"
+            ]
+        },
+        {
+            "title": "fire tablets for dummies",
+            "categories": [
+                "amazon-kindle-fire",
+                "app-store",
+                "for-dummies",
+                "microsoft-access"
+            ]
+        },
+        {
+            "title": "salesforce service cloud for dummies",
+            "categories": [
+                "business",
+                "cloud",
+                "for-dummies",
+                "software"
+            ]
+        },
+        {
+            "title": "android tablets for dummies, 3rd edition",
+            "categories": [
+                "android",
+                "for-dummies",
+                "media",
+                "mobile"
+            ]
+        },
+        {
+            "title": "beginning microsoft word 2010",
+            "categories": [
+                "basic",
+                "microsoft",
+                "microsoft-word",
+                "software"
+            ]
+        },
+        {
+            "title": "oracle pl/sql recipes",
+            "categories": [
+                "ide",
+                "oracle",
+                "programming",
+                "sql"
+            ]
+        },
+        {
+            "title": "pro sharepoint 2010 administration",
+            "categories": [
+                "administration",
+                "business",
+                "microsoft",
+                "sharepoint"
+            ]
+        },
+        {
+            "title": "how to create the next facebook",
+            "categories": [
+                "business",
+                "facebook",
+                "ide",
+                "server"
+            ]
+        },
+        {
+            "title": "pro sharepoint 2013 administration, 2nd edition",
+            "categories": [
+                "administration",
+                "business",
+                "microsoft",
+                "sharepoint"
+            ]
+        },
+        {
+            "title": "pro django, 2nd edition",
+            "categories": [
+                "basic",
+                "django",
+                "framework",
+                "python"
+            ]
+        },
+        {
+            "title": "learning perl, 6th edition",
+            "categories": [
+                "basic",
+                "hack",
+                "media",
+                "perl"
+            ]
+        },
+        {
+            "title": "getting started with dwarf fortress",
+            "categories": [
+                "basic",
+                "games-development",
+                "mac",
+                "media"
+            ]
+        },
+        {
+            "title": "ibooks and eperiodicals on the ipad: the mini missing manual",
+            "categories": [
+                "dom",
+                "ipad",
+                "media",
+                "microsoft-word"
+            ]
+        },
+        {
+            "title": "hacking secret ciphers with python",
+            "categories": [
+                "hack",
+                "hacking",
+                "programming",
+                "python"
+            ]
+        },
+        {
+            "title": "sas programming and data visualization techniques",
+            "categories": [
+                "asp",
+                "ide",
+                "programming",
+                "visualization"
+            ]
+        },
+        {
+            "title": "swift 2 for absolute beginners, 2nd edition",
+            "categories": [
+                "ide",
+                "ios",
+                "microsoft-excel",
+                "programming"
+            ]
+        },
+        {
+            "title": "turning silicon into gold",
+            "categories": [
+                "asp",
+                "big-data",
+                "business",
+                "facebook"
+            ]
+        },
+        {
+            "title": "etudes for clojurescript",
+            "categories": [
+                "clojure",
+                "media",
+                "programming",
+                "project"
+            ]
+        },
+        {
+            "title": "linux appliance design",
+            "categories": [
+                "design",
+                "linux",
+                "mac",
+                "software"
+            ]
+        },
+        {
+            "title": "serverless architectures on aws",
+            "categories": [
+                "aws",
+                "cloud",
+                "mobile",
+                "server"
+            ]
+        },
+        {
+            "title": "exploring microservices",
+            "categories": [
+                ".net-framework",
+                "docker",
+                "scala",
+                "software"
+            ]
+        },
+        {
+            "title": "exploring data with python",
+            "categories": [
+                "asp",
+                "numpy",
+                "python",
+                "software"
+            ]
+        },
+        {
+            "title": "high-tech lego projects",
+            "categories": [
+                "lego",
+                "project",
+                "security",
+                "software"
+            ]
+        },
+        {
+            "title": "continuous delivery and devops - a quickstart guide, 3rd edition",
+            "categories": [
+                "asp",
+                "business",
+                "media",
+                "software"
+            ]
+        },
+        {
+            "title": "latex: beginner's guide",
+            "categories": [
+                "asp",
+                "business",
+                "microsoft-word",
+                "software"
+            ]
+        },
+        {
+            "title": "drupal 7 module development",
+            "categories": [
+                "api",
+                "asp",
+                "drupal",
+                "framework"
+            ]
+        },
+        {
+            "title": "unity 2d game development",
+            "categories": [
+                "asp",
+                "basic",
+                "games-development",
+                "unity"
+            ]
+        },
+        {
+            "title": "ant in action, 2nd edition",
+            "categories": [
+                "in-action",
+                "java",
+                "project",
+                "testing"
+            ]
+        },
+        {
+            "title": "the druby book",
+            "categories": [
+                "design",
+                "programming",
+                "ruby",
+                "security"
+            ]
+        },
+        {
+            "title": "scala in depth",
+            "categories": [
+                "design",
+                "java",
+                "programming",
+                "scala"
+            ]
+        }
     ],
     "5": [
-        "a practical introduction to python programming",
-        "essential c# 6.0, 5th edition",
-        "learning core data for ios",
-        "head first html with css & xhtml",
-        "head first html and css, 2nd edition",
-        "head first networking",
-        "the art of agile development",
-        "head first wordpress",
-        "developing secure applications with visual basic",
-        "sams teach yourself microsoft dynamics crm 2011 in 24 hours",
-        "fluent visual basic",
-        "sams teach yourself core data for mac and ios in 24 hours, 2nd edition",
-        "css3 foundations",
-        "android tablets for dummies",
-        "beginning ios programming",
-        "excel data analysis for dummies, 2nd edition",
-        "architecting enterprise blockchain solutions",
-        "pro linq",
-        "learn java for android development, 3rd edition",
-        "pro css3 layout techniques",
-        "expert sql server 2008 development",
-        "windows powershell pocket reference, 2nd edition",
-        "building arduino projects for the internet of things",
-        "swift 4 for absolute beginners",
-        "hacking product design",
-        "migrating to mariadb",
-        "database design and relational theory, 2nd edition",
-        "effective modern c++",
-        "you don't know js: es6 & beyond",
-        "information architecture, 4th edition",
-        "you don't know js: up & going",
-        "optimizing java",
-        "xenserver administration handbook",
-        "learning perl 6",
-        "kubernetes cookbook",
-        "optimizing java",
-        "technology strategy patterns",
-        "invent your own computer games with python",
-        "investigating the cyber breach",
-        "pro css and html design patterns",
-        "impractical python projects",
-        "aop in .net",
-        "kotlin in action",
-        "using the web to build the iot",
-        "understanding api security",
-        "seriously good software",
-        "release it! 2nd edition",
-        "ember.js web development with ember cli",
-        "zabbix network monitoring essentials",
-        "r web scraping quick start guide"
+        {
+            "title": "a practical introduction to python programming",
+            "categories": [
+                "design",
+                "games-development",
+                "programming",
+                "python",
+                "software"
+            ]
+        },
+        {
+            "title": "essential c# 6.0, 5th edition",
+            "categories": [
+                ".net-framework",
+                "c#",
+                "ide",
+                "microsoft",
+                "patterns"
+            ]
+        },
+        {
+            "title": "learning core data for ios",
+            "categories": [
+                "design",
+                "ios",
+                "patterns",
+                "project",
+                "xcode"
+            ]
+        },
+        {
+            "title": "head first html with css & xhtml",
+            "categories": [
+                "css",
+                "head-first",
+                "html",
+                "media",
+                "mobile"
+            ]
+        },
+        {
+            "title": "head first html and css, 2nd edition",
+            "categories": [
+                "css",
+                "head-first",
+                "html",
+                "media",
+                "mobile"
+            ]
+        },
+        {
+            "title": "head first networking",
+            "categories": [
+                ".net-framework",
+                "head-first",
+                "media",
+                "microsoft-office",
+                "network"
+            ]
+        },
+        {
+            "title": "the art of agile development",
+            "categories": [
+                "agile",
+                "media",
+                "programming",
+                "project",
+                "software"
+            ]
+        },
+        {
+            "title": "head first wordpress",
+            "categories": [
+                "business",
+                "head-first",
+                "media",
+                "microsoft-word",
+                "wordpress"
+            ]
+        },
+        {
+            "title": "developing secure applications with visual basic",
+            "categories": [
+                "basic",
+                "microsoft",
+                "security",
+                "visual-basic",
+                "windows"
+            ]
+        },
+        {
+            "title": "sams teach yourself microsoft dynamics crm 2011 in 24 hours",
+            "categories": [
+                "business",
+                "microsoft",
+                "project",
+                "sams-teach-yourself",
+                "sharepoint"
+            ]
+        },
+        {
+            "title": "fluent visual basic",
+            "categories": [
+                ".net-framework",
+                "basic",
+                "design",
+                "framework",
+                "visual-basic"
+            ]
+        },
+        {
+            "title": "sams teach yourself core data for mac and ios in 24 hours, 2nd edition",
+            "categories": [
+                "basic",
+                "framework",
+                "ios",
+                "mac",
+                "sams-teach-yourself"
+            ]
+        },
+        {
+            "title": "css3 foundations",
+            "categories": [
+                "css",
+                "css3",
+                "design",
+                "html",
+                "microsoft-word"
+            ]
+        },
+        {
+            "title": "android tablets for dummies",
+            "categories": [
+                ".net-framework",
+                "android",
+                "for-dummies",
+                "microsoft-access",
+                "network"
+            ]
+        },
+        {
+            "title": "beginning ios programming",
+            "categories": [
+                "ide",
+                "ios",
+                "iphone",
+                "objective-c",
+                "programming"
+            ]
+        },
+        {
+            "title": "excel data analysis for dummies, 2nd edition",
+            "categories": [
+                "basic",
+                "business",
+                "for-dummies",
+                "microsoft-excel",
+                "visualization"
+            ]
+        },
+        {
+            "title": "architecting enterprise blockchain solutions",
+            "categories": [
+                ".net-framework",
+                "blockchain",
+                "business",
+                "flex",
+                "network"
+            ]
+        },
+        {
+            "title": "pro linq",
+            "categories": [
+                ".net-framework",
+                "framework",
+                "project",
+                "vb",
+                "visual-studio"
+            ]
+        },
+        {
+            "title": "learn java for android development, 3rd edition",
+            "categories": [
+                "android",
+                "api",
+                "java",
+                "mobile",
+                "sdk"
+            ]
+        },
+        {
+            "title": "pro css3 layout techniques",
+            "categories": [
+                "css",
+                "css3",
+                "design",
+                "flex",
+                "patterns"
+            ]
+        },
+        {
+            "title": "expert sql server 2008 development",
+            "categories": [
+                "database",
+                "mac",
+                "server",
+                "sql",
+                "testing"
+            ]
+        },
+        {
+            "title": "windows powershell pocket reference, 2nd edition",
+            "categories": [
+                "ide",
+                "media",
+                "powershell",
+                "shell",
+                "windows"
+            ]
+        },
+        {
+            "title": "building arduino projects for the internet of things",
+            "categories": [
+                "android",
+                "arduino",
+                "project",
+                "software",
+                "visualization"
+            ]
+        },
+        {
+            "title": "swift 4 for absolute beginners",
+            "categories": [
+                "ide",
+                "ios",
+                "iphone",
+                "microsoft-excel",
+                "programming"
+            ]
+        },
+        {
+            "title": "hacking product design",
+            "categories": [
+                "business",
+                "design",
+                "hack",
+                "hacking",
+                "ide"
+            ]
+        },
+        {
+            "title": "migrating to mariadb",
+            "categories": [
+                "asp",
+                "database",
+                "ide",
+                "mariadb",
+                "security"
+            ]
+        },
+        {
+            "title": "database design and relational theory, 2nd edition",
+            "categories": [
+                "business",
+                "database",
+                "design",
+                "dom",
+                "software"
+            ]
+        },
+        {
+            "title": "effective modern c++",
+            "categories": [
+                "api",
+                "c++",
+                "media",
+                "programming",
+                "software"
+            ]
+        },
+        {
+            "title": "you don't know js: es6 & beyond",
+            "categories": [
+                "api",
+                "java",
+                "javascript",
+                "media",
+                "programming"
+            ]
+        },
+        {
+            "title": "information architecture, 4th edition",
+            "categories": [
+                "asp",
+                "design",
+                "ide",
+                "media",
+                "mobile"
+            ]
+        },
+        {
+            "title": "you don't know js: up & going",
+            "categories": [
+                "basic",
+                "java",
+                "javascript",
+                "media",
+                "programming"
+            ]
+        },
+        {
+            "title": "optimizing java",
+            "categories": [
+                "ide",
+                "java",
+                "mac",
+                "media",
+                "tuning"
+            ]
+        },
+        {
+            "title": "xenserver administration handbook",
+            "categories": [
+                "administration",
+                "citrix",
+                "design",
+                "mac",
+                "media"
+            ]
+        },
+        {
+            "title": "learning perl 6",
+            "categories": [
+                "hack",
+                "media",
+                "perl",
+                "programming",
+                "regular-expressions"
+            ]
+        },
+        {
+            "title": "kubernetes cookbook",
+            "categories": [
+                "api",
+                "cloud",
+                "framework",
+                "ide",
+                "media"
+            ]
+        },
+        {
+            "title": "optimizing java",
+            "categories": [
+                "ide",
+                "java",
+                "mac",
+                "media",
+                "tuning"
+            ]
+        },
+        {
+            "title": "technology strategy patterns",
+            "categories": [
+                "business",
+                "framework",
+                "ide",
+                "media",
+                "patterns"
+            ]
+        },
+        {
+            "title": "invent your own computer games with python",
+            "categories": [
+                "framework",
+                "games-development",
+                "graph",
+                "programming",
+                "python"
+            ]
+        },
+        {
+            "title": "investigating the cyber breach",
+            "categories": [
+                ".net-framework",
+                "analytics",
+                "cisco",
+                "ide",
+                "network"
+            ]
+        },
+        {
+            "title": "pro css and html design patterns",
+            "categories": [
+                "css",
+                "design",
+                "hack",
+                "html",
+                "patterns"
+            ]
+        },
+        {
+            "title": "impractical python projects",
+            "categories": [
+                "flex",
+                "programming",
+                "project",
+                "python",
+                "security"
+            ]
+        },
+        {
+            "title": "aop in .net",
+            "categories": [
+                ".net-framework",
+                "asp",
+                "c#",
+                "programming",
+                "project"
+            ]
+        },
+        {
+            "title": "kotlin in action",
+            "categories": [
+                "android",
+                "framework",
+                "in-action",
+                "java",
+                "programming"
+            ]
+        },
+        {
+            "title": "using the web to build the iot",
+            "categories": [
+                ".net-framework",
+                "dom",
+                "network",
+                "security",
+                "visualization"
+            ]
+        },
+        {
+            "title": "understanding api security",
+            "categories": [
+                "api",
+                "design",
+                "programming",
+                "security",
+                "software"
+            ]
+        },
+        {
+            "title": "seriously good software",
+            "categories": [
+                "design",
+                "java",
+                "optimization",
+                "project",
+                "software"
+            ]
+        },
+        {
+            "title": "release it! 2nd edition",
+            "categories": [
+                "cloud",
+                "design",
+                "flash",
+                "project",
+                "software"
+            ]
+        },
+        {
+            "title": "ember.js web development with ember cli",
+            "categories": [
+                "business",
+                "design",
+                "framework",
+                "java",
+                "javascript"
+            ]
+        },
+        {
+            "title": "zabbix network monitoring essentials",
+            "categories": [
+                ".net-framework",
+                "basic",
+                "design",
+                "graph",
+                "network"
+            ]
+        },
+        {
+            "title": "r web scraping quick start guide",
+            "categories": [
+                "aws",
+                "database",
+                "framework",
+                "postgresql",
+                "programming"
+            ]
+        }
     ],
     "6": [
-        "fundamentals of c++ programming",
-        "fundamentals of python programming",
-        "introduction to design patterns in c++ with qt, 2/e",
-        "learning php & mysql, 2nd edition",
-        "the art of application performance testing",
-        "sams teach yourself visual basic 2010 in 24 hours",
-        "microsoft outlook 2013 plain & simple",
-        "c# 5.0 programmer's reference",
-        "learn android app development",
-        "beginning android c++ game development",
-        "practical jira administration",
-        "graph databases",
-        "sql server integration services design patterns, 2nd edition",
-        "arduino music and audio projects",
-        "ux optimization",
-        "ethereum for web developers",
-        "fundamentals of data visualization",
-        "adaptive code, 2nd edition",
-        "pro sharepoint solution development",
-        "cloud native applications",
-        "explore software defined radio",
-        "python one-liners",
-        "react and react native, 2nd edition",
-        "python machine learning, 3rd edition",
-        "html5 and css3, 2nd edition"
+        {
+            "title": "fundamentals of c++ programming",
+            "categories": [
+                "basic",
+                "c#",
+                "c++",
+                "java",
+                "programming",
+                "python"
+            ]
+        },
+        {
+            "title": "fundamentals of python programming",
+            "categories": [
+                "basic",
+                "c#",
+                "c++",
+                "java",
+                "programming",
+                "python"
+            ]
+        },
+        {
+            "title": "introduction to design patterns in c++ with qt, 2/e",
+            "categories": [
+                "c++",
+                "design",
+                "framework",
+                "microsoft",
+                "patterns",
+                "programming"
+            ]
+        },
+        {
+            "title": "learning php & mysql, 2nd edition",
+            "categories": [
+                "basic",
+                "database",
+                "media",
+                "mysql",
+                "php",
+                "programming"
+            ]
+        },
+        {
+            "title": "the art of application performance testing",
+            "categories": [
+                ".net-framework",
+                "business",
+                "media",
+                "network",
+                "scala",
+                "testing"
+            ]
+        },
+        {
+            "title": "sams teach yourself visual basic 2010 in 24 hours",
+            "categories": [
+                "basic",
+                "database",
+                "graph",
+                "sams-teach-yourself",
+                "vb",
+                "visual-basic"
+            ]
+        },
+        {
+            "title": "microsoft outlook 2013 plain & simple",
+            "categories": [
+                ".net-framework",
+                "business",
+                "media",
+                "microsoft",
+                "network",
+                "outlook"
+            ]
+        },
+        {
+            "title": "c# 5.0 programmer's reference",
+            "categories": [
+                "c#",
+                "design",
+                "java",
+                "programming",
+                "vb",
+                "visual-studio"
+            ]
+        },
+        {
+            "title": "learn android app development",
+            "categories": [
+                "android",
+                "api",
+                "design",
+                "java",
+                "patterns",
+                "sdk"
+            ]
+        },
+        {
+            "title": "beginning android c++ game development",
+            "categories": [
+                "android",
+                "asp",
+                "c++",
+                "design",
+                "google",
+                "programming"
+            ]
+        },
+        {
+            "title": "practical jira administration",
+            "categories": [
+                "administration",
+                "asp",
+                "ide",
+                "jira",
+                "media",
+                "software"
+            ]
+        },
+        {
+            "title": "graph databases",
+            "categories": [
+                "business",
+                "database",
+                "design",
+                "dom",
+                "graph",
+                "media"
+            ]
+        },
+        {
+            "title": "sql server integration services design patterns, 2nd edition",
+            "categories": [
+                "business",
+                "design",
+                "framework",
+                "patterns",
+                "server",
+                "sql"
+            ]
+        },
+        {
+            "title": "arduino music and audio projects",
+            "categories": [
+                "arduino",
+                "asp",
+                "audio",
+                "project",
+                "raspberry-pi",
+                "software"
+            ]
+        },
+        {
+            "title": "ux optimization",
+            "categories": [
+                "analytics",
+                "big-data",
+                "ide",
+                "optimization",
+                "patterns",
+                "testing"
+            ]
+        },
+        {
+            "title": "ethereum for web developers",
+            "categories": [
+                "blockchain",
+                "ethereum",
+                "mobile",
+                "scala",
+                "server",
+                "wi-fi"
+            ]
+        },
+        {
+            "title": "fundamentals of data visualization",
+            "categories": [
+                "basic",
+                "business",
+                "graph",
+                "media",
+                "software",
+                "visualization"
+            ]
+        },
+        {
+            "title": "adaptive code, 2nd edition",
+            "categories": [
+                "agile",
+                "design",
+                "framework",
+                "microsoft",
+                "patterns",
+                "testing"
+            ]
+        },
+        {
+            "title": "pro sharepoint solution development",
+            "categories": [
+                ".net-framework",
+                "business",
+                "microsoft",
+                "microsoft-office",
+                "sharepoint",
+                "visual-studio"
+            ]
+        },
+        {
+            "title": "cloud native applications",
+            "categories": [
+                ".net-framework",
+                "cloud",
+                "docker",
+                "framework",
+                "in-action",
+                "network"
+            ]
+        },
+        {
+            "title": "explore software defined radio",
+            "categories": [
+                "design",
+                "linux",
+                "raspberry-pi",
+                "software",
+                "tuning",
+                "windows"
+            ]
+        },
+        {
+            "title": "python one-liners",
+            "categories": [
+                "basic",
+                "mac",
+                "machine-learning",
+                "numpy",
+                "python",
+                "regular-expressions"
+            ]
+        },
+        {
+            "title": "react and react native, 2nd edition",
+            "categories": [
+                "api",
+                "ide",
+                "microsoft-access",
+                "mobile",
+                "node",
+                "node.js"
+            ]
+        },
+        {
+            "title": "python machine learning, 3rd edition",
+            "categories": [
+                "api",
+                "mac",
+                "machine-learning",
+                "python",
+                "tensorflow",
+                "visualization"
+            ]
+        },
+        {
+            "title": "html5 and css3, 2nd edition",
+            "categories": [
+                "api",
+                "css",
+                "css3",
+                "html",
+                "html5",
+                "project"
+            ]
+        }
     ],
     "7": [
-        "unix for oracle dbas pocket reference",
-        "ubuntu hacks",
-        "sams teach yourself the twitter api in 24 hours",
-        "sams teach yourself sap in 24 hours, 4th edition",
-        "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition",
-        "professional c++",
-        "simply javascript",
-        "ipad mini for dummies, 3rd edition",
-        "professional wordpress, 3rd edition",
-        "beaglebone for dummies",
-        "adventures in raspberry pi, 3rd edition",
-        "graphic design school, 7th edition",
-        "pro javascript with mootools",
-        "expert android",
-        "learn ios 7 app development",
-        "programming android, 2nd edition",
-        "getting started with rfid",
-        "hibernate recipes, 2nd edition",
-        "swift for absolute beginners",
-        "social media analytics strategy",
-        "ux fundamentals for non-ux professionals",
-        "high performance sql server, 2nd edition",
-        "graph databases, 2nd edition",
-        "building secure and reliable systems",
-        "begin to code with python",
-        "python for kids",
-        "math adventures with python",
-        "absolute freebsd, 3rd edition",
-        "the linux command line, 2nd edition",
-        "beyond the basic stuff with python",
-        "web design playground",
-        "exploring cloud computing",
-        "real-world python",
-        "how computers really work",
-        "learning selenium testing tools with python",
-        "application development with swift",
-        "ejb 3.0 database persistence with oracle fusion middleware 11g",
-        "rails 3 in action"
+        {
+            "title": "unix for oracle dbas pocket reference",
+            "categories": [
+                "database",
+                "ibm",
+                "ide",
+                "media",
+                "oracle",
+                "server",
+                "windows"
+            ]
+        },
+        {
+            "title": "ubuntu hacks",
+            "categories": [
+                "3d",
+                "hack",
+                "linux",
+                "media",
+                "server",
+                "tuning",
+                "ubuntu"
+            ]
+        },
+        {
+            "title": "sams teach yourself the twitter api in 24 hours",
+            "categories": [
+                "android",
+                "api",
+                "basic",
+                "iphone",
+                "mobile",
+                "sams-teach-yourself",
+                "twitter"
+            ]
+        },
+        {
+            "title": "sams teach yourself sap in 24 hours, 4th edition",
+            "categories": [
+                "administration",
+                "basic",
+                "business",
+                "cloud",
+                "sams-teach-yourself",
+                "sap",
+                "software"
+            ]
+        },
+        {
+            "title": "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition",
+            "categories": [
+                "database",
+                "json",
+                "microsoft",
+                "sams-teach-yourself",
+                "server",
+                "sql",
+                "xml"
+            ]
+        },
+        {
+            "title": "professional c++",
+            "categories": [
+                "asp",
+                "basic",
+                "c++",
+                "design",
+                "patterns",
+                "programming",
+                "testing"
+            ]
+        },
+        {
+            "title": "simply javascript",
+            "categories": [
+                "ajax",
+                "design",
+                "dom",
+                "java",
+                "javascript",
+                "microsoft-access",
+                "programming"
+            ]
+        },
+        {
+            "title": "ipad mini for dummies, 3rd edition",
+            "categories": [
+                "for-dummies",
+                "games-development",
+                "ide",
+                "ios",
+                "ipad",
+                "microsoft-access",
+                "software"
+            ]
+        },
+        {
+            "title": "professional wordpress, 3rd edition",
+            "categories": [
+                "basic",
+                "design",
+                "framework",
+                "microsoft-access",
+                "microsoft-word",
+                "project",
+                "wordpress"
+            ]
+        },
+        {
+            "title": "beaglebone for dummies",
+            "categories": [
+                "for-dummies",
+                "ide",
+                "linux",
+                "programming",
+                "project",
+                "python",
+                "software"
+            ]
+        },
+        {
+            "title": "adventures in raspberry pi, 3rd edition",
+            "categories": [
+                "basic",
+                "design",
+                "games-development",
+                "ide",
+                "programming",
+                "project",
+                "raspberry-pi"
+            ]
+        },
+        {
+            "title": "graphic design school, 7th edition",
+            "categories": [
+                "design",
+                "graph",
+                "media",
+                "mobile",
+                "seo",
+                "software",
+                "testing"
+            ]
+        },
+        {
+            "title": "pro javascript with mootools",
+            "categories": [
+                "ajax",
+                "basic",
+                "dom",
+                "framework",
+                "java",
+                "javascript",
+                "programming"
+            ]
+        },
+        {
+            "title": "expert android",
+            "categories": [
+                "android",
+                "cloud",
+                "google",
+                "json",
+                "mac",
+                "mobile",
+                "opengl"
+            ]
+        },
+        {
+            "title": "learn ios 7 app development",
+            "categories": [
+                "app-store",
+                "cocoa",
+                "ios",
+                "ipad",
+                "iphone",
+                "objective-c",
+                "sdk"
+            ]
+        },
+        {
+            "title": "programming android, 2nd edition",
+            "categories": [
+                "android",
+                "api",
+                "java",
+                "media",
+                "mobile",
+                "objective-c",
+                "programming"
+            ]
+        },
+        {
+            "title": "getting started with rfid",
+            "categories": [
+                "arduino",
+                "basic",
+                "ide",
+                "in-action",
+                "media",
+                "microsoft-access",
+                "project"
+            ]
+        },
+        {
+            "title": "hibernate recipes, 2nd edition",
+            "categories": [
+                "database",
+                "framework",
+                "hibernate",
+                "java",
+                "microsoft-access",
+                "patterns",
+                "spring"
+            ]
+        },
+        {
+            "title": "swift for absolute beginners",
+            "categories": [
+                "app-store",
+                "ide",
+                "ios",
+                "iphone",
+                "microsoft-excel",
+                "objective-c",
+                "programming"
+            ]
+        },
+        {
+            "title": "social media analytics strategy",
+            "categories": [
+                "analytics",
+                "basic",
+                "business",
+                "media",
+                "patterns",
+                "project",
+                "software"
+            ]
+        },
+        {
+            "title": "ux fundamentals for non-ux professionals",
+            "categories": [
+                "business",
+                "design",
+                "graph",
+                "media",
+                "project",
+                "security",
+                "software"
+            ]
+        },
+        {
+            "title": "high performance sql server, 2nd edition",
+            "categories": [
+                "database",
+                "design",
+                "linux",
+                "microsoft-excel",
+                "server",
+                "sql",
+                "tuning"
+            ]
+        },
+        {
+            "title": "graph databases, 2nd edition",
+            "categories": [
+                "business",
+                "database",
+                "design",
+                "dom",
+                "graph",
+                "media",
+                "patterns"
+            ]
+        },
+        {
+            "title": "building secure and reliable systems",
+            "categories": [
+                "design",
+                "google",
+                "media",
+                "scala",
+                "security",
+                "software",
+                "testing"
+            ]
+        },
+        {
+            "title": "begin to code with python",
+            "categories": [
+                "cloud",
+                "games-development",
+                "microsoft",
+                "programming",
+                "project",
+                "python",
+                "software"
+            ]
+        },
+        {
+            "title": "python for kids",
+            "categories": [
+                "basic",
+                "design",
+                "games-development",
+                "graph",
+                "patterns",
+                "programming",
+                "python"
+            ]
+        },
+        {
+            "title": "math adventures with python",
+            "categories": [
+                "3d",
+                "basic",
+                "design",
+                "graph",
+                "programming",
+                "python",
+                "visualization"
+            ]
+        },
+        {
+            "title": "absolute freebsd, 3rd edition",
+            "categories": [
+                ".net-framework",
+                "administration",
+                "freebsd",
+                "network",
+                "security",
+                "server",
+                "software"
+            ]
+        },
+        {
+            "title": "the linux command line, 2nd edition",
+            "categories": [
+                ".net-framework",
+                "bash",
+                "linux",
+                "mac",
+                "network",
+                "regular-expressions",
+                "shell"
+            ]
+        },
+        {
+            "title": "beyond the basic stuff with python",
+            "categories": [
+                "basic",
+                "design",
+                "games-development",
+                "programming",
+                "project",
+                "python",
+                "software"
+            ]
+        },
+        {
+            "title": "web design playground",
+            "categories": [
+                "css",
+                "design",
+                "dom",
+                "fonts",
+                "html",
+                "project",
+                "server"
+            ]
+        },
+        {
+            "title": "exploring cloud computing",
+            "categories": [
+                "aws",
+                "cloud",
+                "google",
+                "in-action",
+                "microsoft",
+                "microsoft-azure",
+                "server"
+            ]
+        },
+        {
+            "title": "real-world python",
+            "categories": [
+                "design",
+                "hack",
+                "microsoft-access",
+                "numpy",
+                "project",
+                "python",
+                "visualization"
+            ]
+        },
+        {
+            "title": "how computers really work",
+            "categories": [
+                "hack",
+                "in-action",
+                "mac",
+                "programming",
+                "project",
+                "server",
+                "software"
+            ]
+        },
+        {
+            "title": "learning selenium testing tools with python",
+            "categories": [
+                "api",
+                "basic",
+                "node",
+                "programming",
+                "project",
+                "python",
+                "testing"
+            ]
+        },
+        {
+            "title": "application development with swift",
+            "categories": [
+                "api",
+                "ios",
+                "mac",
+                "objective-c",
+                "programming",
+                "project",
+                "security"
+            ]
+        },
+        {
+            "title": "ejb 3.0 database persistence with oracle fusion middleware 11g",
+            "categories": [
+                "api",
+                "asp",
+                "database",
+                "ejb",
+                "java",
+                "oracle",
+                "server"
+            ]
+        },
+        {
+            "title": "rails 3 in action",
+            "categories": [
+                "api",
+                "design",
+                "framework",
+                "in-action",
+                "programming",
+                "rails",
+                "ruby"
+            ]
+        }
     ],
     "8": [
-        "perl and xml",
-        "running linux, 5th edition",
-        "learning flex 4",
-        "sams teach yourself html5 mobile application development in 24 hours",
-        "sams teach yourself sql in 24 hours, 5th edition",
-        "sams teach yourself windows phone 7 game programming in 24 hours",
-        "sams teach yourself microsoft expression web 4 in 24 hours, 2nd edition",
-        "javafx for dummies",
-        "professional asp.net mvc 5",
-        "adobe creative cloud all-in-one for dummies, 2nd edition",
-        "exploring beaglebone, 2nd edition",
-        "pro java me apps",
-        "hadoop: the definitive guide, 3rd edition",
-        "programming c# 5.0",
-        "mobile design pattern gallery, 2nd edition",
-        "pro powershell for database developers",
-        "pivotal certified professional spring developer exam",
-        "practical jsf in java ee 8",
-        "defending iot infrastructures with the raspberry pi",
-        "pro powershell for amazon web services, 2nd edition",
-        "using and administering linux: volume 2",
-        "practical modern javascript",
-        "practical statistics for data scientists",
-        "real-world software development",
-        "native mobile development",
-        "programming for the internet of things",
-        "designing scalable javascript applications",
-        "python web scraping cookbook",
-        "python interviews",
-        "responsive web design with html5 and css, 3rd edition",
-        "unity 4.x game ai programming",
-        "ios and os x network programming cookbook",
-        "asp.net mvc in action"
+        {
+            "title": "perl and xml",
+            "categories": [
+                "flex",
+                "html",
+                "media",
+                "perl",
+                "programming",
+                "soa",
+                "soap",
+                "xml"
+            ]
+        },
+        {
+            "title": "running linux, 5th edition",
+            "categories": [
+                ".net-framework",
+                "audio",
+                "basic",
+                "linux",
+                "media",
+                "network",
+                "server",
+                "software"
+            ]
+        },
+        {
+            "title": "learning flex 4",
+            "categories": [
+                "actionscript",
+                "database",
+                "design",
+                "flex",
+                "graph",
+                "media",
+                "programming",
+                "server"
+            ]
+        },
+        {
+            "title": "sams teach yourself html5 mobile application development in 24 hours",
+            "categories": [
+                "android",
+                "html",
+                "html5",
+                "ipad",
+                "iphone",
+                "media",
+                "mobile",
+                "sams-teach-yourself"
+            ]
+        },
+        {
+            "title": "sams teach yourself sql in 24 hours, 5th edition",
+            "categories": [
+                "basic",
+                "database",
+                "microsoft",
+                "oracle",
+                "sams-teach-yourself",
+                "security",
+                "server",
+                "sql"
+            ]
+        },
+        {
+            "title": "sams teach yourself windows phone 7 game programming in 24 hours",
+            "categories": [
+                "audio",
+                "design",
+                "games-development",
+                "microsoft",
+                "phone-development",
+                "programming",
+                "sams-teach-yourself",
+                "windows"
+            ]
+        },
+        {
+            "title": "sams teach yourself microsoft expression web 4 in 24 hours, 2nd edition",
+            "categories": [
+                "css",
+                "css3",
+                "design",
+                "html",
+                "html5",
+                "jquery",
+                "microsoft",
+                "sams-teach-yourself"
+            ]
+        },
+        {
+            "title": "javafx for dummies",
+            "categories": [
+                "design",
+                "for-dummies",
+                "graph",
+                "java",
+                "javafx",
+                "microsoft-access",
+                "programming",
+                "software"
+            ]
+        },
+        {
+            "title": "professional asp.net mvc 5",
+            "categories": [
+                ".net-framework",
+                "asp",
+                "asp.net",
+                "framework",
+                "microsoft",
+                "mobile",
+                "mvc",
+                "optimization"
+            ]
+        },
+        {
+            "title": "adobe creative cloud all-in-one for dummies, 2nd edition",
+            "categories": [
+                "3d",
+                "basic",
+                "cloud",
+                "design",
+                "for-dummies",
+                "graph",
+                "indesign",
+                "photoshop"
+            ]
+        },
+        {
+            "title": "exploring beaglebone, 2nd edition",
+            "categories": [
+                "c++",
+                "design",
+                "flex",
+                "framework",
+                "linux",
+                "programming",
+                "project",
+                "software"
+            ]
+        },
+        {
+            "title": "pro java me apps",
+            "categories": [
+                "asp",
+                "basic",
+                "design",
+                "java",
+                "mobile",
+                "phone-development",
+                "server",
+                "software"
+            ]
+        },
+        {
+            "title": "hadoop: the definitive guide, 3rd edition",
+            "categories": [
+                "apache",
+                "api",
+                "flex",
+                "hadoop",
+                "ide",
+                "mapreduce",
+                "media",
+                "scala"
+            ]
+        },
+        {
+            "title": "programming c# 5.0",
+            "categories": [
+                ".net-framework",
+                "c#",
+                "database",
+                "framework",
+                "media",
+                "programming",
+                "windows",
+                "wpf"
+            ]
+        },
+        {
+            "title": "mobile design pattern gallery, 2nd edition",
+            "categories": [
+                "android",
+                "design",
+                "ios",
+                "media",
+                "mobile",
+                "patterns",
+                "phone-development",
+                "windows"
+            ]
+        },
+        {
+            "title": "pro powershell for database developers",
+            "categories": [
+                "business",
+                "database",
+                "framework",
+                "powershell",
+                "server",
+                "sql",
+                "training-kit",
+                "windows"
+            ]
+        },
+        {
+            "title": "pivotal certified professional spring developer exam",
+            "categories": [
+                "asp",
+                "basic",
+                "java",
+                "microsoft-access",
+                "mvc",
+                "programming",
+                "security",
+                "spring"
+            ]
+        },
+        {
+            "title": "practical jsf in java ee 8",
+            "categories": [
+                "ajax",
+                "api",
+                "database",
+                "framework",
+                "java",
+                "project",
+                "security",
+                "websocket"
+            ]
+        },
+        {
+            "title": "defending iot infrastructures with the raspberry pi",
+            "categories": [
+                ".net-framework",
+                "analytics",
+                "ide",
+                "linux",
+                "network",
+                "python",
+                "raspberry-pi",
+                "security"
+            ]
+        },
+        {
+            "title": "pro powershell for amazon web services, 2nd edition",
+            "categories": [
+                ".net-framework",
+                "aws",
+                "cloud",
+                "mac",
+                "microsoft",
+                "network",
+                "powershell",
+                "windows"
+            ]
+        },
+        {
+            "title": "using and administering linux: volume 2",
+            "categories": [
+                ".net-framework",
+                "basic",
+                "linux",
+                "mac",
+                "network",
+                "programming",
+                "regular-expressions",
+                "security"
+            ]
+        },
+        {
+            "title": "practical modern javascript",
+            "categories": [
+                "design",
+                "java",
+                "javascript",
+                "media",
+                "node",
+                "node.js",
+                "regular-expressions",
+                "testing"
+            ]
+        },
+        {
+            "title": "practical statistics for data scientists",
+            "categories": [
+                "basic",
+                "big-data",
+                "design",
+                "mac",
+                "machine-learning",
+                "media",
+                "microsoft-access",
+                "programming"
+            ]
+        },
+        {
+            "title": "real-world software development",
+            "categories": [
+                "basic",
+                "java",
+                "media",
+                "programming",
+                "project",
+                "security",
+                "software",
+                "testing"
+            ]
+        },
+        {
+            "title": "native mobile development",
+            "categories": [
+                ".net-framework",
+                "android",
+                "api",
+                "database",
+                "ios",
+                "media",
+                "mobile",
+                "network"
+            ]
+        },
+        {
+            "title": "programming for the internet of things",
+            "categories": [
+                "audio",
+                "basic",
+                "design",
+                "microsoft",
+                "microsoft-azure",
+                "programming",
+                "wi-fi",
+                "windows"
+            ]
+        },
+        {
+            "title": "designing scalable javascript applications",
+            "categories": [
+                "design",
+                "framework",
+                "java",
+                "javascript",
+                "patterns",
+                "project",
+                "scala",
+                "software"
+            ]
+        },
+        {
+            "title": "python web scraping cookbook",
+            "categories": [
+                "ajax",
+                "aws",
+                "cloud",
+                "design",
+                "docker",
+                "python",
+                "software",
+                "wi-fi"
+            ]
+        },
+        {
+            "title": "python interviews",
+            "categories": [
+                "apache-spark",
+                "mac",
+                "machine-learning",
+                "nutshell",
+                "programming",
+                "project",
+                "python",
+                "sql"
+            ]
+        },
+        {
+            "title": "responsive web design with html5 and css, 3rd edition",
+            "categories": [
+                "css",
+                "design",
+                "flex",
+                "fonts",
+                "html",
+                "html5",
+                "media",
+                "microsoft-access"
+            ]
+        },
+        {
+            "title": "unity 4.x game ai programming",
+            "categories": [
+                "basic",
+                "c#",
+                "design",
+                "graph",
+                "mac",
+                "programming",
+                "project",
+                "unity"
+            ]
+        },
+        {
+            "title": "ios and os x network programming cookbook",
+            "categories": [
+                ".net-framework",
+                "api",
+                "bsd",
+                "framework",
+                "ios",
+                "network",
+                "programming",
+                "server"
+            ]
+        },
+        {
+            "title": "asp.net mvc in action",
+            "categories": [
+                ".net-framework",
+                "asp",
+                "asp.net",
+                "basic",
+                "c#",
+                "in-action",
+                "mvc",
+                "project"
+            ]
+        }
     ],
     "9": [
-        "the developer's guide to social programming",
-        "c# 4, asp.net 4, and wpf, with visual studio 2010 jump start",
-        "sams teach yourself asp.net 4 in 24 hours",
-        "beginning ubuntu linux, 5th edition",
-        "taking your iphone 4s to the max",
-        "learn unity3d programming with unityscript",
-        "modern x86 assembly language programming",
-        "learn ios 8 app development, 2nd edition",
-        "pivotal certified professional core spring 5 developer exam, 2nd edition",
-        "advanced asp.net core 3 security",
-        "laravel: up and running",
-        "practical statistics for data scientists, 2nd edition",
-        "c++ the core language",
-        "exploring data science",
-        "exploring the data jungle",
-        "arcgis blueprints",
-        "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile"
+        {
+            "title": "the developer's guide to social programming",
+            "categories": [
+                ".net-framework",
+                "api",
+                "facebook",
+                "google",
+                "ide",
+                "media",
+                "network",
+                "programming",
+                "twitter"
+            ]
+        },
+        {
+            "title": "c# 4, asp.net 4, and wpf, with visual studio 2010 jump start",
+            "categories": [
+                ".net-framework",
+                "ajax",
+                "asp",
+                "asp.net",
+                "c#",
+                "microsoft-excel",
+                "mvc",
+                "visual-studio",
+                "wpf"
+            ]
+        },
+        {
+            "title": "sams teach yourself asp.net 4 in 24 hours",
+            "categories": [
+                ".net-framework",
+                "ajax",
+                "asp",
+                "asp.net",
+                "design",
+                "microsoft",
+                "sams-teach-yourself",
+                "server",
+                "sql"
+            ]
+        },
+        {
+            "title": "beginning ubuntu linux, 5th edition",
+            "categories": [
+                "audio",
+                "cloud",
+                "graph",
+                "linux",
+                "mac",
+                "microsoft-office",
+                "microsoft-word",
+                "ubuntu",
+                "windows"
+            ]
+        },
+        {
+            "title": "taking your iphone 4s to the max",
+            "categories": [
+                ".net-framework",
+                "basic",
+                "ios",
+                "iphone",
+                "media",
+                "microsoft-access",
+                "mobile",
+                "network",
+                "phone-development"
+            ]
+        },
+        {
+            "title": "learn unity3d programming with unityscript",
+            "categories": [
+                "basic",
+                "design",
+                "games-development",
+                "java",
+                "javascript",
+                "patterns",
+                "photoshop",
+                "programming",
+                "unity"
+            ]
+        },
+        {
+            "title": "modern x86 assembly language programming",
+            "categories": [
+                "api",
+                "asp",
+                "c++",
+                "design",
+                "mac",
+                "microsoft",
+                "programming",
+                "software",
+                "windows"
+            ]
+        },
+        {
+            "title": "learn ios 8 app development, 2nd edition",
+            "categories": [
+                "app-store",
+                "cocoa",
+                "design",
+                "framework",
+                "ios",
+                "ipad",
+                "iphone",
+                "patterns",
+                "sdk"
+            ]
+        },
+        {
+            "title": "pivotal certified professional core spring 5 developer exam, 2nd edition",
+            "categories": [
+                "asp",
+                "basic",
+                "framework",
+                "java",
+                "microsoft-access",
+                "mvc",
+                "programming",
+                "security",
+                "spring"
+            ]
+        },
+        {
+            "title": "advanced asp.net core 3 security",
+            "categories": [
+                ".net-framework",
+                "asp",
+                "asp.net",
+                "design",
+                "framework",
+                "hack",
+                "network",
+                "security",
+                "testing"
+            ]
+        },
+        {
+            "title": "laravel: up and running",
+            "categories": [
+                "api",
+                "database",
+                "framework",
+                "json",
+                "media",
+                "microsoft-access",
+                "php",
+                "testing",
+                "websocket"
+            ]
+        },
+        {
+            "title": "practical statistics for data scientists, 2nd edition",
+            "categories": [
+                "basic",
+                "big-data",
+                "design",
+                "mac",
+                "machine-learning",
+                "media",
+                "microsoft-access",
+                "programming",
+                "python"
+            ]
+        },
+        {
+            "title": "c++ the core language",
+            "categories": [
+                "basic",
+                "c++",
+                "design",
+                "graph",
+                "mac",
+                "media",
+                "programming",
+                "software",
+                "windows"
+            ]
+        },
+        {
+            "title": "exploring data science",
+            "categories": [
+                ".net-framework",
+                "analytics",
+                "asp",
+                "dom",
+                "mac",
+                "machine-learning",
+                "network",
+                "neural-networks",
+                "python"
+            ]
+        },
+        {
+            "title": "exploring the data jungle",
+            "categories": [
+                "business",
+                "hack",
+                "hacking",
+                "ide",
+                "mac",
+                "machine-learning",
+                "patterns",
+                "python",
+                "visualization"
+            ]
+        },
+        {
+            "title": "arcgis blueprints",
+            "categories": [
+                "api",
+                "google",
+                "graph",
+                "json",
+                "microsoft-access",
+                "project",
+                "python",
+                "server",
+                "xml"
+            ]
+        },
+        {
+            "title": "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile",
+            "categories": [
+                "css",
+                "css3",
+                "design",
+                "html",
+                "html5",
+                "jquery",
+                "microsoft-access",
+                "mobile",
+                "software"
+            ]
+        }
     ],
     "10": [
-        "linux all-in-one for dummies, 6th edition",
-        "sams teach yourself apache spark in 24 hours",
-        "practical database programming with visual basic.net, 2nd edition",
-        "mapreduce design patterns",
-        "common lisp recipes",
-        "mastering machine learning with python in six steps",
-        "pro microsoft hyper-v 2019",
-        "mobile and web messaging",
-        "java in a nutshell, 7th edition",
-        "real-world bug hunting",
-        "aurelia in action",
-        "agile development for serverless platforms",
-        "c# 9 and .net 5 - modern cross-platform development, 5th edition"
+        {
+            "title": "linux all-in-one for dummies, 6th edition",
+            "categories": [
+                ".net-framework",
+                "administration",
+                "asp",
+                "basic",
+                "for-dummies",
+                "linux",
+                "network",
+                "security",
+                "software",
+                "ubuntu"
+            ]
+        },
+        {
+            "title": "sams teach yourself apache spark in 24 hours",
+            "categories": [
+                "apache",
+                "apache-spark",
+                "big-data",
+                "cloud",
+                "flex",
+                "mac",
+                "machine-learning",
+                "project",
+                "sams-teach-yourself",
+                "scala"
+            ]
+        },
+        {
+            "title": "practical database programming with visual basic.net, 2nd edition",
+            "categories": [
+                ".net-framework",
+                "basic",
+                "database",
+                "framework",
+                "microsoft",
+                "programming",
+                "software",
+                "vb",
+                "visual-basic",
+                "visual-studio"
+            ]
+        },
+        {
+            "title": "mapreduce design patterns",
+            "categories": [
+                "analytics",
+                "big-data",
+                "design",
+                "dom",
+                "framework",
+                "hadoop",
+                "ide",
+                "mapreduce",
+                "media",
+                "patterns"
+            ]
+        },
+        {
+            "title": "common lisp recipes",
+            "categories": [
+                "database",
+                "graph",
+                "hack",
+                "hacking",
+                "lisp",
+                "microsoft-access",
+                "mobile",
+                "optimization",
+                "programming",
+                "project"
+            ]
+        },
+        {
+            "title": "mastering machine learning with python in six steps",
+            "categories": [
+                ".net-framework",
+                "analytics",
+                "design",
+                "framework",
+                "mac",
+                "machine-learning",
+                "network",
+                "neural-networks",
+                "programming",
+                "python"
+            ]
+        },
+        {
+            "title": "pro microsoft hyper-v 2019",
+            "categories": [
+                ".net-framework",
+                "active-directory",
+                "administration",
+                "hyper-v",
+                "mac",
+                "microsoft",
+                "network",
+                "powershell",
+                "server",
+                "windows"
+            ]
+        },
+        {
+            "title": "mobile and web messaging",
+            "categories": [
+                ".net-framework",
+                "basic",
+                "ios",
+                "java",
+                "javascript",
+                "media",
+                "mobile",
+                "network",
+                "objective-c",
+                "programming"
+            ]
+        },
+        {
+            "title": "java in a nutshell, 7th edition",
+            "categories": [
+                "api",
+                "asp",
+                "basic",
+                "design",
+                "java",
+                "javascript",
+                "mac",
+                "media",
+                "nutshell",
+                "programming"
+            ]
+        },
+        {
+            "title": "real-world bug hunting",
+            "categories": [
+                "basic",
+                "facebook",
+                "google",
+                "hack",
+                "hacking",
+                "ide",
+                "security",
+                "server",
+                "software",
+                "twitter"
+            ]
+        },
+        {
+            "title": "aurelia in action",
+            "categories": [
+                "api",
+                "design",
+                "flex",
+                "framework",
+                "in-action",
+                "java",
+                "javascript",
+                "mobile",
+                "project",
+                "tuning"
+            ]
+        },
+        {
+            "title": "agile development for serverless platforms",
+            "categories": [
+                "agile",
+                "api",
+                "aws",
+                "basic",
+                "business",
+                "design",
+                "in-action",
+                "patterns",
+                "server",
+                "software"
+            ]
+        },
+        {
+            "title": "c# 9 and .net 5 - modern cross-platform development, 5th edition",
+            "categories": [
+                ".net-framework",
+                "api",
+                "asp",
+                "asp.net",
+                "c#",
+                "framework",
+                "microsoft",
+                "mobile",
+                "programming",
+                "visual-studio"
+            ]
+        }
     ],
     "11": [
-        "oracle dba checklists pocket reference",
-        "learn opengl es",
-        "c# database basics",
-        "beginning angularjs",
-        "using and administering linux: volume 3",
-        "serious python",
-        "julia programming projects",
-        "zabbix 1.8 network monitoring"
+        {
+            "title": "oracle dba checklists pocket reference",
+            "categories": [
+                ".net-framework",
+                "administration",
+                "database",
+                "mac",
+                "media",
+                "network",
+                "oracle",
+                "server",
+                "software",
+                "testing",
+                "windows"
+            ]
+        },
+        {
+            "title": "learn opengl es",
+            "categories": [
+                "3d",
+                "android",
+                "basic",
+                "eclipse",
+                "games-development",
+                "graph",
+                "ios",
+                "mobile",
+                "opengl",
+                "programming",
+                "sdk"
+            ]
+        },
+        {
+            "title": "c# database basics",
+            "categories": [
+                "basic",
+                "c#",
+                "database",
+                "media",
+                "microsoft-access",
+                "project",
+                "server",
+                "sql",
+                "vb",
+                "vba",
+                "visual-basic"
+            ]
+        },
+        {
+            "title": "beginning angularjs",
+            "categories": [
+                "angular",
+                "angularjs",
+                "basic",
+                "design",
+                "framework",
+                "html",
+                "java",
+                "javascript",
+                "mvc",
+                "patterns",
+                "server"
+            ]
+        },
+        {
+            "title": "using and administering linux: volume 3",
+            "categories": [
+                ".net-framework",
+                "administration",
+                "apache",
+                "linux",
+                "mac",
+                "microsoft-word",
+                "network",
+                "security",
+                "server",
+                "windows",
+                "wordpress"
+            ]
+        },
+        {
+            "title": "serious python",
+            "categories": [
+                "api",
+                "database",
+                "design",
+                "ide",
+                "postgresql",
+                "programming",
+                "project",
+                "python",
+                "scala",
+                "software",
+                "testing"
+            ]
+        },
+        {
+            "title": "julia programming projects",
+            "categories": [
+                "business",
+                "database",
+                "dom",
+                "mac",
+                "machine-learning",
+                "matlab",
+                "programming",
+                "project",
+                "python",
+                "testing",
+                "visualization"
+            ]
+        },
+        {
+            "title": "zabbix 1.8 network monitoring",
+            "categories": [
+                ".net-framework",
+                "basic",
+                "flex",
+                "graph",
+                "linux",
+                "mac",
+                "microsoft-office",
+                "network",
+                "phone-development",
+                "server",
+                "windows"
+            ]
+        }
     ],
     "12": [
-        "the pragmatic programmer, 20th anniversary edition",
-        "mastering regular expressions, 3rd edition",
-        "sams teach yourself go in 24 hours",
-        "developing 2d games with unity",
-        "advanced analytics with spark, 2nd edition"
+        {
+            "title": "the pragmatic programmer, 20th anniversary edition",
+            "categories": [
+                ".net-framework",
+                "asp",
+                "audio",
+                "basic",
+                "business",
+                "flex",
+                "framework",
+                "programming",
+                "project",
+                "security",
+                "software",
+                "testing"
+            ]
+        },
+        {
+            "title": "mastering regular expressions, 3rd edition",
+            "categories": [
+                ".net-framework",
+                "c#",
+                "framework",
+                "java",
+                "media",
+                "mysql",
+                "perl",
+                "php",
+                "python",
+                "regular-expressions",
+                "ruby",
+                "vb"
+            ]
+        },
+        {
+            "title": "sams teach yourself go in 24 hours",
+            "categories": [
+                ".net-framework",
+                "api",
+                "basic",
+                "json",
+                "network",
+                "programming",
+                "regular-expressions",
+                "sams-teach-yourself",
+                "scala",
+                "server",
+                "software",
+                "testing"
+            ]
+        },
+        {
+            "title": "developing 2d games with unity",
+            "categories": [
+                "3d",
+                "app-store",
+                "asp",
+                "c#",
+                "flex",
+                "games-development",
+                "google",
+                "patterns",
+                "playstation",
+                "programming",
+                "unity",
+                "xbox"
+            ]
+        },
+        {
+            "title": "advanced analytics with spark, 2nd edition",
+            "categories": [
+                "analytics",
+                "apache-spark",
+                "cloud",
+                "java",
+                "mac",
+                "machine-learning",
+                "media",
+                "patterns",
+                "programming",
+                "python",
+                "scala",
+                "security"
+            ]
+        }
     ],
     "13": [
-        "php, mysql & javascript all-in-one for dummies",
-        "building node applications with mongodb and backbone",
-        "beginning big data with power bi and excel 2013"
+        {
+            "title": "php, mysql & javascript all-in-one for dummies",
+            "categories": [
+                "css",
+                "css3",
+                "for-dummies",
+                "framework",
+                "html",
+                "html5",
+                "ide",
+                "java",
+                "javascript",
+                "mysql",
+                "php",
+                "programming",
+                "project"
+            ]
+        },
+        {
+            "title": "building node applications with mongodb and backbone",
+            "categories": [
+                ".net-framework",
+                "backbone",
+                "facebook",
+                "java",
+                "javascript",
+                "media",
+                "mongodb",
+                "network",
+                "node",
+                "node.js",
+                "programming",
+                "project",
+                "scala"
+            ]
+        },
+        {
+            "title": "beginning big data with power bi and excel 2013",
+            "categories": [
+                ".net-framework",
+                "analytics",
+                "apache",
+                "big-data",
+                "business",
+                "database",
+                "facebook",
+                "hadoop",
+                "microsoft",
+                "microsoft-excel",
+                "nosql",
+                "project",
+                "sql"
+            ]
+        }
     ],
     "15": [
-        "designing evolvable web apis with asp.net"
+        {
+            "title": "designing evolvable web apis with asp.net",
+            "categories": [
+                ".net-framework",
+                "api",
+                "asp",
+                "asp.net",
+                "basic",
+                "design",
+                "framework",
+                "ide",
+                "java",
+                "media",
+                "microsoft",
+                "mobile",
+                "node",
+                "php",
+                "ruby"
+            ]
+        }
     ],
     "16": [
-        "sams teach yourself asp.net core in 24 hours"
+        {
+            "title": "sams teach yourself asp.net core in 24 hours",
+            "categories": [
+                ".net-framework",
+                "angular",
+                "api",
+                "asp",
+                "asp.net",
+                "basic",
+                "cloud",
+                "docker",
+                "framework",
+                "microsoft",
+                "microsoft-access",
+                "mvc",
+                "project",
+                "sams-teach-yourself",
+                "security",
+                "windows"
+            ]
+        }
     ]
 }

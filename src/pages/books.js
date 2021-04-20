@@ -32,11 +32,13 @@ function get_Categories(items) {
 
   // items.forEach(item => {
   //   let iLen = item.node.categories.length
+  //   let title = item.node.title
+  //   let categs = item.node.categories
   //   try {
-  //     categories[iLen].push(item.node.title)
+  //     categories[iLen].push({"title": title,"categories":categs})
   //   } catch {
   //     categories[iLen] = []
-  //     categories[iLen].push(item.node.title)
+  //     categories[iLen].push({"title": title,"categories":categs})
   //   }
   // })
 
