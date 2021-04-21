@@ -3,6 +3,11 @@ import { StaticQuery, graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import StarRating from "../components/starrating"
 
+
+
+let library = {}
+let assegnazioni = {}
+
 const Books = props => (
   <StaticQuery
     query={graphql`
@@ -49,12 +54,6 @@ function get_Categories(items) {
   })
 
 
-  // console.log(JSON.stringify(categories))
-
-  let library = {}
-  let assegnazioni = {}
-
-
   Object.keys(categories).forEach(function (item, index) {
     let keylist = categories[item]
     keylist.forEach(libro => {
@@ -72,6 +71,11 @@ function get_Categories(items) {
     });                                                         //keylist = insieme + chiave
 
   })
+
+
+  console.log(JSON.stringify(library))
+
+
 
   return (<div className="flex flex-wrap -mx-1 overflow-hidden">{[]}</div>)
 

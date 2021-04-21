@@ -66,6 +66,7 @@ public
 *.py
 *.pyc
 *.zip
+*.txt
 
 # Mie cartelle di servizio
 htmlgrab

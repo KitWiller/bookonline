@@ -1,0 +1,646 @@
+{
+    "non_definito": {
+        "titolo": "information fusion in signal and image processing",
+        "rating": 0
+    },
+    "subversion": {
+        "titolo": "pragmatic version control using cvs",
+        "rating": 3
+    },
+    "design": {
+        "titolo": "history of programming languages",
+        "rating": 5
+    },
+    "programming": {
+        "titolo": "history of programming languages",
+        "rating": 5
+    },
+    "for-dummies": {
+        "titolo": "adobe creative cloud all-in-one for dummies, 2nd edition",
+        "rating": 5
+    },
+    "mac": {
+        "titolo": "xenserver administration handbook",
+        "rating": 5
+    },
+    "basic": {
+        "titolo": "solidworks 2009 bible",
+        "rating": 5
+    },
+    "project": {
+        "titolo": "pmp in depth",
+        "rating": 5
+    },
+    "hadoop": {
+        "titolo": "hadoop in practice",
+        "rating": 4
+    },
+    "asp": {
+        "titolo": "pro java me apps",
+        "rating": 5
+    },
+    "business": {
+        "titolo": "fundamentals of data visualization",
+        "rating": 5
+    },
+    "soa": {
+        "titolo": "perl and xml",
+        "rating": 3
+    },
+    "python": {
+        "titolo": "learn to program with python",
+        "rating": 5
+    },
+    "microsoft": {
+        "titolo": "developing secure applications with visual basic",
+        "rating": 5
+    },
+    "microsoft-word": {
+        "titolo": "history of programming languages",
+        "rating": 5
+    },
+    "software": {
+        "titolo": "solidworks 2009 bible",
+        "rating": 5
+    },
+    "tuning": {
+        "titolo": "optimizing java",
+        "rating": 5
+    },
+    "microsoft-excel": {
+        "titolo": "excel 2013 bible",
+        "rating": 4
+    },
+    "patterns": {
+        "titolo": "exploring the data jungle",
+        "rating": 5
+    },
+    "testing": {
+        "titolo": "101 excel 2013 tips, tricks and timesavers",
+        "rating": 4
+    },
+    "database": {
+        "titolo": "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition",
+        "rating": 5
+    },
+    "oracle": {
+        "titolo": "troubleshooting oracle performance, 2nd edition",
+        "rating": 4
+    },
+    "cloud": {
+        "titolo": "begin to code with python",
+        "rating": 5
+    },
+    "security": {
+        "titolo": "developing secure applications with visual basic",
+        "rating": 5
+    },
+    "media": {
+        "titolo": "you don't know js: scope & closures",
+        "rating": 5
+    },
+    "microsoft-access": {
+        "titolo": "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile",
+        "rating": 5
+    },
+    "android": {
+        "titolo": "kotlin in action",
+        "rating": 5
+    },
+    "sap": {
+        "titolo": "sams teach yourself sap in 24 hours, 4th edition",
+        "rating": 3
+    },
+    "wi-fi": {
+        "titolo": "python web scraping cookbook",
+        "rating": 5
+    },
+    "sdk": {
+        "titolo": "learn java for android development, 3rd edition",
+        "rating": 4
+    },
+    "ide": {
+        "titolo": "optimizing java",
+        "rating": 5
+    },
+    "ruby": {
+        "titolo": "the book of ruby",
+        "rating": 4
+    },
+    "css": {
+        "titolo": "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile",
+        "rating": 5
+    },
+    "java": {
+        "titolo": "you don't know js: scope & closures",
+        "rating": 5
+    },
+    "xml": {
+        "titolo": "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition",
+        "rating": 5
+    },
+    "administration": {
+        "titolo": "xenserver administration handbook",
+        "rating": 5
+    },
+    "powershell": {
+        "titolo": "powershell deep dives",
+        "rating": 4
+    },
+    "optimization": {
+        "titolo": "common lisp recipes",
+        "rating": 5
+    },
+    "ios": {
+        "titolo": "sams teach yourself ios 5 application development in 24 hours, 3rd edition",
+        "rating": 4
+    },
+    "google": {
+        "titolo": "developing 2d games with unity",
+        "rating": 5
+    },
+    "seo": {
+        "titolo": "graphic design school, 7th edition",
+        "rating": 4
+    },
+    "nutshell": {
+        "titolo": "c++ in a nutshell",
+        "rating": 4
+    },
+    "actionscript": {
+        "titolo": "learning flex 3",
+        "rating": 4
+    },
+    "flash": {
+        "titolo": "release it! 2nd edition",
+        "rating": 4
+    },
+    "iphone": {
+        "titolo": "sams teach yourself iphone application development in 24 hours, 2nd edition",
+        "rating": 4
+    },
+    "mobile": {
+        "titolo": "pro java me apps",
+        "rating": 5
+    },
+    "sams-teach-yourself": {
+        "titolo": "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition",
+        "rating": 5
+    },
+    "windows": {
+        "titolo": "developing secure applications with visual basic",
+        "rating": 5
+    },
+    "c++": {
+        "titolo": "effective modern c++",
+        "rating": 5
+    },
+    "dom": {
+        "titolo": "ivor horton's beginning visual c++ 2012",
+        "rating": 4
+    },
+    "facebook": {
+        "titolo": "how to create the next facebook",
+        "rating": 4
+    },
+    "graph": {
+        "titolo": "fundamentals of data visualization",
+        "rating": 5
+    },
+    "c#": {
+        "titolo": "developing 2d games with unity",
+        "rating": 5
+    },
+    "lego": {
+        "titolo": "winning lego mindstorms programming",
+        "rating": 5
+    },
+    "javascript": {
+        "titolo": "you don't know js: scope & closures",
+        "rating": 5
+    },
+    "php": {
+        "titolo": "learning php & mysql, 2nd edition",
+        "rating": 4
+    },
+    "framework": {
+        "titolo": "the quick python book, 3rd edition",
+        "rating": 5
+    },
+    "agile": {
+        "titolo": "navigating hybrid scrum environments",
+        "rating": 4
+    },
+    "matlab": {
+        "titolo": "practical matlab modeling with simulink",
+        "rating": 0
+    },
+    "api": {
+        "titolo": "effective modern c++",
+        "rating": 5
+    },
+    "games-development": {
+        "titolo": "begin to code with python",
+        "rating": 5
+    },
+    "shell": {
+        "titolo": "powershell in depth",
+        "rating": 4
+    },
+    "phone-development": {
+        "titolo": "sams teach yourself windows phone 7 game programming in 24 hours",
+        "rating": 5
+    },
+    "server": {
+        "titolo": "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition",
+        "rating": 5
+    },
+    "audio": {
+        "titolo": "sams teach yourself windows phone 7 game programming in 24 hours",
+        "rating": 5
+    },
+    ".net-framework": {
+        "titolo": "understanding linux network internals",
+        "rating": 4
+    },
+    "linux": {
+        "titolo": "exploring beaglebone, 2nd edition",
+        "rating": 5
+    },
+    "network": {
+        "titolo": "understanding linux network internals",
+        "rating": 4
+    },
+    "analytics": {
+        "titolo": "complete web monitoring",
+        "rating": 4
+    },
+    "flex": {
+        "titolo": "impractical python projects",
+        "rating": 5
+    },
+    "yahoo": {
+        "titolo": "learning flex 3",
+        "rating": 4
+    },
+    "html": {
+        "titolo": "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile",
+        "rating": 5
+    },
+    "html5": {
+        "titolo": "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile",
+        "rating": 5
+    },
+    "ipad": {
+        "titolo": "sams teach yourself ios 5 application development in 24 hours, 3rd edition",
+        "rating": 4
+    },
+    "gis": {
+        "titolo": "gis for web developers",
+        "rating": 4
+    },
+    "wordpress": {
+        "titolo": "build your own wicked wordpress themes",
+        "rating": 4
+    },
+    "microsoft-office": {
+        "titolo": "office 2013 for dummies",
+        "rating": 4
+    },
+    "amazon-kindle-fire": {
+        "titolo": "fire tablets for dummies",
+        "rating": 4
+    },
+    "app-store": {
+        "titolo": "developing 2d games with unity",
+        "rating": 5
+    },
+    "sql": {
+        "titolo": "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition",
+        "rating": 5
+    },
+    "sharepoint": {
+        "titolo": "sams teach yourself microsoft dynamics crm 2011 in 24 hours",
+        "rating": 3
+    },
+    "django": {
+        "titolo": "pro django, 2nd edition",
+        "rating": 4
+    },
+    "hack": {
+        "titolo": "exploring the data jungle",
+        "rating": 5
+    },
+    "perl": {
+        "titolo": "learning perl, 6th edition",
+        "rating": 4
+    },
+    "hacking": {
+        "titolo": "exploring the data jungle",
+        "rating": 5
+    },
+    "visualization": {
+        "titolo": "fundamentals of data visualization",
+        "rating": 5
+    },
+    "big-data": {
+        "titolo": "practical statistics for data scientists",
+        "rating": 4
+    },
+    "clojure": {
+        "titolo": "etudes for clojurescript",
+        "rating": 0
+    },
+    "aws": {
+        "titolo": "python web scraping cookbook",
+        "rating": 5
+    },
+    "docker": {
+        "titolo": "python web scraping cookbook",
+        "rating": 5
+    },
+    "scala": {
+        "titolo": "scala in depth",
+        "rating": 4
+    },
+    "numpy": {
+        "titolo": "python one-liners",
+        "rating": 5
+    },
+    "drupal": {
+        "titolo": "drupal 7 module development",
+        "rating": 4
+    },
+    "unity": {
+        "titolo": "developing 2d games with unity",
+        "rating": 5
+    },
+    "in-action": {
+        "titolo": "kotlin in action",
+        "rating": 5
+    },
+    "xcode": {
+        "titolo": "learning core data for ios",
+        "rating": 4
+    },
+    "head-first": {
+        "titolo": "head first html with css & xhtml",
+        "rating": 4
+    },
+    "visual-basic": {
+        "titolo": "developing secure applications with visual basic",
+        "rating": 5
+    },
+    "css3": {
+        "titolo": "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile",
+        "rating": 5
+    },
+    "objective-c": {
+        "titolo": "programming android, 2nd edition",
+        "rating": 4
+    },
+    "blockchain": {
+        "titolo": "architecting enterprise blockchain solutions",
+        "rating": 0
+    },
+    "vb": {
+        "titolo": "pro linq",
+        "rating": 4
+    },
+    "visual-studio": {
+        "titolo": "pro linq",
+        "rating": 4
+    },
+    "arduino": {
+        "titolo": "building arduino projects for the internet of things",
+        "rating": 4
+    },
+    "mariadb": {
+        "titolo": "migrating to mariadb",
+        "rating": 0
+    },
+    "citrix": {
+        "titolo": "xenserver administration handbook",
+        "rating": 5
+    },
+    "regular-expressions": {
+        "titolo": "python one-liners",
+        "rating": 5
+    },
+    "cisco": {
+        "titolo": "investigating the cyber breach",
+        "rating": 0
+    },
+    "postgresql": {
+        "titolo": "serious python",
+        "rating": 4
+    },
+    "mysql": {
+        "titolo": "learning php & mysql, 2nd edition",
+        "rating": 4
+    },
+    "outlook": {
+        "titolo": "microsoft outlook 2013 plain & simple",
+        "rating": 4
+    },
+    "jira": {
+        "titolo": "practical jira administration",
+        "rating": 3
+    },
+    "raspberry-pi": {
+        "titolo": "arduino music and audio projects",
+        "rating": 4
+    },
+    "ethereum": {
+        "titolo": "ethereum for web developers",
+        "rating": 0
+    },
+    "machine-learning": {
+        "titolo": "python one-liners",
+        "rating": 5
+    },
+    "node": {
+        "titolo": "learning selenium testing tools with python",
+        "rating": 4
+    },
+    "node.js": {
+        "titolo": "practical modern javascript",
+        "rating": 4
+    },
+    "tensorflow": {
+        "titolo": "python machine learning, 3rd edition",
+        "rating": 4
+    },
+    "ibm": {
+        "titolo": "unix for oracle dbas pocket reference",
+        "rating": 4
+    },
+    "3d": {
+        "titolo": "adobe creative cloud all-in-one for dummies, 2nd edition",
+        "rating": 5
+    },
+    "ubuntu": {
+        "titolo": "ubuntu hacks",
+        "rating": 4
+    },
+    "twitter": {
+        "titolo": "the developer's guide to social programming",
+        "rating": 4
+    },
+    "json": {
+        "titolo": "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition",
+        "rating": 5
+    },
+    "ajax": {
+        "titolo": "python web scraping cookbook",
+        "rating": 5
+    },
+    "opengl": {
+        "titolo": "expert android",
+        "rating": 4
+    },
+    "cocoa": {
+        "titolo": "learn ios 7 app development",
+        "rating": 3
+    },
+    "hibernate": {
+        "titolo": "hibernate recipes, 2nd edition",
+        "rating": 4
+    },
+    "spring": {
+        "titolo": "hibernate recipes, 2nd edition",
+        "rating": 4
+    },
+    "freebsd": {
+        "titolo": "absolute freebsd, 3rd edition",
+        "rating": 4
+    },
+    "bash": {
+        "titolo": "the linux command line, 2nd edition",
+        "rating": 4
+    },
+    "fonts": {
+        "titolo": "web design playground",
+        "rating": 0
+    },
+    "microsoft-azure": {
+        "titolo": "programming for the internet of things",
+        "rating": 4
+    },
+    "ejb": {
+        "titolo": "ejb 3.0 database persistence with oracle fusion middleware 11g",
+        "rating": 3
+    },
+    "rails": {
+        "titolo": "rails 3 in action",
+        "rating": 4
+    },
+    "soap": {
+        "titolo": "perl and xml",
+        "rating": 3
+    },
+    "jquery": {
+        "titolo": "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile",
+        "rating": 5
+    },
+    "javafx": {
+        "titolo": "javafx for dummies",
+        "rating": 4
+    },
+    "asp.net": {
+        "titolo": "professional asp.net mvc 5",
+        "rating": 4
+    },
+    "mvc": {
+        "titolo": "professional asp.net mvc 5",
+        "rating": 4
+    },
+    "indesign": {
+        "titolo": "adobe creative cloud all-in-one for dummies, 2nd edition",
+        "rating": 5
+    },
+    "photoshop": {
+        "titolo": "adobe creative cloud all-in-one for dummies, 2nd edition",
+        "rating": 5
+    },
+    "apache": {
+        "titolo": "sams teach yourself apache spark in 24 hours",
+        "rating": 4
+    },
+    "mapreduce": {
+        "titolo": "mapreduce design patterns",
+        "rating": 4
+    },
+    "wpf": {
+        "titolo": "programming c# 5.0",
+        "rating": 4
+    },
+    "training-kit": {
+        "titolo": "pro powershell for database developers",
+        "rating": 4
+    },
+    "websocket": {
+        "titolo": "laravel: up and running",
+        "rating": 4
+    },
+    "apache-spark": {
+        "titolo": "sams teach yourself apache spark in 24 hours",
+        "rating": 4
+    },
+    "bsd": {
+        "titolo": "ios and os x network programming cookbook",
+        "rating": 4
+    },
+    "neural-networks": {
+        "titolo": "exploring data science",
+        "rating": 4
+    },
+    "lisp": {
+        "titolo": "common lisp recipes",
+        "rating": 5
+    },
+    "active-directory": {
+        "titolo": "pro microsoft hyper-v 2019",
+        "rating": 0
+    },
+    "hyper-v": {
+        "titolo": "pro microsoft hyper-v 2019",
+        "rating": 0
+    },
+    "eclipse": {
+        "titolo": "learn opengl es",
+        "rating": 4
+    },
+    "vba": {
+        "titolo": "c# database basics",
+        "rating": 4
+    },
+    "angular": {
+        "titolo": "beginning angularjs",
+        "rating": 4
+    },
+    "angularjs": {
+        "titolo": "beginning angularjs",
+        "rating": 4
+    },
+    "playstation": {
+        "titolo": "developing 2d games with unity",
+        "rating": 5
+    },
+    "xbox": {
+        "titolo": "developing 2d games with unity",
+        "rating": 5
+    },
+    "backbone": {
+        "titolo": "building node applications with mongodb and backbone",
+        "rating": 3
+    },
+    "mongodb": {
+        "titolo": "building node applications with mongodb and backbone",
+        "rating": 3
+    },
+    "nosql": {
+        "titolo": "beginning big data with power bi and excel 2013",
+        "rating": 4
+    }
+}
