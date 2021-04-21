@@ -1,0 +1,37 @@
+
+    Verifica una categoria per volta 
+    1 La categoria è già assegnata?
+    - Sì --> 2 Il rating è minore di questo libro? 
+            - Sì = Prossimo passo - No exit
+    - No --> Prossimo passo
+    3 Il libro è già stato assegnato ?
+        Sì ---> exit
+        No ---> Assegnazione                               
+        --------------------------------------
+
+{
+    "python":[
+        3:[
+            libro 1, 
+            libro 2,
+            libro 3
+        ],
+        1:[
+           libro 7,
+           libro 8,
+           libro 9
+           ],
+    ]
+}
+-----------------------------------------------
+{
+    "python":{
+        titolo: "" 
+        rating: 5
+    },
+    
+    "software":{
+        titolo: ""
+        rating: ""
+    }
+}

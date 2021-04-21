@@ -21,7 +21,7 @@ const Books = props => (
     render={data => (
       <>
         <Layout location="/destinations" title="Destinations">
-        {get_Categories(data.allBookstoreJson.edges)}
+          {get_Categories(data.allBookstoreJson.edges)}
         </Layout>
       </>
     )}
@@ -39,7 +39,7 @@ function get_Categories(items) {
     let title = item.node.title
     let categs = item.node.categories
     let rtn = item.node.rating
-    let obj = {"title": title, "rating": rtn, "categories": categs}
+    let obj = { "title": title, "rating": rtn, "categories": categs }
     try {
       categories[iLen].push(obj)
     } catch {
@@ -47,12 +47,59 @@ function get_Categories(items) {
       categories[iLen].push(obj)
     }
   })
-  
 
-  console.log(JSON.stringify(categories))
+
+  // console.log(JSON.stringify(categories))
+
+  let library = {}
+  let assegnazioni = {}
+
+
+  Object.keys(categories).forEach(function (item, index) {
+    let keylist = categories[item]
+    keylist.forEach(libro => {
+      let totcategories = libro.categories.length               // variabile = numero di categorie dentro libro
+      if (totcategories > 0) {
+        libro.categories.forEach(cat => {
+          set_Libro (libro.title, libro.rating, cat)
+
+          
+        });
+      } else {
+        set_Libro (libro.title, libro.rating, "non_definito")
+      }
+
+    });                                                         //keylist = insieme + chiave
+
+  })
 
   return (<div className="flex flex-wrap -mx-1 overflow-hidden">{[]}</div>)
 
+}
+
+function set_Assegnazione(titolo, categoria){
+  try {
+    assegnazioni[categoria].push(titolo)
+  } catch {
+    assegnazioni[categoria] = [titolo]
+  }
+}
+
+function set_Libro (titolo, rating, categoria) {
+  const libro = {
+    titolo,
+    rating
+  }
+ 
+  try {
+    if (rating > library[categoria].rating) {
+      library[categoria] = libro
+      set_Assegnazione(titolo, categoria)
+    }
+  } catch {
+    library[categoria] = libro
+    set_Assegnazione(titolo, categoria)
+  }
 }
 
 /*
