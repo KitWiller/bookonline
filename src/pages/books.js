@@ -26,12 +26,32 @@ const Books = props => (
     render={data => (
       <>
         <Layout location="/destinations" title="Destinations">
-          {get_Categories(data.allBookstoreJson.edges)}
+          {get_Risultato(data.allBookstoreJson.edges)}
         </Layout>
       </>
     )}
   />
 )
+
+
+function get_Risultato(items) {
+
+  items.forEach(item => {
+
+    let libro = item.node
+    let iTot = libro.categories.length
+    if (iTot > 0) {
+      libro.categories.forEach(cat => {
+        set_Libro (libro.title, libro.rating, cat)
+      });
+    } else {
+      set_Libro (libro.title, libro.rating, "non_definito")
+    }
+  })
+
+  console.log(JSON.stringify(library))
+  return (<div className="flex flex-wrap -mx-1 overflow-hidden">{[]}</div>)
+}
 
 // 
 
