@@ -1,0 +1,588 @@
+{
+    "non_definito": [
+        "information fusion in signal and image processing"
+    ],
+    "subversion": [
+        "pragmatic version control using cvs"
+    ],
+    "design": [
+        "the web designer's roadmap",
+        "history of programming languages"
+    ],
+    "programming": [
+        "adventures in minecraft",
+        "history of programming languages"
+    ],
+    "for-dummies": [
+        "artificial intelligence for dummies",
+        "adobe creative cloud all-in-one for dummies, 2nd edition"
+    ],
+    "mac": [
+        "learn os x lion, 2nd edition",
+        "xenserver administration handbook"
+    ],
+    "basic": [
+        "pointers in c",
+        "solidworks 2009 bible"
+    ],
+    "project": [
+        "pmp in depth"
+    ],
+    "hadoop": [
+        "hadoop in practice"
+    ],
+    "asp": [
+        "reactive data handling",
+        "epub 3 best practices",
+        "pro java me apps"
+    ],
+    "business": [
+        "do more with soa integration: best of packt",
+        "the data warehouse toolkit, 3rd edition",
+        "fundamentals of data visualization"
+    ],
+    "soa": [
+        "do more with soa integration: best of packt",
+        "perl and xml"
+    ],
+    "python": [
+        "the coder's apprentice",
+        "python",
+        "learn to program with python"
+    ],
+    "microsoft": [
+        "microsoft word 2013 plain & simple",
+        "developing secure applications with visual basic"
+    ],
+    "microsoft-word": [
+        "microsoft word 2013 plain & simple",
+        "history of programming languages"
+    ],
+    "software": [
+        "aperture 3 portable genius, 2nd edition",
+        "solidworks 2009 bible"
+    ],
+    "tuning": [
+        "aperture 3 portable genius, 2nd edition",
+        "optimizing java"
+    ],
+    "microsoft-excel": [
+        "excel 2013 bible"
+    ],
+    "patterns": [
+        "the data warehouse toolkit, 3rd edition",
+        "exploring the data jungle"
+    ],
+    "testing": [
+        "101 excel 2013 tips, tricks and timesavers"
+    ],
+    "database": [
+        "troubleshooting oracle performance, 2nd edition",
+        "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition"
+    ],
+    "oracle": [
+        "troubleshooting oracle performance, 2nd edition"
+    ],
+    "cloud": [
+        "building the infrastructure for cloud security",
+        "professional heroku programming",
+        "salesforce service cloud for dummies",
+        "begin to code with python"
+    ],
+    "security": [
+        "building the infrastructure for cloud security",
+        "windows sysinternals administrator's reference",
+        "developing secure applications with visual basic"
+    ],
+    "media": [
+        "accessible epub 3",
+        "epub 3 best practices",
+        "you don't know js: scope & closures"
+    ],
+    "microsoft-access": [
+        "accessible epub 3",
+        "microsoft access 2013 plain & simple",
+        "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile"
+    ],
+    "android": [
+        "android cookbook",
+        "kotlin in action"
+    ],
+    "sap": [
+        "sap erp financial accounting and controlling",
+        "sams teach yourself sap in 24 hours, 4th edition"
+    ],
+    "wi-fi": [
+        "sap erp financial accounting and controlling",
+        "peopleware, 3rd edition",
+        "python web scraping cookbook"
+    ],
+    "sdk": [
+        "developing for apple tv using tvos and swift",
+        "learn java for android development, 3rd edition"
+    ],
+    "ide": [
+        "clean ruby",
+        "visual design solutions",
+        "optimizing java"
+    ],
+    "ruby": [
+        "clean ruby",
+        "ruby in a nutshell",
+        "the book of ruby"
+    ],
+    "css": [
+        "beginning css web development",
+        "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile"
+    ],
+    "java": [
+        "pro xml development with java technology",
+        "beginning programming with java for dummies, 3rd edition",
+        "you don't know js: scope & closures"
+    ],
+    "xml": [
+        "pro xml development with java technology",
+        "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition"
+    ],
+    "administration": [
+        "powershell deep dives",
+        "xenserver administration handbook"
+    ],
+    "powershell": [
+        "powershell deep dives"
+    ],
+    "optimization": [
+        "advanced backend optimization",
+        "seriously good software",
+        "professional asp.net mvc 5",
+        "common lisp recipes"
+    ],
+    "ios": [
+        "icloud for developers",
+        "sams teach yourself ios 5 application development in 24 hours, 3rd edition"
+    ],
+    "google": [
+        "the little go book",
+        "gis for web developers",
+        "developing 2d games with unity"
+    ],
+    "seo": [
+        "typepad for dummies",
+        "graphic design school, 7th edition"
+    ],
+    "nutshell": [
+        "ruby in a nutshell",
+        "c++ in a nutshell"
+    ],
+    "actionscript": [
+        "actionscript for flash mx: the definitive guide, 2nd edition",
+        "learning flex 3"
+    ],
+    "flash": [
+        "actionscript for flash mx: the definitive guide, 2nd edition",
+        "release it! 2nd edition"
+    ],
+    "iphone": [
+        "sams teach yourself iphone application development in 24 hours, 2nd edition"
+    ],
+    "mobile": [
+        "sams teach yourself iphone application development in 24 hours, 2nd edition",
+        "pro java me apps"
+    ],
+    "sams-teach-yourself": [
+        "sams teach yourself iphone application development in 24 hours, 2nd edition",
+        "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition"
+    ],
+    "windows": [
+        "windows sysinternals administrator's reference",
+        "developing secure applications with visual basic"
+    ],
+    "c++": [
+        "ivor horton's beginning visual c++ 2012",
+        "effective modern c++"
+    ],
+    "dom": [
+        "ivor horton's beginning visual c++ 2012"
+    ],
+    "facebook": [
+        "professional heroku programming",
+        "how to create the next facebook"
+    ],
+    "graph": [
+        "visual design solutions",
+        "fundamentals of data visualization"
+    ],
+    "c#": [
+        "illustrated c# 2012, 4th edition",
+        "developing 2d games with unity"
+    ],
+    "lego": [
+        "winning lego mindstorms programming"
+    ],
+    "javascript": [
+        "you don't know js: scope & closures"
+    ],
+    "php": [
+        "php 7 zend certification study guide",
+        "learning php & mysql, 2nd edition"
+    ],
+    "framework": [
+        "enterprise cybersecurity study guide",
+        "the quick python book, 3rd edition"
+    ],
+    "agile": [
+        "navigating hybrid scrum environments"
+    ],
+    "matlab": [
+        "practical matlab modeling with simulink"
+    ],
+    "api": [
+        "architecting hbase applications",
+        "effective modern c++"
+    ],
+    "games-development": [
+        "super scratch programming adventure!",
+        "begin to code with python"
+    ],
+    "shell": [
+        "powershell in depth"
+    ],
+    "phone-development": [
+        "freeswitch cookbook",
+        "sams teach yourself windows phone 7 game programming in 24 hours"
+    ],
+    "server": [
+        "freeswitch cookbook",
+        "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition"
+    ],
+    "audio": [
+        "podcasting bible",
+        "sams teach yourself windows phone 7 game programming in 24 hours"
+    ],
+    ".net-framework": [
+        "understanding linux network internals"
+    ],
+    "linux": [
+        "understanding linux network internals",
+        "exploring beaglebone, 2nd edition"
+    ],
+    "network": [
+        "understanding linux network internals"
+    ],
+    "analytics": [
+        "complete web monitoring"
+    ],
+    "flex": [
+        "learning flex 3",
+        "impractical python projects"
+    ],
+    "yahoo": [
+        "learning flex 3"
+    ],
+    "html": [
+        "sams teach yourself html5 in 10 minutes, 5th edition",
+        "html5 foundations",
+        "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile"
+    ],
+    "html5": [
+        "sams teach yourself html5 in 10 minutes, 5th edition",
+        "html5 foundations",
+        "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile"
+    ],
+    "ipad": [
+        "sams teach yourself ios 5 application development in 24 hours, 3rd edition"
+    ],
+    "gis": [
+        "gis for web developers"
+    ],
+    "wordpress": [
+        "build your own wicked wordpress themes"
+    ],
+    "microsoft-office": [
+        "office 2013 for dummies"
+    ],
+    "amazon-kindle-fire": [
+        "fire tablets for dummies"
+    ],
+    "app-store": [
+        "fire tablets for dummies",
+        "developing 2d games with unity"
+    ],
+    "sql": [
+        "oracle pl/sql recipes",
+        "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition"
+    ],
+    "sharepoint": [
+        "pro sharepoint 2010 administration",
+        "pro sharepoint 2013 administration, 2nd edition",
+        "sams teach yourself microsoft dynamics crm 2011 in 24 hours"
+    ],
+    "django": [
+        "pro django, 2nd edition"
+    ],
+    "hack": [
+        "learning perl, 6th edition",
+        "exploring the data jungle"
+    ],
+    "perl": [
+        "learning perl, 6th edition"
+    ],
+    "hacking": [
+        "hacking secret ciphers with python",
+        "hacking product design",
+        "exploring the data jungle"
+    ],
+    "visualization": [
+        "sas programming and data visualization techniques",
+        "fundamentals of data visualization"
+    ],
+    "big-data": [
+        "turning silicon into gold",
+        "practical statistics for data scientists"
+    ],
+    "clojure": [
+        "etudes for clojurescript"
+    ],
+    "aws": [
+        "serverless architectures on aws",
+        "python web scraping cookbook"
+    ],
+    "docker": [
+        "exploring microservices",
+        "cloud native applications",
+        "python web scraping cookbook"
+    ],
+    "scala": [
+        "exploring microservices",
+        "scala in depth"
+    ],
+    "numpy": [
+        "exploring data with python",
+        "python one-liners"
+    ],
+    "drupal": [
+        "drupal 7 module development"
+    ],
+    "unity": [
+        "unity 2d game development",
+        "unity 4.x game ai programming",
+        "developing 2d games with unity"
+    ],
+    "in-action": [
+        "ant in action, 2nd edition",
+        "kotlin in action"
+    ],
+    "xcode": [
+        "learning core data for ios"
+    ],
+    "head-first": [
+        "head first html with css & xhtml"
+    ],
+    "visual-basic": [
+        "developing secure applications with visual basic"
+    ],
+    "css3": [
+        "css3 foundations",
+        "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile"
+    ],
+    "objective-c": [
+        "beginning ios programming",
+        "programming android, 2nd edition"
+    ],
+    "blockchain": [
+        "architecting enterprise blockchain solutions"
+    ],
+    "vb": [
+        "pro linq"
+    ],
+    "visual-studio": [
+        "pro linq"
+    ],
+    "arduino": [
+        "building arduino projects for the internet of things"
+    ],
+    "mariadb": [
+        "migrating to mariadb"
+    ],
+    "citrix": [
+        "xenserver administration handbook"
+    ],
+    "regular-expressions": [
+        "learning perl 6",
+        "python one-liners"
+    ],
+    "cisco": [
+        "investigating the cyber breach"
+    ],
+    "postgresql": [
+        "r web scraping quick start guide",
+        "serious python"
+    ],
+    "mysql": [
+        "learning php & mysql, 2nd edition"
+    ],
+    "outlook": [
+        "microsoft outlook 2013 plain & simple"
+    ],
+    "jira": [
+        "practical jira administration"
+    ],
+    "raspberry-pi": [
+        "arduino music and audio projects"
+    ],
+    "ethereum": [
+        "ethereum for web developers"
+    ],
+    "machine-learning": [
+        "python one-liners"
+    ],
+    "node": [
+        "react and react native, 2nd edition",
+        "learning selenium testing tools with python"
+    ],
+    "node.js": [
+        "react and react native, 2nd edition",
+        "practical modern javascript"
+    ],
+    "tensorflow": [
+        "python machine learning, 3rd edition"
+    ],
+    "ibm": [
+        "unix for oracle dbas pocket reference"
+    ],
+    "3d": [
+        "ubuntu hacks",
+        "adobe creative cloud all-in-one for dummies, 2nd edition"
+    ],
+    "ubuntu": [
+        "ubuntu hacks"
+    ],
+    "twitter": [
+        "sams teach yourself the twitter api in 24 hours",
+        "the developer's guide to social programming"
+    ],
+    "json": [
+        "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition"
+    ],
+    "ajax": [
+        "simply javascript",
+        "python web scraping cookbook"
+    ],
+    "opengl": [
+        "expert android"
+    ],
+    "cocoa": [
+        "learn ios 7 app development"
+    ],
+    "hibernate": [
+        "hibernate recipes, 2nd edition"
+    ],
+    "spring": [
+        "hibernate recipes, 2nd edition"
+    ],
+    "freebsd": [
+        "absolute freebsd, 3rd edition"
+    ],
+    "bash": [
+        "the linux command line, 2nd edition"
+    ],
+    "fonts": [
+        "web design playground"
+    ],
+    "microsoft-azure": [
+        "exploring cloud computing",
+        "programming for the internet of things"
+    ],
+    "ejb": [
+        "ejb 3.0 database persistence with oracle fusion middleware 11g"
+    ],
+    "rails": [
+        "rails 3 in action"
+    ],
+    "soap": [
+        "perl and xml"
+    ],
+    "jquery": [
+        "sams teach yourself microsoft expression web 4 in 24 hours, 2nd edition",
+        "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile"
+    ],
+    "javafx": [
+        "javafx for dummies"
+    ],
+    "asp.net": [
+        "professional asp.net mvc 5"
+    ],
+    "mvc": [
+        "professional asp.net mvc 5"
+    ],
+    "indesign": [
+        "adobe creative cloud all-in-one for dummies, 2nd edition"
+    ],
+    "photoshop": [
+        "adobe creative cloud all-in-one for dummies, 2nd edition"
+    ],
+    "apache": [
+        "hadoop: the definitive guide, 3rd edition",
+        "sams teach yourself apache spark in 24 hours"
+    ],
+    "mapreduce": [
+        "hadoop: the definitive guide, 3rd edition",
+        "mapreduce design patterns"
+    ],
+    "wpf": [
+        "programming c# 5.0"
+    ],
+    "training-kit": [
+        "pro powershell for database developers"
+    ],
+    "websocket": [
+        "practical jsf in java ee 8",
+        "laravel: up and running"
+    ],
+    "apache-spark": [
+        "python interviews",
+        "sams teach yourself apache spark in 24 hours"
+    ],
+    "bsd": [
+        "ios and os x network programming cookbook"
+    ],
+    "neural-networks": [
+        "exploring data science"
+    ],
+    "lisp": [
+        "common lisp recipes"
+    ],
+    "active-directory": [
+        "pro microsoft hyper-v 2019"
+    ],
+    "hyper-v": [
+        "pro microsoft hyper-v 2019"
+    ],
+    "eclipse": [
+        "learn opengl es"
+    ],
+    "vba": [
+        "c# database basics"
+    ],
+    "angular": [
+        "beginning angularjs"
+    ],
+    "angularjs": [
+        "beginning angularjs"
+    ],
+    "playstation": [
+        "developing 2d games with unity"
+    ],
+    "xbox": [
+        "developing 2d games with unity"
+    ],
+    "backbone": [
+        "building node applications with mongodb and backbone"
+    ],
+    "mongodb": [
+        "building node applications with mongodb and backbone"
+    ],
+    "nosql": [
+        "beginning big data with power bi and excel 2013"
+    ]
+}

@@ -5,10 +5,10 @@ import StarRating from "../components/starrating"
 
 
 
-let library = {}
-let assegnazioni = {}
+let library = {}                                                          //creazione libreria(oggetto) vuota (contenitore)
+let assegnazioni = {}                                                     //creazione oggetto vuoto per assegnazioni
 
-const Books = props => (
+const Books = props => (                                                   
   <StaticQuery
     query={graphql`
       query {
@@ -22,58 +22,60 @@ const Books = props => (
           }
         }
       }
-    `}
+    `}                                                                          //query trasferita da grafiql (fino ad edges)
     render={data => (
       <>
         <Layout location="/destinations" title="Destinations">
-          {get_Categories(data.allBookstoreJson.edges)}
+          {get_Categories(data.allBookstoreJson.edges)}                            {/*invia insieme(data.allbookstorejson.edges) alla funzione get categories */}
         </Layout>
       </>
     )}
   />
-)
+)                                                                                 //inserimento query da grafiql dentro la variabile data
 
-// 
+function gene(){
+  console.log("ciao")
+}
 
-function get_Categories(items) {
-  let categories = {}
+function get_Categories(items) {                                                  //funzione che riceve l'insieme data.allbookstorejson.edges
+  let categories = {}                                                             // variabile oggetto vuoto categories
 
   // Daniel
-  items.forEach(item => {
-    let iLen = item.node.categories.length
-    let title = item.node.title
-    let categs = item.node.categories
-    let rtn = item.node.rating
-    let obj = { "title": title, "rating": rtn, "categories": categs }
-    try {
-      categories[iLen].push(obj)
-    } catch {
-      categories[iLen] = []
-      categories[iLen].push(obj)
+  items.forEach(item => {                                                         //foreach per ogni item               
+    let iLen = item.node.categories.length                                        //creazione variabile numero categorie libro
+    let title = item.node.title                                                   //creazione variabile titolo del libro
+    let categs = item.node.categories                                             //creazione variabile categorie per libro
+    let rtn = item.node.rating                                                    //creazione variabile rating per libro 
+    let obj = { "title": title, "rating": rtn, "categories": categs }             //creazione obj variabile con chiave "title" valore title creata a riga 44 chiave rating chiave categories
+    try {                                                                         //try
+      categories[iLen].push(obj)                                                  //appendi obj alla lista categories con chiave "numero categorie"
+    } catch {                                                                     //se non esiste quella chiave fallisce e 
+      categories[iLen] = []                                                       //crea la chiave richiesta con valore lista vuota
+      categories[iLen].push(obj)                                                  //esegui nuovamente l'inserimento
     }
   })
 
 
-  Object.keys(categories).forEach(function (item, index) {
-    let keylist = categories[item]
-    keylist.forEach(libro => {
-      let totcategories = libro.categories.length               // variabile = numero di categorie dentro libro
-      if (totcategories > 0) {
-        libro.categories.forEach(cat => {
-          set_Libro (libro.title, libro.rating, cat)
+  Object.keys(categories).forEach(function (item, index) {                         //crea una lista delle chiavi presenti dentro l'oggetto (orgCategories.json) poi foreach
+    let keylist = categories[item]                                                 //keylist = insieme + chiave
+    keylist.forEach(libro => {                                                     // per ogni libro dentro keylist
+      let totcategories = libro.categories.length                                  // totcategories = numero di categorie dentro libro
+      if (totcategories > 0) {                                                     //se le categorie dentro libro sono > 0 
+        libro.categories.forEach(cat => {                                          //per ogni cat dentro il libro
+          set_Libro (libro.title, libro.rating, cat)                               // esegui set libro con titolo rating e categorie di quel libro
 
           
         });
       } else {
-        set_Libro (libro.title, libro.rating, "non_definito")
+        set_Libro (libro.title, libro.rating, "non_definito")                       //oppure esegui set libro ma la categoria non è definita
       }
 
-    });                                                         //keylist = insieme + chiave
+    });                                                         
 
   })
 
 
-  console.log(JSON.stringify(library))
+  console.log(JSON.stringify(assegnazioni))                                              //visualizza a schermo il contenuto di library
 
 
 
@@ -81,28 +83,28 @@ function get_Categories(items) {
 
 }
 
-function set_Assegnazione(titolo, categoria){
-  try {
-    assegnazioni[categoria].push(titolo)
-  } catch {
-    assegnazioni[categoria] = [titolo]
+function set_Assegnazione(titolo, categoria){                                           //funzione assegnazione si aspetta un titolo e categoria
+  try {               
+    assegnazioni[categoria].push(titolo)                                                //inserisci titolo libro dentro chiave categoria 
+  } catch {                                                                             //se la chiave categoria non esiste
+    assegnazioni[categoria] = [titolo]                                                  //crea la chiave ed inserisce la lista con il primo dei titoli
   }
 }
 
-function set_Libro (titolo, rating, categoria) {
-  const libro = {
+function set_Libro (titolo, rating, categoria) {                                        //funzione set libro che si aspetta titolo rating e categoria
+  const libro = {                                                                       //creo un'oggetto libro che contiene titolo e rating
     titolo,
     rating
-  }
+  }                                                                                     //se il nome della chiave è uguale al nome della variabile, si può evitare di scrivere chiave : {valore}
  
-  try {
-    if (rating > library[categoria].rating) {
-      library[categoria] = libro
-      set_Assegnazione(titolo, categoria)
+  try { 
+    if (rating > library[categoria].rating) {                                           // se il rating del libro ricevuto è > di quello assegnato alla categoria
+      library[categoria] = libro                                                        // assegna il libro ricevuto a quella categoria
+      set_Assegnazione(titolo, categoria)                                               //esegui set assegnazione con nuovo titolo e stessa categoria
     }
-  } catch {
-    library[categoria] = libro
-    set_Assegnazione(titolo, categoria)
+  } catch {                                                                             //se fallisce il confronto per mancanza di dati
+    library[categoria] = libro                                                          //crea la chiave categoria dentro library e gli assegna il libro
+    set_Assegnazione(titolo, categoria)                                                 //richiama set assegnazione con libro e categoria
   }
 }
 
