@@ -52,7 +52,7 @@ function nodeView(nodi){                                                   //fun
       let path = "/books/"                                                 // libro = item.node ( percorso per i nodi dei libri riga 10)
       objReturn.push(                                                      //push dentro objreturn ogni titolo del libro 
         <Link className="my-1 mx-4 p-4 w-1/6 overflow-hidden rounded-md bg-gradient-to-r from-green-500" 
-        key={"Libro" + i.toString}                                   //creazione link tramite componente gatsby key, to = href (html) title (anteprima link)
+        key={"Libro" + i.toString()}                                   //creazione link tramite componente gatsby key, to = href (html) title (anteprima link)
         to={path + getIsbn(libro.isbn13, libro.isbn10)}                    //localhost8080/books/isbnlibro   + richiamo funzione che trova  isbn
         title={"link to " + libro.title }>
         {libro.title}
