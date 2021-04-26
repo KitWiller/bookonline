@@ -44,6 +44,11 @@ function get_Risultato(items) {
     let libro = Object.assign({}, item.node); // clono il nodo nella variabile "libro" con il contenuto del nodo, così da manipolarlo e spedirlo dopo
     delete libro.categories // cancello la chiave categories (ed il suo contenuto) dalla variabile "libro", poiché dovrò spedire il libro con una categoria per volta
 
+    console.log(JSON.stringify({
+      "old": item.node,
+      "new": libro
+    }))
+
 
     // qui non conto più su libro.length poiché ho cancellato le categorie, quindi devo tornare a leggere nel nodo relativo ad item (riga 40)
     if ( item.node.categories.length > 0 ) {
@@ -60,7 +65,7 @@ function get_Risultato(items) {
 
   })
 
-  console.log(JSON.stringify(library))
+  
   return (<div className="flex flex-wrap -mx-1 overflow-hidden">{[]}</div>)
 }
 
