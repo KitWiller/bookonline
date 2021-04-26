@@ -2,7 +2,6 @@ import React from "react"
 import { StaticQuery, graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import StarRating from "../components/starrating"
-import CatBox from "../components/catbox"
 
 
 let books = {}
@@ -19,9 +18,9 @@ const Books = props => (
               isbn13
               title
               rating
-              categories
               image
               price
+              categories
             }
           }
         }
@@ -36,44 +35,33 @@ const Books = props => (
     )}
   />
 )                                                                                 //inserimento query da grafiql dentro la variabile data
-
 function get_Risultato(items) {
 
   items.forEach(item => {
 
-    let libro = item.node
-    let iTot = libro.categories.length
+    books[item.node.isbn13] = item.node // Inserisco il nodo nella struttura books, con chiave isbn13
 
-    books[libro.isbn13] = libro
+    let libro = Object.assign({}, item.node); // clono il nodo nella variabile "libro" con il contenuto del nodo, così da manipolarlo e spedirlo dopo
+    delete libro.categories // cancello la chiave categories (ed il suo contenuto) dalla variabile "libro", poiché dovrò spedire il libro con una categoria per volta
 
-    if (iTot > 0) {
-      libro.categories.forEach(cat => {
-        set_Libro (libro.title, libro.rating, cat, libro.image)
-      });
-    } else {
-      set_Libro (libro.title, libro.rating, "non_definito", libro.image)
+
+    // qui non conto più su libro.length poiché ho cancellato le categorie, quindi devo tornare a leggere nel nodo relativo ad item (riga 40)
+    if ( item.node.categories.length > 0 ) {
+      item.node.categories.forEach(category => {
+        libro.category = category // poiché alla riga 45 ho cancellato le categorie, ora sono libero di creare una chiave categoria e di valorizzarla mentre scorro item.node.categories
+        set_Libro (libro) // qui spedisco il libro con la singola categoria
+      })
+
+    } else { // la riga 47 ha fallito, quindi non esistono categorie in item.node.categories, pertanto posso creare la category "non definito" e poi spedire il libro
+
+      libro.category = "non_definito"
+      set_Libro (libro)
     }
+
   })
 
-  const igroup = 8
-  let objreturn = []
-  Object.keys(library).forEach(category => {
-    const book = library[category]
-  /* objreturn.push{
-      <CatBox titolo={libro.title} rating={libro.rating} prezzo={libro.pr}>
-        <div>
-          Ciao
-        </div>
-      </CatBox>
-    }
-    */
-  }); 
- 
-                                               
-
-
-  //console.log(JSON.stringify(library))
-  return (<div className="flex flex-wrap -mx-1 overflow-hidden">{objreturn}</div>)
+  console.log(JSON.stringify(library))
+  return (<div className="flex flex-wrap -mx-1 overflow-hidden">{[]}</div>)
 }
 
 function get_Categories(items) {                                                  //funzione che riceve l'insieme data.allbookstorejson.edges
@@ -84,10 +72,8 @@ function get_Categories(items) {                                                
     let iLen = item.node.categories.length                                        //creazione variabile numero categorie libro
     let title = item.node.title                                                   //creazione variabile titolo del libro
     let categs = item.node.categories                                             //creazione variabile categorie per libro
-    let rtn = item.node.rating
-    let img = item.node.image 
-    let price = item.node.price                                                    //creazione variabile rating per libro 
-    let obj = { "title": title, "rating": rtn, "categories": categs, "image": img }             //creazione obj variabile con chiave "title" valore title creata a riga 44 chiave rating chiave categories
+    let rtn = item.node.rating                                                    //creazione variabile rating per libro 
+    let obj = { "title": title, "rating": rtn, "categories": categs }             //creazione obj variabile con chiave "title" valore title creata a riga 44 chiave rating chiave categories
     try {                                                                         //try
       categories[iLen].push(obj)                                                  //appendi obj alla lista categories con chiave "numero categorie"
     } catch {                                                                     //se non esiste quella chiave fallisce e 
@@ -97,18 +83,18 @@ function get_Categories(items) {                                                
   })
 
 
-  Object.keys(categories).forEach(function (item, index) {                         //ottiene una lista delle chiavi presenti dentro l'oggetto (orgCategories.json) poi foreach
+  Object.keys(categories).forEach(function (item, index) {                         //crea una lista delle chiavi presenti dentro l'oggetto (orgCategories.json) poi foreach
     let keylist = categories[item]                                                 //keylist = insieme + chiave
     keylist.forEach(libro => {                                                     // per ogni libro dentro keylist
       let totcategories = libro.categories.length                                  // totcategories = numero di categorie dentro libro
       if (totcategories > 0) {                                                     //se le categorie dentro libro sono > 0 
         libro.categories.forEach(cat => {                                          //per ogni cat dentro il libro
-          set_Libro (libro.title, libro.rating, cat, libro.image, libro.price)                  // esegui set libro con titolo rating e categorie di quel libro
+          set_Libro (libro.title, libro.rating, cat)                               // esegui set libro con titolo rating e categorie di quel libro
 
           
         });
       } else {
-        set_Libro (libro.title, libro.rating, "non_definito", libro.image, libro.price)                       //oppure esegui set libro ma la categoria non è definita
+        set_Libro (libro.title, libro.rating, "non_definito")                       //oppure esegui set libro ma la categoria non è definita
       }
 
     });                                                         
@@ -116,7 +102,7 @@ function get_Categories(items) {                                                
   })
 
 
-  // console.log(JSON.stringify(assegnazioni))                                              //visualizza a schermo il contenuto di library
+  console.log(JSON.stringify(assegnazioni))                                              //visualizza a schermo il contenuto di library
 
 
 
@@ -132,24 +118,27 @@ function set_Assegnazione(titolo, categoria){                                   
   }
 }
 
-function set_Libro (titolo, rating, categoria, immagine, prezzo) {                      //funzione set libro che si aspetta titolo rating e categoria
-  const libro = {                                                                       //creo un'oggetto libro che contiene titolo e rating
-    titolo,
-    rating,
-    immagine,
-    prezzo
-  }                                                                                     //se il nome della chiave è uguale al nome della variabile, si può evitare di scrivere chiave : {valore}
+function set_Libro (libro) {                                        //funzione set libro che si aspetta titolo rating e categoria
+  //const libro = {                                                                       //creo un'oggetto libro che contiene titolo e rating
+  //  titolo,
+  //  rating
+  //}                                                                                     //se il nome della chiave è uguale al nome della variabile, si può evitare di scrivere chiave : {valore}
  
+
+
+  // qui non serve più costruire il libro, poiché viene già inviato completo di tutto
+
   try { 
-    if (rating > library[categoria].rating) {                                           // se il rating del libro ricevuto è > di quello assegnato alla categoria
-      library[categoria] = libro                                                        // assegna il libro ricevuto a quella categoria
-      set_Assegnazione(titolo, categoria)                                               //esegui set assegnazione con nuovo titolo e stessa categoria
+    if (libro.rating > library[libro.category].rating) {                                           // se il rating del libro ricevuto è > di quello assegnato alla categoria
+      library[libro.category] = libro                                                        // assegna il libro ricevuto a quella categoria
+      set_Assegnazione(libro.title, libro.category)                                               //esegui set assegnazione con nuovo titolo e stessa categoria
     }
   } catch {                                                                             //se fallisce il confronto per mancanza di dati
-    library[categoria] = libro                                                          //crea la chiave categoria dentro library e gli assegna il libro
-    set_Assegnazione(titolo, categoria)                                                 //richiama set assegnazione con libro e categoria
+    library[libro.category] = libro                                                          //crea la chiave categoria dentro library e gli assegna il libro
+    set_Assegnazione(libro.title, libro.category)                                                 //richiama set assegnazione con libro e categoria
   }
 }
+
 
 /*
 
