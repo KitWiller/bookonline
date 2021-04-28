@@ -7,25 +7,33 @@ import StarRating from "../components/starrating"
 const BookBox = Book => {
   //costruzione componente + ricezione dati da index
 
+  let cssTop = "rounded-tl-2xl"
+  let cssBottom = "rounded-bl-2xl"
+  let cssWidth = "w-full"
+  let cssSpaces = ""
+  let borderColor = Book.bgColor.replace("bg-", "")
+  const borderSize = 4
+
+  if (! Book.format && ! Book.prices) {
+    cssTop = "rounded-t-2xl"
+    cssBottom = "rounded-b-2xl"
+    cssWidth = "w-48"
+    cssSpaces = "my-1 px-1"
+  }
+
   return (
-    <div className="flex flex-col items-center">
+    <div className={"flex flex-col items-center " + cssSpaces}>
       <Immagine
         image={Book.image}
         alt={Book.alt}
-        scss={"w-full " + Book.bgColor + " rounded-tl-2xl"}
+        scss={cssWidth + " " + Book.bgColor + " " + cssTop}
       />
 
-      <div className="flex flex-wrap -mx-1 overflow-hidden w-full bg-white">
+      <div className={"flex flex-wrap -mx-1 overflow-hidden " + cssWidth + " border-r-" + borderSize + " border-l-" + borderSize + " border-" + borderColor + " bg-white"}>
         {get_Details(Book.format, Book.prices, Book.price)}
       </div>
 
-      <div
-        className={
-          "flex flex-wrap -mx-1 overflow-hidden w-full " +
-          Book.bgColor +
-          " pb-2 rounded-bl-2xl"
-        }
-      >
+      <div className={"flex flex-wrap -mx-1 overflow-hidden " + cssWidth + " " + Book.bgColor + " pb-2 " + cssBottom  }>
         <div className="my-1 px-1 w-1/2 overflow-hidden pl-3">
           <StarRating rating={Book.rating} />
         </div>
@@ -38,8 +46,6 @@ const BookBox = Book => {
 }
 
 function get_Details(format, prices, price) {
-  format = null
-  prices = null
 
   if (format && format.length > 0 || prices && prices.length > 0) {
     return (

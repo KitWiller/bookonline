@@ -30,25 +30,24 @@ const Book = props => {
 
 
                 <div className={"w-full overflow-hidden lg:my-1 lg:px-8 lg:py-8 lg:w-2/3 rounded-r-2xl " + bgColor}>            {/*inizio contenuto*/}
-                    <div className="font-bold text-3xl capitalize text-center"> {page.title} </div>
-                    {getSub(page.subtitle, "italic capitalize text-lg font-bold")}
-                    <UpBold tagName="ISBN: " tagValue={getIsbn(page.isbn13, page.isbn10)} />
-                    <UpBold tagName="Autore: " tagValue={page.author} />
-                    <UpBold tagName="Anno: " tagValue={page.year} />
-                    <UpBold tagName="Pagine: " tagValue={page.pages} />
-                    <UpBold tagName="Categories: ">
-                        <Reader
-                            lista={page.categories}
-                            prefix="categories"
-                            css="inline-block pr-2"
-                            isLink={true}
-                            mainPath="categories" />
-                    </UpBold>
-                    <UpBold tagName="Description: " tagValue={page.description} />
+                    
+                    <div className="font-bold text-6xl capitalize text-center pb-2"> {page.title} </div>
+                    <div className="font-semibold text-4xl capitalize text-center"> {page.subtitle} </div>
 
-                    <div className="">
-                        asdf
-                    </div>
+                    <div className="font-thin text-3xl capitalize py-4">{page.description}</div>
+
+                        <UpBold tagName="ISBN: " tagValue={getIsbn(page.isbn13, page.isbn10)} />
+                        <UpBold tagName="Autore: " tagValue={page.author} />
+                        <UpBold tagName="Anno: " tagValue={page.year} />
+                        <UpBold tagName="Pagine: " tagValue={page.pages} />
+                        <UpBold tagName="Categories: ">
+                            <Reader
+                                lista={page.categories}
+                                prefix="categories"
+                                css="inline-block pr-2"
+                                isLink={true}
+                                mainPath="categories" />
+                        </UpBold>
 
                 </div>                                                                                     {/*fine contenuto*/}
 
@@ -84,3 +83,14 @@ function getIsbn(isbn13, isbn10) {                  //funzione se isbn13 non è 
     return (<span> {objReturn} </span>)
 }
 export default Book
+
+
+/*
+
+                    <UpBold tagName="Description: " tagValue={page.description} />
+
+                    
+                    {getSub(page.subtitle, "italic capitalize text-xl font-bold")}
+
+
+*/

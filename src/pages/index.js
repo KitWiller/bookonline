@@ -35,22 +35,31 @@ const Home = props => (
 )
 
 function get_Books(nodes) {
+  const path = "/books/"
   let objReturn = []
+  let i = 0
 
   nodes.forEach(item => {
     const page = item.node
 
     objReturn.push(
-      <BookBox
-        image={page.image} //invio dei dati al bookbox da costruire
-        alt={"coverimage " + page.title}
-        price={page.price}
-        rating={page.rating}
-        title={page.title}
-        img={page.img}
-        bgColor=""
-      />
+      <Link
+        key={"Libro" + i.toString()} //creazione link tramite componente gatsby key, to = href (html) title (anteprima link)
+        to={path + getIsbn(page.isbn13, page.isbn10)} //localhost8080/books/isbnlibro   + richiamo funzione che trova  isbn
+        title={"link to " + page.title}
+      >
+        <BookBox
+          image={page.image} //invio dei dati al bookbox da costruire
+          alt={"coverimage " + page.title}
+          price={page.price}
+          rating={page.rating}
+          title={page.title}
+          img={page.img}
+          bgColor="bg-green-500"
+        />
+      </Link>
     )
+    i++
   })
 
   return objReturn
