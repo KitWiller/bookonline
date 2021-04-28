@@ -15,9 +15,9 @@ function getPrices(prezzi, lowest, pcss){
     let lcss = ""
     prezzi.forEach(prezzo => {                              
         if(lowest === prezzo.price) {                   //se il prezzo più basso === variabile price (prezzo più basso)
-            lcss = pcss + " bg-red-600 text-white"              //sfondo rosso solo per il prezzo più basso
+            lcss = pcss              //sfondo rosso solo per il prezzo più basso
         } else {
-            lcss = pcss
+            lcss = ""
         } 
 
     

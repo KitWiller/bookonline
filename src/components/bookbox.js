@@ -1,43 +1,49 @@
-
-import React from 'react'
+import React from "react"
 import Reader from "../components/reader"
-import Immagine from './immagine'
-import PriceAll from './prezzi'
-import StarRating from '../components/starrating'
-import Book from '../templates/book'
+import Immagine from "./immagine"
+import PriceAll from "./prezzi"
+import StarRating from "../components/starrating"
+import Book from "../templates/book"
 
-const BookBox = Book => {   //costruzione componente + ricezione dati da index
-    return (
-        <div className="flex flex-col items-center" >
-        
-            <Immagine image={Book.image} alt={Book.alt} scss="-mx-20 -my-10" />
+const BookBox = Book => {
+  //costruzione componente + ricezione dati da index
+  const bgColor = "bg-yellow-500"
 
-            <div className="items-left ">
-  
-                <div> <span className="font-extrabold">Rating : </span> <StarRating rating = {Book.rating} /> </div> 
-                <div> <span className="font-extrabold"> Lowest Price : </span>  {Book.price}   </div>
-                
-                <div> <span className="font-extrabold">Formats : </span> </div>
-                <Reader  
-                lista = {Book.format}
-                prefix = "format" />                         
-                
-                <div>
-                    <span className="font-extrabold"> More sellers: </span> 
-                    <PriceAll 
-                    prices = {Book.prices}
-                    price = {Book.price}
-                    pcss = "font-extrabold"
-                    />
-                </div>
+  return (
+    <div className="flex flex-col items-center">
+      <Immagine
+        image={Book.image}
+        alt={Book.alt}
+        scss={"w-full " + bgColor + " rounded-t-2xl"}
+      />
 
-            </div>
+      <div className="flex flex-wrap -mx-1 overflow-hidden w-full">
+        <div className="my-1 px-1 w-1/2 overflow-hidden pl-3">
+          <span className="font-extrabold">Formats : </span>
+          <Reader lista={Book.format} prefix="format" />
+        </div>
+        <div className="my-1 px-1 w-1/2 overflow-hidden pr-3 text-right">
+          <span className="font-extrabold"> More sellers: </span>
+          <PriceAll
+            prices={Book.prices}
+            price={Book.price}
+            pcss="font-extrabold"
+          />
+        </div>
+      </div>
 
-        </div>)
-                                                                    // ul unordered list elenco puntato
+      <div className={"flex flex-wrap -mx-1 overflow-hidden w-full " + bgColor + " pb-2 rounded-b-2xl"}>
+        <div className="my-1 px-1 w-1/2 overflow-hidden pl-3">
+          <StarRating rating={Book.rating} />
+        </div>
+        <div className="my-1 px-1 w-1/2 overflow-hidden pr-3 text-right">
+          {Book.price}
+        </div>
+      </div>
+    </div>
+  )
+  // ul unordered list elenco puntato
 }
-
-
 
 /*
 function getFormat(format){                                         
@@ -93,8 +99,8 @@ function getPrices(prezzi, lowest, pcss){
 
     return objReturn
 }  
-*/                      
+*/
 
 export default BookBox
 
-//"https://itbook.store/img/star.png" 
+//"https://itbook.store/img/star.png"

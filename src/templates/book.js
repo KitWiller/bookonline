@@ -13,7 +13,7 @@ const Book = props => {
             <div className="flex flex-wrap overflow-hidden lg:-mx-1">                                  {/*contenitore spalla + contenuto*/}
 
 
-                <div className="w-full overflow-hidden lg:my-1 lg:px-1 lg:w-1/3 bg-blue-900 text-white"> {/*inizio spalla*/}
+                <div className="w-full overflow-hidden lg:my-1 lg:px-1 lg:w-1/3"> {/*inizio spalla*/}
                     <BookBox
                         image={page.image}     //invio dei dati al bookbox da costruire
                         alt={"coverimage " + page.title}
