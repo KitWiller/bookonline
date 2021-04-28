@@ -7,6 +7,8 @@ import StarRating from "../components/starrating"
 const BookBox = Book => {
   //costruzione componente + ricezione dati da index
 
+  console.log(JSON.stringify(Book))    
+
   let cssTop = "rounded-tl-2xl"
   let cssBottom = "rounded-bl-2xl"
   let cssWidth = "w-full"
@@ -30,7 +32,10 @@ const BookBox = Book => {
       />
 
       <div className={"flex flex-wrap -mx-1 overflow-hidden " + cssWidth + " border-r-" + borderSize + " border-l-" + borderSize + " border-" + borderColor + " bg-white"}>
+        
         {get_Details(Book.format, Book.prices, Book.price)}
+          <Reader lista={Book.categories} prefix="categ" css="px-2" />
+
       </div>
 
       <div className={"flex flex-wrap -mx-1 overflow-hidden " + cssWidth + " " + Book.bgColor + " pb-2 " + cssBottom  }>

@@ -14,6 +14,7 @@ const Home = props => (
               title
               isbn10
               isbn13
+              categories
               image
               rating
               price
@@ -55,6 +56,7 @@ function get_Books(nodes) {
           rating={page.rating}
           title={page.title}
           img={page.img}
+          categories={page.categories}
           bgColor="bg-green-500"
         />
       </Link>
