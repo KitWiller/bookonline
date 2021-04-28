@@ -16,21 +16,16 @@ const BookBox = Book => {
       />
 
       <div className="flex flex-wrap -mx-1 overflow-hidden w-full bg-white">
-        <div className="my-1 px-1 w-1/2 overflow-hidden pl-3">
-          <span className="font-extrabold">Formats : </span>
-          <Reader lista={Book.format} prefix="format" />
-        </div>
-        <div className="my-1 px-1 w-1/2 overflow-hidden pr-3 text-right">
-          <span className="font-extrabold"> More sellers: </span>
-          <PriceAll
-            prices={Book.prices}
-            price={Book.price}
-            pcss="font-extrabold"
-          />
-        </div>
+        {get_Details(Book.format, Book.prices, Book.price)}
       </div>
 
-      <div className={"flex flex-wrap -mx-1 overflow-hidden w-full " + Book.bgColor + " pb-2 rounded-bl-2xl"}>
+      <div
+        className={
+          "flex flex-wrap -mx-1 overflow-hidden w-full " +
+          Book.bgColor +
+          " pb-2 rounded-bl-2xl"
+        }
+      >
         <div className="my-1 px-1 w-1/2 overflow-hidden pl-3">
           <StarRating rating={Book.rating} />
         </div>
@@ -40,65 +35,28 @@ const BookBox = Book => {
       </div>
     </div>
   )
-  // ul unordered list elenco puntato
 }
 
-/*
-function getFormat(format){                                         
-    let objReturn= []
+function get_Details(format, prices, price) {
+  format = null
+  prices = null
 
-
-    let i = 0
-    format.forEach(formato => {                                     //ciclo foreach per ogni membo della lista formats
-       objReturn.push(
-           
-            <li key={"format_" + i.toString()}> {formato} </li>      
-            // <li></li> elemento di lista elenco puntat 
-        
-        )       // ID div format + format che contiene ad ogni giro di ciclo uno dei valori della lista
-    
-        i++
-    });
-
-  return objReturn
-} 
-
-function getPrices(prezzi, lowest, pcss){
-    let objReturn = []
-   
-    let i = 0
-    let lcss = ""
-    
-    prezzi.forEach(prezzo => {                              
-        if(lowest === prezzo.price) {                   //se il prezzo più basso === variabile price (prezzo più basso)
-            lcss = pcss + " bg-red-600 text-white"              //sfondo rosso solo per il prezzo più basso
-        } else {
-            lcss = pcss
-        } 
-
-    
-       
-            
-        
-
- 
-        objReturn.push(                                            //sfondo rosso prezzo basso class name = lcss
-        <div key={"price_" + i.toString()} className={lcss}>      
-            <span> {prezzo.store} </span> - 
-            <span> {prezzo.price} </span>
-            
-        </div>)
-        
-        /*console.log(prezzo.store + i.toString())
-        console.log(prezzo.price)
-        console.log()
-        i++
-    })
-
-    return objReturn
-}  
-*/
+  if (format && format.length > 0 || prices && prices.length > 0) {
+    return (
+      <>
+        <div className="my-1 px-1 w-1/2 overflow-hidden pl-3">
+          <span className="font-extrabold">Formats : </span>
+          <Reader lista={format} prefix="format" />
+        </div>
+        <div className="my-1 px-1 w-1/2 overflow-hidden pr-3 text-right">
+          <span className="font-extrabold"> More sellers: </span>
+          <PriceAll prices={prices} price={price} pcss="font-extrabold" />
+        </div>
+      </>
+    )
+  } else {
+    return <></>
+  }
+}
 
 export default BookBox
-
-//"https://itbook.store/img/star.png"
