@@ -3,21 +3,19 @@ import Reader from "../components/reader"
 import Immagine from "./immagine"
 import PriceAll from "./prezzi"
 import StarRating from "../components/starrating"
-import Book from "../templates/book"
 
 const BookBox = Book => {
   //costruzione componente + ricezione dati da index
-  const bgColor = "bg-yellow-500"
 
   return (
     <div className="flex flex-col items-center">
       <Immagine
         image={Book.image}
         alt={Book.alt}
-        scss={"w-full " + bgColor + " rounded-t-2xl"}
+        scss={"w-full " + Book.bgColor + " rounded-tl-2xl"}
       />
 
-      <div className="flex flex-wrap -mx-1 overflow-hidden w-full">
+      <div className="flex flex-wrap -mx-1 overflow-hidden w-full bg-white">
         <div className="my-1 px-1 w-1/2 overflow-hidden pl-3">
           <span className="font-extrabold">Formats : </span>
           <Reader lista={Book.format} prefix="format" />
@@ -32,7 +30,7 @@ const BookBox = Book => {
         </div>
       </div>
 
-      <div className={"flex flex-wrap -mx-1 overflow-hidden w-full " + bgColor + " pb-2 rounded-b-2xl"}>
+      <div className={"flex flex-wrap -mx-1 overflow-hidden w-full " + Book.bgColor + " pb-2 rounded-bl-2xl"}>
         <div className="my-1 px-1 w-1/2 overflow-hidden pl-3">
           <StarRating rating={Book.rating} />
         </div>

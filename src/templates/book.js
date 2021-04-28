@@ -7,6 +7,7 @@ import UpBold from "../components/upperbold"
 
 const Book = props => {
     const page = props.pageContext 
+    const bgColor = "bg-green-500"
     return (
         <Layout>
             
@@ -23,11 +24,12 @@ const Book = props => {
                         format={page.format}
                         prices={page.prices}
                         img={page.img}
+                        bgColor = {bgColor}
                     />
                 </div>                                                                                     {/*fine spalla*/}
 
 
-                <div className="w-full overflow-hidden lg:my-1 lg:px-8 lg:py-8  lg:w-2/3  bg-yellow-400 ">            {/*inizio contenuto*/}
+                <div className={"w-full overflow-hidden lg:my-1 lg:px-8 lg:py-8 lg:w-2/3 rounded-r-2xl " + bgColor}>            {/*inizio contenuto*/}
                     <div className="font-bold text-3xl capitalize text-center"> {page.title} </div>
                     {getSub(page.subtitle, "italic capitalize text-lg font-bold")}
                     <UpBold tagName="ISBN: " tagValue={getIsbn(page.isbn13, page.isbn10)} />
@@ -43,6 +45,10 @@ const Book = props => {
                             mainPath="categories" />
                     </UpBold>
                     <UpBold tagName="Description: " tagValue={page.description} />
+
+                    <div className="">
+                        asdf
+                    </div>
 
                 </div>                                                                                     {/*fine contenuto*/}
 
