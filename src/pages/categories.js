@@ -2,6 +2,7 @@ import React from "react"
 import { StaticQuery, graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import Reader from "../components/reader"
+import BookBox from "../components/bookbox"
 
 const Categories = props => (                                                                        //lettura dati dalla sorgente (file o api)
     <StaticQuery                                                                                      //ed inserimento dentro (scatolone)props
@@ -9,8 +10,14 @@ const Categories = props => (                                                   
       query {                                                                                          
         allBookstoreJson {                                                                               
           edges {
-            node {                                                                                      
-              categories                                                                                         
+            node {
+              title
+              isbn10
+              isbn13
+              categories
+              image
+              rating
+              price                                                                                         
             }
           }
         }

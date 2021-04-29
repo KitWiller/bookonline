@@ -7,13 +7,13 @@ const Layout = ({ location, title, children }) => {
     padding distanza dal margine (pypx)
     */
     return (
-        <div className="flex flex-col h-screen bg-gradient-to-b from-green-400 to-green-900" >
+        <div className="flex flex-col h-screen" >
             
-            <header className="py-1 px-20 bg-green-900 text-white"> 
+            <header className="py-1 text-center bg-green-900 text-white"> 
                 <Navbar />
            </header>
 
-            <main className="flex-1 overflow-y-auto py-9 px-auto sm:px-10 md:px-20 lg:px-30 xl:px-40">
+            <main className="bg-white sm:bg-red-50 md:bg-yellow-50 lg:bg-green-50 xl:bg-blue-50 flex-1 overflow-y-auto px-0 py-5 lg:px-6 xl:px-36">
              {children}
             </main>
 

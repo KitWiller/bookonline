@@ -15,7 +15,7 @@ const Book = props => {
             <div className="flex flex-wrap overflow-hidden lg:-mx-1">                                  {/*contenitore spalla + contenuto*/}
 
 
-                <div className="w-full mb-28 overflow-hidden lg:mb-0 lg:my-1 lg:px-1 lg:w-1/3"> {/*inizio spalla*/}
+                <div className="w-full mb-28 overflow-hidden lg:flex-1 lg:mb-0 lg:my-1 lg:px-1 lg:w-1/3"> {/*inizio spalla*/}
                     <BookBox
                         image={page.image}     //invio dei dati al bookbox da costruire
                         alt={"coverimage " + page.title}
@@ -30,7 +30,7 @@ const Book = props => {
                 </div>                                                                                     {/*fine spalla*/}
 
 
-                <div className={"w-full overflow-hidden lg:my-1 lg:px-8 lg:py-8 lg:w-2/3 rounded-r-2xl rounded-bl-2xl " + bgColor}>            {/*inizio contenuto*/}
+                <div className={"w-full overflow-hidden lg:flex-1 lg:mb-0 lg:my-1 lg:px-8 lg:py-8 lg:w-2/3 rounded-r-2xl " + bgColor}>            {/*inizio contenuto*/}
                     
                     <div className="font-bold text-6xl capitalize text-center pb-2"> {page.title} </div>
                     <div className="font-semibold text-4xl capitalize text-center"> {page.subtitle} </div>
