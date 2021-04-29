@@ -7,7 +7,7 @@ import StarRating from "../components/starrating"
 const BookBox = Book => {
   //costruzione componente + ricezione dati da index
 
-  console.log(JSON.stringify(Book))    
+  // console.log(JSON.stringify(Book))    
 
   let cssTop = "rounded-tl-2xl"
   let cssBottom = "rounded-bl-2xl"
