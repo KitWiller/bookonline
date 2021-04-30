@@ -168,9 +168,11 @@ const Categories = props => {
     "rails",
   ]
   return (
-    <div className="flex flex-wrap -mx-1 overflow-hidden lg:-mx-1">
-      {get_All(props)}
-    </div>
+    <Layout>
+      <div className="flex flex-wrap -mx-1 overflow-hidden lg:-mx-1">
+        {get_All(props)}
+      </div>
+    </Layout>
   )
 }
 
