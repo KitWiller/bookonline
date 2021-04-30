@@ -13,7 +13,12 @@ const BookBox = Book => {
   let cssBottom = "rounded-bl-2xl"
   let cssWidth = "w-full"
   let cssSpaces = ""
-  let borderColor = Book.bgColor.replace("bg-", "")
+  let borderColor = ""
+  try {
+    borderColor = Book.bgColor.replace("bg-", "")
+  } catch {
+    cssSpaces = ""
+  }
   const borderSize = 4
 
   if (! Book.format && ! Book.prices) {
