@@ -57,3 +57,13 @@ plugins: [
 ]
 
 npm install gatsby-plugin-page-creator gatsby-transformer-json
+
+
+
+
+
+  const colors = ["gray","red","yellow","green","blue","indigo","purple","pink"]
+  const iColors = colors.length
+  const iClass = Math.floor(Math.random() * iColors)
+  const iColor = Math.floor(Math.random() * (9 - 1) ) + 1
+  return ( "bg-" + colors[iClass] + "-" + iColor + "00 hover:bg-black hover:text-white" )

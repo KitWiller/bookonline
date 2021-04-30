@@ -1,5 +1,5 @@
 import React from "react"
-import { StaticQuery, graphql, Link } from "gatsby"
+import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Reader from "../components/reader"
 import BookBox from "../components/bookbox"
@@ -182,9 +182,13 @@ function get_All(items) {
 
   items.forEach(item => {
     objReturn.push(
-    <div key={"categ_" + iCount.toString()} className="my-1 px-1 w-full overflow-hidden lg:my-1 lg:px-1 lg:w-1/6 bg-red-400 m-4">
-        {item}
-    </div>
+      <Link 
+        key={"categ_" + iCount.toString()} 
+        to={"/categories/" + item} 
+        className={"my-1 px-1 py-2 w-full overflow-hidden lg:my-1 lg:px-1 lg:w-1/6 m-4 text-center rounded-3xl " + get_Background()}
+        title={"Link to: " + item}>
+          {item}
+      </Link>
     )
     iCount++
   })
@@ -192,7 +196,21 @@ function get_All(items) {
   return objReturn
 }
 
+function get_Background() {
+  return ( "" )
+}
+
 /*
+
+Math.floor(Math.random() * (max - min) ) + min
+
+
+
+
+
+
+
+
 
 const Categories = props => (                                                                        //lettura dati dalla sorgente (file o api)
     <StaticQuery                                                                                      //ed inserimento dentro (scatolone)props
