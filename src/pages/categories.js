@@ -167,10 +167,17 @@ const Categories = props => {
         "bsd",
         "rails"
     ]
+    props.sort()
     return (
-        <div>
-            categories
-        </div>
+        <Layout>
+            <Reader                                                              //uso componente reader per creare ed associare i link alla lista di categorie
+        lista={props}
+        prefix="categoria_"
+        isLink={true}
+        mainPath="categories"
+        css = "px-4 flex-auto"
+    />
+        </Layout>
     )
 }
 
