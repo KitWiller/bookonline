@@ -4,27 +4,26 @@ import Layout from "../components/layout"
 import Reader from "../components/reader"
 import BookBox from "../components/bookbox"
 
-const sQuery =`                                                                               
-query {                                                                                          
-  allBookstoreJson {                                                                               
-    edges {
-      node {
-        title
-        isbn10
-        isbn13
-        categories
-        image
-        rating
-        price                                                                                         
-      }
-    }
-  }
-}                                                             
-`
 
 const Categories = props => (                                                                        //lettura dati dalla sorgente (file o api)
     <StaticQuery                                                                                      //ed inserimento dentro (scatolone)props
-        query={graphql(sQuery)}                                                                                            //lettura mappa fino a categories
+        query={graphql(`                                                                               
+        query {                                                                                          
+          allBookstoreJson {                                                                               
+            edges {
+              node {
+                title
+                isbn10
+                isbn13
+                categories
+                image
+                rating
+                price                                                                                         
+              }
+            }
+          }
+        }                                                             
+        `)}                                                                                            //lettura mappa fino a categories
         render={data => (                                                                         //render comando usato per costruire qualcosa con i dati forniti sopra, insieme chiamato data qui
             <>                                                                                   
                 <Layout>
