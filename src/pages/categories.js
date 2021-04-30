@@ -3,6 +3,8 @@ import { StaticQuery, graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import Reader from "../components/reader"
 import BookBox from "../components/bookbox"
+import NavLink from "../components/navlink"
+
 
 const Categories = props => {
   props = [
@@ -169,7 +171,7 @@ const Categories = props => {
   ]
   return (
     <Layout>
-      <div className="flex flex-wrap -mx-1 overflow-hidden lg:-mx-1">
+      <div className="flex flex-wrap -mx-1 overflow-hidden lg:-mx-1 ">
         {get_All(props)}
       </div>
     </Layout>
@@ -182,8 +184,11 @@ function get_All(items) {
 
   items.forEach(item => {
     objReturn.push(
-    <div key={"categ_" + iCount.toString()} className="my-1 px-1 w-full overflow-hidden lg:my-1 lg:px-1 lg:w-1/6 bg-red-400 m-4">
-        {item}
+    <div key={"categ_" + iCount.toString()} className="text-white text bold my-1 px-1 w-full overflow-hidden lg:my-1 lg:px-1 lg:w-1/6 text-center rounded-full py-1 m-4 bg-gradient-to-t from-green-500 to-blue-900">
+        <NavLink
+        name = {item}
+        path = {"/categories/" + item}
+        />
     </div>
     )
     iCount++
