@@ -184,22 +184,12 @@ function get_All(items) {
 
   items.forEach(item => {
     objReturn.push(
-<<<<<<< HEAD
     <div key={"categ_" + iCount.toString()} className="text-white text bold my-1 px-1 w-full overflow-hidden lg:my-1 lg:px-1 lg:w-1/6 text-center rounded-full py-1 m-4 bg-gradient-to-t from-green-500 to-blue-900">
         <NavLink
         name = {item}
         path = {"/categories/" + item}
         />
     </div>
-=======
-      <Link 
-        key={"categ_" + iCount.toString()} 
-        to={"/categories/" + item} 
-        className={"my-1 px-1 py-2 w-full overflow-hidden lg:my-1 lg:px-1 lg:w-1/6 m-4 text-center rounded-3xl " + get_Background()}
-        title={"Link to: " + item}>
-          {item}
-      </Link>
->>>>>>> c7e8249caf6bb5a7e0c2f6d0a1640164f63dfd05
     )
     iCount++
   })
