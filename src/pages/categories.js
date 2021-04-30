@@ -6,23 +6,7 @@ import BookBox from "../components/bookbox"
 
 const Categories = props => (                                                                        //lettura dati dalla sorgente (file o api)
     <StaticQuery                                                                                      //ed inserimento dentro (scatolone)props
-        query={graphql`                                                                               
-      query {                                                                                          
-        allBookstoreJson {                                                                               
-          edges {
-            node {
-              title
-              isbn10
-              isbn13
-              categories
-              image
-              rating
-              price                                                                                         
-            }
-          }
-        }
-      }                                                             
-    `}                                                                                            //lettura mappa fino a categories
+        query={graphql(getQuery())}                                                                                            //lettura mappa fino a categories
         render={data => (                                                                         //render comando usato per costruire qualcosa con i dati forniti sopra, insieme chiamato data qui
             <>                                                                                   
                 <Layout>
@@ -32,6 +16,26 @@ const Categories = props => (                                                   
         )}
     />
 )
+
+function getQuery(){
+    return (`                                                                               
+    query {                                                                                          
+      allBookstoreJson {                                                                               
+        edges {
+          node {
+            title
+            isbn10
+            isbn13
+            categories
+            image
+            rating
+            price                                                                                         
+          }
+        }
+      }
+    }                                                             
+  `)
+}
 
 function cleandouble(nodi) {                                                                   //funzione che crea una lista dei nodi 
     let lista = []                                                                             //variabile vuota
