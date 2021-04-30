@@ -3,8 +3,6 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Reader from "../components/reader"
 import BookBox from "../components/bookbox"
-import NavLink from "../components/navlink"
-
 
 const Categories = props => {
   props = [
@@ -171,7 +169,7 @@ const Categories = props => {
   ]
   return (
     <Layout>
-      <div className="flex flex-wrap -mx-1 overflow-hidden lg:-mx-1 ">
+      <div className="flex flex-wrap -mx-1 overflow-hidden lg:-mx-1">
         {get_All(props)}
       </div>
     </Layout>
